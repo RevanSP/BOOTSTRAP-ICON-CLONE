@@ -1,0 +1,8202 @@
+[
+  {
+    "iconClass": "bi bi-0-circle",
+    "iconName": "0-circle"
+  },
+  {
+    "iconClass": "bi bi-0-circle-fill",
+    "iconName": "0-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-0-square",
+    "iconName": "0-square"
+  },
+  {
+    "iconClass": "bi bi-0-square-fill",
+    "iconName": "0-square-fill"
+  },
+  {
+    "iconClass": "bi bi-1-circle",
+    "iconName": "1-circle"
+  },
+  {
+    "iconClass": "bi bi-1-circle-fill",
+    "iconName": "1-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-1-square",
+    "iconName": "1-square"
+  },
+  {
+    "iconClass": "bi bi-1-square-fill",
+    "iconName": "1-square-fill"
+  },
+  {
+    "iconClass": "bi bi-123",
+    "iconName": "123"
+  },
+  {
+    "iconClass": "bi bi-2-circle",
+    "iconName": "2-circle"
+  },
+  {
+    "iconClass": "bi bi-2-circle-fill",
+    "iconName": "2-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-2-square",
+    "iconName": "2-square"
+  },
+  {
+    "iconClass": "bi bi-2-square-fill",
+    "iconName": "2-square-fill"
+  },
+  {
+    "iconClass": "bi bi-3-circle",
+    "iconName": "3-circle"
+  },
+  {
+    "iconClass": "bi bi-3-circle-fill",
+    "iconName": "3-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-3-square",
+    "iconName": "3-square"
+  },
+  {
+    "iconClass": "bi bi-3-square-fill",
+    "iconName": "3-square-fill"
+  },
+  {
+    "iconClass": "bi bi-4-circle",
+    "iconName": "4-circle"
+  },
+  {
+    "iconClass": "bi bi-4-circle-fill",
+    "iconName": "4-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-4-square",
+    "iconName": "4-square"
+  },
+  {
+    "iconClass": "bi bi-4-square-fill",
+    "iconName": "4-square-fill"
+  },
+  {
+    "iconClass": "bi bi-5-circle",
+    "iconName": "5-circle"
+  },
+  {
+    "iconClass": "bi bi-5-circle-fill",
+    "iconName": "5-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-5-square",
+    "iconName": "5-square"
+  },
+  {
+    "iconClass": "bi bi-5-square-fill",
+    "iconName": "5-square-fill"
+  },
+  {
+    "iconClass": "bi bi-6-circle",
+    "iconName": "6-circle"
+  },
+  {
+    "iconClass": "bi bi-6-circle-fill",
+    "iconName": "6-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-6-square",
+    "iconName": "6-square"
+  },
+  {
+    "iconClass": "bi bi-6-square-fill",
+    "iconName": "6-square-fill"
+  },
+  {
+    "iconClass": "bi bi-7-circle",
+    "iconName": "7-circle"
+  },
+  {
+    "iconClass": "bi bi-7-circle-fill",
+    "iconName": "7-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-7-square",
+    "iconName": "7-square"
+  },
+  {
+    "iconClass": "bi bi-7-square-fill",
+    "iconName": "7-square-fill"
+  },
+  {
+    "iconClass": "bi bi-8-circle",
+    "iconName": "8-circle"
+  },
+  {
+    "iconClass": "bi bi-8-circle-fill",
+    "iconName": "8-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-8-square",
+    "iconName": "8-square"
+  },
+  {
+    "iconClass": "bi bi-8-square-fill",
+    "iconName": "8-square-fill"
+  },
+  {
+    "iconClass": "bi bi-9-circle",
+    "iconName": "9-circle"
+  },
+  {
+    "iconClass": "bi bi-9-circle-fill",
+    "iconName": "9-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-9-square",
+    "iconName": "9-square"
+  },
+  {
+    "iconClass": "bi bi-9-square-fill",
+    "iconName": "9-square-fill"
+  },
+  {
+    "iconClass": "bi bi-activity",
+    "iconName": "activity"
+  },
+  {
+    "iconClass": "bi bi-airplane",
+    "iconName": "airplane"
+  },
+  {
+    "iconClass": "bi bi-airplane-engines",
+    "iconName": "airplane-engines"
+  },
+  {
+    "iconClass": "bi bi-airplane-engines-fill",
+    "iconName": "airplane-engines-fill"
+  },
+  {
+    "iconClass": "bi bi-airplane-fill",
+    "iconName": "airplane-fill"
+  },
+  {
+    "iconClass": "bi bi-alarm",
+    "iconName": "alarm"
+  },
+  {
+    "iconClass": "bi bi-alarm-fill",
+    "iconName": "alarm-fill"
+  },
+  {
+    "iconClass": "bi bi-alexa",
+    "iconName": "alexa"
+  },
+  {
+    "iconClass": "bi bi-align-bottom",
+    "iconName": "align-bottom"
+  },
+  {
+    "iconClass": "bi bi-align-center",
+    "iconName": "align-center"
+  },
+  {
+    "iconClass": "bi bi-align-end",
+    "iconName": "align-end"
+  },
+  {
+    "iconClass": "bi bi-align-middle",
+    "iconName": "align-middle"
+  },
+  {
+    "iconClass": "bi bi-align-start",
+    "iconName": "align-start"
+  },
+  {
+    "iconClass": "bi bi-align-top",
+    "iconName": "align-top"
+  },
+  {
+    "iconClass": "bi bi-alipay",
+    "iconName": "alipay"
+  },
+  {
+    "iconClass": "bi bi-alphabet",
+    "iconName": "alphabet"
+  },
+  {
+    "iconClass": "bi bi-alphabet-uppercase",
+    "iconName": "alphabet-uppercase"
+  },
+  {
+    "iconClass": "bi bi-alt",
+    "iconName": "alt"
+  },
+  {
+    "iconClass": "bi bi-amazon",
+    "iconName": "amazon"
+  },
+  {
+    "iconClass": "bi bi-amd",
+    "iconName": "amd"
+  },
+  {
+    "iconClass": "bi bi-android",
+    "iconName": "android"
+  },
+  {
+    "iconClass": "bi bi-android2",
+    "iconName": "android2"
+  },
+  {
+    "iconClass": "bi bi-app",
+    "iconName": "app"
+  },
+  {
+    "iconClass": "bi bi-app-indicator",
+    "iconName": "app-indicator"
+  },
+  {
+    "iconClass": "bi bi-apple",
+    "iconName": "apple"
+  },
+  {
+    "iconClass": "bi bi-archive",
+    "iconName": "archive"
+  },
+  {
+    "iconClass": "bi bi-archive-fill",
+    "iconName": "archive-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-90deg-down",
+    "iconName": "arrow-90deg-down"
+  },
+  {
+    "iconClass": "bi bi-arrow-90deg-left",
+    "iconName": "arrow-90deg-left"
+  },
+  {
+    "iconClass": "bi bi-arrow-90deg-right",
+    "iconName": "arrow-90deg-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-90deg-up",
+    "iconName": "arrow-90deg-up"
+  },
+  {
+    "iconClass": "bi bi-arrow-bar-down",
+    "iconName": "arrow-bar-down"
+  },
+  {
+    "iconClass": "bi bi-arrow-bar-left",
+    "iconName": "arrow-bar-left"
+  },
+  {
+    "iconClass": "bi bi-arrow-bar-right",
+    "iconName": "arrow-bar-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-bar-up",
+    "iconName": "arrow-bar-up"
+  },
+  {
+    "iconClass": "bi bi-arrow-clockwise",
+    "iconName": "arrow-clockwise"
+  },
+  {
+    "iconClass": "bi bi-arrow-counterclockwise",
+    "iconName": "arrow-counterclockwise"
+  },
+  {
+    "iconClass": "bi bi-arrow-down",
+    "iconName": "arrow-down"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-circle",
+    "iconName": "arrow-down-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-circle-fill",
+    "iconName": "arrow-down-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-left",
+    "iconName": "arrow-down-left"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-left-circle",
+    "iconName": "arrow-down-left-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-left-circle-fill",
+    "iconName": "arrow-down-left-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-left-square",
+    "iconName": "arrow-down-left-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-left-square-fill",
+    "iconName": "arrow-down-left-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-right",
+    "iconName": "arrow-down-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-right-circle",
+    "iconName": "arrow-down-right-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-right-circle-fill",
+    "iconName": "arrow-down-right-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-right-square",
+    "iconName": "arrow-down-right-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-right-square-fill",
+    "iconName": "arrow-down-right-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-short",
+    "iconName": "arrow-down-short"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-square",
+    "iconName": "arrow-down-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-square-fill",
+    "iconName": "arrow-down-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-down-up",
+    "iconName": "arrow-down-up"
+  },
+  {
+    "iconClass": "bi bi-arrow-left",
+    "iconName": "arrow-left"
+  },
+  {
+    "iconClass": "bi bi-arrow-left-circle",
+    "iconName": "arrow-left-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-left-circle-fill",
+    "iconName": "arrow-left-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-left-right",
+    "iconName": "arrow-left-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-left-short",
+    "iconName": "arrow-left-short"
+  },
+  {
+    "iconClass": "bi bi-arrow-left-square",
+    "iconName": "arrow-left-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-left-square-fill",
+    "iconName": "arrow-left-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-repeat",
+    "iconName": "arrow-repeat"
+  },
+  {
+    "iconClass": "bi bi-arrow-return-left",
+    "iconName": "arrow-return-left"
+  },
+  {
+    "iconClass": "bi bi-arrow-return-right",
+    "iconName": "arrow-return-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-right",
+    "iconName": "arrow-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-right-circle",
+    "iconName": "arrow-right-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-right-circle-fill",
+    "iconName": "arrow-right-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-right-short",
+    "iconName": "arrow-right-short"
+  },
+  {
+    "iconClass": "bi bi-arrow-right-square",
+    "iconName": "arrow-right-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-right-square-fill",
+    "iconName": "arrow-right-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-through-heart",
+    "iconName": "arrow-through-heart"
+  },
+  {
+    "iconClass": "bi bi-arrow-through-heart-fill",
+    "iconName": "arrow-through-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-up",
+    "iconName": "arrow-up"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-circle",
+    "iconName": "arrow-up-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-circle-fill",
+    "iconName": "arrow-up-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-left",
+    "iconName": "arrow-up-left"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-left-circle",
+    "iconName": "arrow-up-left-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-left-circle-fill",
+    "iconName": "arrow-up-left-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-left-square",
+    "iconName": "arrow-up-left-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-left-square-fill",
+    "iconName": "arrow-up-left-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-right",
+    "iconName": "arrow-up-right"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-right-circle",
+    "iconName": "arrow-up-right-circle"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-right-circle-fill",
+    "iconName": "arrow-up-right-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-right-square",
+    "iconName": "arrow-up-right-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-right-square-fill",
+    "iconName": "arrow-up-right-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-short",
+    "iconName": "arrow-up-short"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-square",
+    "iconName": "arrow-up-square"
+  },
+  {
+    "iconClass": "bi bi-arrow-up-square-fill",
+    "iconName": "arrow-up-square-fill"
+  },
+  {
+    "iconClass": "bi bi-arrows",
+    "iconName": "arrows"
+  },
+  {
+    "iconClass": "bi bi-arrows-angle-contract",
+    "iconName": "arrows-angle-contract"
+  },
+  {
+    "iconClass": "bi bi-arrows-angle-expand",
+    "iconName": "arrows-angle-expand"
+  },
+  {
+    "iconClass": "bi bi-arrows-collapse",
+    "iconName": "arrows-collapse"
+  },
+  {
+    "iconClass": "bi bi-arrows-collapse-vertical",
+    "iconName": "arrows-collapse-vertical"
+  },
+  {
+    "iconClass": "bi bi-arrows-expand",
+    "iconName": "arrows-expand"
+  },
+  {
+    "iconClass": "bi bi-arrows-expand-vertical",
+    "iconName": "arrows-expand-vertical"
+  },
+  {
+    "iconClass": "bi bi-arrows-fullscreen",
+    "iconName": "arrows-fullscreen"
+  },
+  {
+    "iconClass": "bi bi-arrows-move",
+    "iconName": "arrows-move"
+  },
+  {
+    "iconClass": "bi bi-arrows-vertical",
+    "iconName": "arrows-vertical"
+  },
+  {
+    "iconClass": "bi bi-aspect-ratio",
+    "iconName": "aspect-ratio"
+  },
+  {
+    "iconClass": "bi bi-aspect-ratio-fill",
+    "iconName": "aspect-ratio-fill"
+  },
+  {
+    "iconClass": "bi bi-asterisk",
+    "iconName": "asterisk"
+  },
+  {
+    "iconClass": "bi bi-at",
+    "iconName": "at"
+  },
+  {
+    "iconClass": "bi bi-award",
+    "iconName": "award"
+  },
+  {
+    "iconClass": "bi bi-award-fill",
+    "iconName": "award-fill"
+  },
+  {
+    "iconClass": "bi bi-back",
+    "iconName": "back"
+  },
+  {
+    "iconClass": "bi bi-backpack",
+    "iconName": "backpack"
+  },
+  {
+    "iconClass": "bi bi-backpack-fill",
+    "iconName": "backpack-fill"
+  },
+  {
+    "iconClass": "bi bi-backpack2",
+    "iconName": "backpack2"
+  },
+  {
+    "iconClass": "bi bi-backpack2-fill",
+    "iconName": "backpack2-fill"
+  },
+  {
+    "iconClass": "bi bi-backpack3",
+    "iconName": "backpack3"
+  },
+  {
+    "iconClass": "bi bi-backpack3-fill",
+    "iconName": "backpack3-fill"
+  },
+  {
+    "iconClass": "bi bi-backpack4",
+    "iconName": "backpack4"
+  },
+  {
+    "iconClass": "bi bi-backpack4-fill",
+    "iconName": "backpack4-fill"
+  },
+  {
+    "iconClass": "bi bi-backspace",
+    "iconName": "backspace"
+  },
+  {
+    "iconClass": "bi bi-backspace-fill",
+    "iconName": "backspace-fill"
+  },
+  {
+    "iconClass": "bi bi-backspace-reverse",
+    "iconName": "backspace-reverse"
+  },
+  {
+    "iconClass": "bi bi-backspace-reverse-fill",
+    "iconName": "backspace-reverse-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-3d",
+    "iconName": "badge-3d"
+  },
+  {
+    "iconClass": "bi bi-badge-3d-fill",
+    "iconName": "badge-3d-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-4k",
+    "iconName": "badge-4k"
+  },
+  {
+    "iconClass": "bi bi-badge-4k-fill",
+    "iconName": "badge-4k-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-8k",
+    "iconName": "badge-8k"
+  },
+  {
+    "iconClass": "bi bi-badge-8k-fill",
+    "iconName": "badge-8k-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-ad",
+    "iconName": "badge-ad"
+  },
+  {
+    "iconClass": "bi bi-badge-ad-fill",
+    "iconName": "badge-ad-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-ar",
+    "iconName": "badge-ar"
+  },
+  {
+    "iconClass": "bi bi-badge-ar-fill",
+    "iconName": "badge-ar-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-cc",
+    "iconName": "badge-cc"
+  },
+  {
+    "iconClass": "bi bi-badge-cc-fill",
+    "iconName": "badge-cc-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-hd",
+    "iconName": "badge-hd"
+  },
+  {
+    "iconClass": "bi bi-badge-hd-fill",
+    "iconName": "badge-hd-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-sd",
+    "iconName": "badge-sd"
+  },
+  {
+    "iconClass": "bi bi-badge-sd-fill",
+    "iconName": "badge-sd-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-tm",
+    "iconName": "badge-tm"
+  },
+  {
+    "iconClass": "bi bi-badge-tm-fill",
+    "iconName": "badge-tm-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-vo",
+    "iconName": "badge-vo"
+  },
+  {
+    "iconClass": "bi bi-badge-vo-fill",
+    "iconName": "badge-vo-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-vr",
+    "iconName": "badge-vr"
+  },
+  {
+    "iconClass": "bi bi-badge-vr-fill",
+    "iconName": "badge-vr-fill"
+  },
+  {
+    "iconClass": "bi bi-badge-wc",
+    "iconName": "badge-wc"
+  },
+  {
+    "iconClass": "bi bi-badge-wc-fill",
+    "iconName": "badge-wc-fill"
+  },
+  {
+    "iconClass": "bi bi-bag",
+    "iconName": "bag"
+  },
+  {
+    "iconClass": "bi bi-bag-check",
+    "iconName": "bag-check"
+  },
+  {
+    "iconClass": "bi bi-bag-check-fill",
+    "iconName": "bag-check-fill"
+  },
+  {
+    "iconClass": "bi bi-bag-dash",
+    "iconName": "bag-dash"
+  },
+  {
+    "iconClass": "bi bi-bag-dash-fill",
+    "iconName": "bag-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-bag-fill",
+    "iconName": "bag-fill"
+  },
+  {
+    "iconClass": "bi bi-bag-heart",
+    "iconName": "bag-heart"
+  },
+  {
+    "iconClass": "bi bi-bag-heart-fill",
+    "iconName": "bag-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-bag-plus",
+    "iconName": "bag-plus"
+  },
+  {
+    "iconClass": "bi bi-bag-plus-fill",
+    "iconName": "bag-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-bag-x",
+    "iconName": "bag-x"
+  },
+  {
+    "iconClass": "bi bi-bag-x-fill",
+    "iconName": "bag-x-fill"
+  },
+  {
+    "iconClass": "bi bi-balloon",
+    "iconName": "balloon"
+  },
+  {
+    "iconClass": "bi bi-balloon-fill",
+    "iconName": "balloon-fill"
+  },
+  {
+    "iconClass": "bi bi-balloon-heart",
+    "iconName": "balloon-heart"
+  },
+  {
+    "iconClass": "bi bi-balloon-heart-fill",
+    "iconName": "balloon-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-ban",
+    "iconName": "ban"
+  },
+  {
+    "iconClass": "bi bi-ban-fill",
+    "iconName": "ban-fill"
+  },
+  {
+    "iconClass": "bi bi-bandaid",
+    "iconName": "bandaid"
+  },
+  {
+    "iconClass": "bi bi-bandaid-fill",
+    "iconName": "bandaid-fill"
+  },
+  {
+    "iconClass": "bi bi-bank",
+    "iconName": "bank"
+  },
+  {
+    "iconClass": "bi bi-bank2",
+    "iconName": "bank2"
+  },
+  {
+    "iconClass": "bi bi-bar-chart",
+    "iconName": "bar-chart"
+  },
+  {
+    "iconClass": "bi bi-bar-chart-fill",
+    "iconName": "bar-chart-fill"
+  },
+  {
+    "iconClass": "bi bi-bar-chart-line",
+    "iconName": "bar-chart-line"
+  },
+  {
+    "iconClass": "bi bi-bar-chart-line-fill",
+    "iconName": "bar-chart-line-fill"
+  },
+  {
+    "iconClass": "bi bi-bar-chart-steps",
+    "iconName": "bar-chart-steps"
+  },
+  {
+    "iconClass": "bi bi-basket",
+    "iconName": "basket"
+  },
+  {
+    "iconClass": "bi bi-basket-fill",
+    "iconName": "basket-fill"
+  },
+  {
+    "iconClass": "bi bi-basket2",
+    "iconName": "basket2"
+  },
+  {
+    "iconClass": "bi bi-basket2-fill",
+    "iconName": "basket2-fill"
+  },
+  {
+    "iconClass": "bi bi-basket3",
+    "iconName": "basket3"
+  },
+  {
+    "iconClass": "bi bi-basket3-fill",
+    "iconName": "basket3-fill"
+  },
+  {
+    "iconClass": "bi bi-battery",
+    "iconName": "battery"
+  },
+  {
+    "iconClass": "bi bi-battery-charging",
+    "iconName": "battery-charging"
+  },
+  {
+    "iconClass": "bi bi-battery-full",
+    "iconName": "battery-full"
+  },
+  {
+    "iconClass": "bi bi-battery-half",
+    "iconName": "battery-half"
+  },
+  {
+    "iconClass": "bi bi-behance",
+    "iconName": "behance"
+  },
+  {
+    "iconClass": "bi bi-bell",
+    "iconName": "bell"
+  },
+  {
+    "iconClass": "bi bi-bell-fill",
+    "iconName": "bell-fill"
+  },
+  {
+    "iconClass": "bi bi-bell-slash",
+    "iconName": "bell-slash"
+  },
+  {
+    "iconClass": "bi bi-bell-slash-fill",
+    "iconName": "bell-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-bezier",
+    "iconName": "bezier"
+  },
+  {
+    "iconClass": "bi bi-bezier2",
+    "iconName": "bezier2"
+  },
+  {
+    "iconClass": "bi bi-bicycle",
+    "iconName": "bicycle"
+  },
+  {
+    "iconClass": "bi bi-bing",
+    "iconName": "bing"
+  },
+  {
+    "iconClass": "bi bi-binoculars",
+    "iconName": "binoculars"
+  },
+  {
+    "iconClass": "bi bi-binoculars-fill",
+    "iconName": "binoculars-fill"
+  },
+  {
+    "iconClass": "bi bi-blockquote-left",
+    "iconName": "blockquote-left"
+  },
+  {
+    "iconClass": "bi bi-blockquote-right",
+    "iconName": "blockquote-right"
+  },
+  {
+    "iconClass": "bi bi-bluetooth",
+    "iconName": "bluetooth"
+  },
+  {
+    "iconClass": "bi bi-body-text",
+    "iconName": "body-text"
+  },
+  {
+    "iconClass": "bi bi-book",
+    "iconName": "book"
+  },
+  {
+    "iconClass": "bi bi-book-fill",
+    "iconName": "book-fill"
+  },
+  {
+    "iconClass": "bi bi-book-half",
+    "iconName": "book-half"
+  },
+  {
+    "iconClass": "bi bi-bookmark",
+    "iconName": "bookmark"
+  },
+  {
+    "iconClass": "bi bi-bookmark-check",
+    "iconName": "bookmark-check"
+  },
+  {
+    "iconClass": "bi bi-bookmark-check-fill",
+    "iconName": "bookmark-check-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmark-dash",
+    "iconName": "bookmark-dash"
+  },
+  {
+    "iconClass": "bi bi-bookmark-dash-fill",
+    "iconName": "bookmark-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmark-fill",
+    "iconName": "bookmark-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmark-heart",
+    "iconName": "bookmark-heart"
+  },
+  {
+    "iconClass": "bi bi-bookmark-heart-fill",
+    "iconName": "bookmark-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmark-plus",
+    "iconName": "bookmark-plus"
+  },
+  {
+    "iconClass": "bi bi-bookmark-plus-fill",
+    "iconName": "bookmark-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmark-star",
+    "iconName": "bookmark-star"
+  },
+  {
+    "iconClass": "bi bi-bookmark-star-fill",
+    "iconName": "bookmark-star-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmark-x",
+    "iconName": "bookmark-x"
+  },
+  {
+    "iconClass": "bi bi-bookmark-x-fill",
+    "iconName": "bookmark-x-fill"
+  },
+  {
+    "iconClass": "bi bi-bookmarks",
+    "iconName": "bookmarks"
+  },
+  {
+    "iconClass": "bi bi-bookmarks-fill",
+    "iconName": "bookmarks-fill"
+  },
+  {
+    "iconClass": "bi bi-bookshelf",
+    "iconName": "bookshelf"
+  },
+  {
+    "iconClass": "bi bi-boombox",
+    "iconName": "boombox"
+  },
+  {
+    "iconClass": "bi bi-boombox-fill",
+    "iconName": "boombox-fill"
+  },
+  {
+    "iconClass": "bi bi-bootstrap",
+    "iconName": "bootstrap"
+  },
+  {
+    "iconClass": "bi bi-bootstrap-fill",
+    "iconName": "bootstrap-fill"
+  },
+  {
+    "iconClass": "bi bi-bootstrap-reboot",
+    "iconName": "bootstrap-reboot"
+  },
+  {
+    "iconClass": "bi bi-border",
+    "iconName": "border"
+  },
+  {
+    "iconClass": "bi bi-border-all",
+    "iconName": "border-all"
+  },
+  {
+    "iconClass": "bi bi-border-bottom",
+    "iconName": "border-bottom"
+  },
+  {
+    "iconClass": "bi bi-border-center",
+    "iconName": "border-center"
+  },
+  {
+    "iconClass": "bi bi-border-inner",
+    "iconName": "border-inner"
+  },
+  {
+    "iconClass": "bi bi-border-left",
+    "iconName": "border-left"
+  },
+  {
+    "iconClass": "bi bi-border-middle",
+    "iconName": "border-middle"
+  },
+  {
+    "iconClass": "bi bi-border-outer",
+    "iconName": "border-outer"
+  },
+  {
+    "iconClass": "bi bi-border-right",
+    "iconName": "border-right"
+  },
+  {
+    "iconClass": "bi bi-border-style",
+    "iconName": "border-style"
+  },
+  {
+    "iconClass": "bi bi-border-top",
+    "iconName": "border-top"
+  },
+  {
+    "iconClass": "bi bi-border-width",
+    "iconName": "border-width"
+  },
+  {
+    "iconClass": "bi bi-bounding-box",
+    "iconName": "bounding-box"
+  },
+  {
+    "iconClass": "bi bi-bounding-box-circles",
+    "iconName": "bounding-box-circles"
+  },
+  {
+    "iconClass": "bi bi-box",
+    "iconName": "box"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-down",
+    "iconName": "box-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-down-left",
+    "iconName": "box-arrow-down-left"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-down-right",
+    "iconName": "box-arrow-down-right"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-down",
+    "iconName": "box-arrow-in-down"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-down-left",
+    "iconName": "box-arrow-in-down-left"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-down-right",
+    "iconName": "box-arrow-in-down-right"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-left",
+    "iconName": "box-arrow-in-left"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-right",
+    "iconName": "box-arrow-in-right"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-up",
+    "iconName": "box-arrow-in-up"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-up-left",
+    "iconName": "box-arrow-in-up-left"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-in-up-right",
+    "iconName": "box-arrow-in-up-right"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-left",
+    "iconName": "box-arrow-left"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-right",
+    "iconName": "box-arrow-right"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-up",
+    "iconName": "box-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-up-left",
+    "iconName": "box-arrow-up-left"
+  },
+  {
+    "iconClass": "bi bi-box-arrow-up-right",
+    "iconName": "box-arrow-up-right"
+  },
+  {
+    "iconClass": "bi bi-box-fill",
+    "iconName": "box-fill"
+  },
+  {
+    "iconClass": "bi bi-box-seam",
+    "iconName": "box-seam"
+  },
+  {
+    "iconClass": "bi bi-box-seam-fill",
+    "iconName": "box-seam-fill"
+  },
+  {
+    "iconClass": "bi bi-box2",
+    "iconName": "box2"
+  },
+  {
+    "iconClass": "bi bi-box2-fill",
+    "iconName": "box2-fill"
+  },
+  {
+    "iconClass": "bi bi-box2-heart",
+    "iconName": "box2-heart"
+  },
+  {
+    "iconClass": "bi bi-box2-heart-fill",
+    "iconName": "box2-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-boxes",
+    "iconName": "boxes"
+  },
+  {
+    "iconClass": "bi bi-braces",
+    "iconName": "braces"
+  },
+  {
+    "iconClass": "bi bi-braces-asterisk",
+    "iconName": "braces-asterisk"
+  },
+  {
+    "iconClass": "bi bi-bricks",
+    "iconName": "bricks"
+  },
+  {
+    "iconClass": "bi bi-briefcase",
+    "iconName": "briefcase"
+  },
+  {
+    "iconClass": "bi bi-briefcase-fill",
+    "iconName": "briefcase-fill"
+  },
+  {
+    "iconClass": "bi bi-brightness-alt-high",
+    "iconName": "brightness-alt-high"
+  },
+  {
+    "iconClass": "bi bi-brightness-alt-high-fill",
+    "iconName": "brightness-alt-high-fill"
+  },
+  {
+    "iconClass": "bi bi-brightness-alt-low",
+    "iconName": "brightness-alt-low"
+  },
+  {
+    "iconClass": "bi bi-brightness-alt-low-fill",
+    "iconName": "brightness-alt-low-fill"
+  },
+  {
+    "iconClass": "bi bi-brightness-high",
+    "iconName": "brightness-high"
+  },
+  {
+    "iconClass": "bi bi-brightness-high-fill",
+    "iconName": "brightness-high-fill"
+  },
+  {
+    "iconClass": "bi bi-brightness-low",
+    "iconName": "brightness-low"
+  },
+  {
+    "iconClass": "bi bi-brightness-low-fill",
+    "iconName": "brightness-low-fill"
+  },
+  {
+    "iconClass": "bi bi-brilliance",
+    "iconName": "brilliance"
+  },
+  {
+    "iconClass": "bi bi-broadcast",
+    "iconName": "broadcast"
+  },
+  {
+    "iconClass": "bi bi-broadcast-pin",
+    "iconName": "broadcast-pin"
+  },
+  {
+    "iconClass": "bi bi-browser-chrome",
+    "iconName": "browser-chrome"
+  },
+  {
+    "iconClass": "bi bi-browser-edge",
+    "iconName": "browser-edge"
+  },
+  {
+    "iconClass": "bi bi-browser-firefox",
+    "iconName": "browser-firefox"
+  },
+  {
+    "iconClass": "bi bi-browser-safari",
+    "iconName": "browser-safari"
+  },
+  {
+    "iconClass": "bi bi-brush",
+    "iconName": "brush"
+  },
+  {
+    "iconClass": "bi bi-brush-fill",
+    "iconName": "brush-fill"
+  },
+  {
+    "iconClass": "bi bi-bucket",
+    "iconName": "bucket"
+  },
+  {
+    "iconClass": "bi bi-bucket-fill",
+    "iconName": "bucket-fill"
+  },
+  {
+    "iconClass": "bi bi-bug",
+    "iconName": "bug"
+  },
+  {
+    "iconClass": "bi bi-bug-fill",
+    "iconName": "bug-fill"
+  },
+  {
+    "iconClass": "bi bi-building",
+    "iconName": "building"
+  },
+  {
+    "iconClass": "bi bi-building-add",
+    "iconName": "building-add"
+  },
+  {
+    "iconClass": "bi bi-building-check",
+    "iconName": "building-check"
+  },
+  {
+    "iconClass": "bi bi-building-dash",
+    "iconName": "building-dash"
+  },
+  {
+    "iconClass": "bi bi-building-down",
+    "iconName": "building-down"
+  },
+  {
+    "iconClass": "bi bi-building-exclamation",
+    "iconName": "building-exclamation"
+  },
+  {
+    "iconClass": "bi bi-building-fill",
+    "iconName": "building-fill"
+  },
+  {
+    "iconClass": "bi bi-building-fill-add",
+    "iconName": "building-fill-add"
+  },
+  {
+    "iconClass": "bi bi-building-fill-check",
+    "iconName": "building-fill-check"
+  },
+  {
+    "iconClass": "bi bi-building-fill-dash",
+    "iconName": "building-fill-dash"
+  },
+  {
+    "iconClass": "bi bi-building-fill-down",
+    "iconName": "building-fill-down"
+  },
+  {
+    "iconClass": "bi bi-building-fill-exclamation",
+    "iconName": "building-fill-exclamation"
+  },
+  {
+    "iconClass": "bi bi-building-fill-gear",
+    "iconName": "building-fill-gear"
+  },
+  {
+    "iconClass": "bi bi-building-fill-lock",
+    "iconName": "building-fill-lock"
+  },
+  {
+    "iconClass": "bi bi-building-fill-slash",
+    "iconName": "building-fill-slash"
+  },
+  {
+    "iconClass": "bi bi-building-fill-up",
+    "iconName": "building-fill-up"
+  },
+  {
+    "iconClass": "bi bi-building-fill-x",
+    "iconName": "building-fill-x"
+  },
+  {
+    "iconClass": "bi bi-building-gear",
+    "iconName": "building-gear"
+  },
+  {
+    "iconClass": "bi bi-building-lock",
+    "iconName": "building-lock"
+  },
+  {
+    "iconClass": "bi bi-building-slash",
+    "iconName": "building-slash"
+  },
+  {
+    "iconClass": "bi bi-building-up",
+    "iconName": "building-up"
+  },
+  {
+    "iconClass": "bi bi-building-x",
+    "iconName": "building-x"
+  },
+  {
+    "iconClass": "bi bi-buildings",
+    "iconName": "buildings"
+  },
+  {
+    "iconClass": "bi bi-buildings-fill",
+    "iconName": "buildings-fill"
+  },
+  {
+    "iconClass": "bi bi-bullseye",
+    "iconName": "bullseye"
+  },
+  {
+    "iconClass": "bi bi-bus-front",
+    "iconName": "bus-front"
+  },
+  {
+    "iconClass": "bi bi-bus-front-fill",
+    "iconName": "bus-front-fill"
+  },
+  {
+    "iconClass": "bi bi-c-circle",
+    "iconName": "c-circle"
+  },
+  {
+    "iconClass": "bi bi-c-circle-fill",
+    "iconName": "c-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-c-square",
+    "iconName": "c-square"
+  },
+  {
+    "iconClass": "bi bi-c-square-fill",
+    "iconName": "c-square-fill"
+  },
+  {
+    "iconClass": "bi bi-cake",
+    "iconName": "cake"
+  },
+  {
+    "iconClass": "bi bi-cake-fill",
+    "iconName": "cake-fill"
+  },
+  {
+    "iconClass": "bi bi-cake2",
+    "iconName": "cake2"
+  },
+  {
+    "iconClass": "bi bi-cake2-fill",
+    "iconName": "cake2-fill"
+  },
+  {
+    "iconClass": "bi bi-calculator",
+    "iconName": "calculator"
+  },
+  {
+    "iconClass": "bi bi-calculator-fill",
+    "iconName": "calculator-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar",
+    "iconName": "calendar"
+  },
+  {
+    "iconClass": "bi bi-calendar-check",
+    "iconName": "calendar-check"
+  },
+  {
+    "iconClass": "bi bi-calendar-check-fill",
+    "iconName": "calendar-check-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-date",
+    "iconName": "calendar-date"
+  },
+  {
+    "iconClass": "bi bi-calendar-date-fill",
+    "iconName": "calendar-date-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-day",
+    "iconName": "calendar-day"
+  },
+  {
+    "iconClass": "bi bi-calendar-day-fill",
+    "iconName": "calendar-day-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-event",
+    "iconName": "calendar-event"
+  },
+  {
+    "iconClass": "bi bi-calendar-event-fill",
+    "iconName": "calendar-event-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-fill",
+    "iconName": "calendar-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-heart",
+    "iconName": "calendar-heart"
+  },
+  {
+    "iconClass": "bi bi-calendar-heart-fill",
+    "iconName": "calendar-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-minus",
+    "iconName": "calendar-minus"
+  },
+  {
+    "iconClass": "bi bi-calendar-minus-fill",
+    "iconName": "calendar-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-month",
+    "iconName": "calendar-month"
+  },
+  {
+    "iconClass": "bi bi-calendar-month-fill",
+    "iconName": "calendar-month-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-plus",
+    "iconName": "calendar-plus"
+  },
+  {
+    "iconClass": "bi bi-calendar-plus-fill",
+    "iconName": "calendar-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-range",
+    "iconName": "calendar-range"
+  },
+  {
+    "iconClass": "bi bi-calendar-range-fill",
+    "iconName": "calendar-range-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-week",
+    "iconName": "calendar-week"
+  },
+  {
+    "iconClass": "bi bi-calendar-week-fill",
+    "iconName": "calendar-week-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar-x",
+    "iconName": "calendar-x"
+  },
+  {
+    "iconClass": "bi bi-calendar-x-fill",
+    "iconName": "calendar-x-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2",
+    "iconName": "calendar2"
+  },
+  {
+    "iconClass": "bi bi-calendar2-check",
+    "iconName": "calendar2-check"
+  },
+  {
+    "iconClass": "bi bi-calendar2-check-fill",
+    "iconName": "calendar2-check-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-date",
+    "iconName": "calendar2-date"
+  },
+  {
+    "iconClass": "bi bi-calendar2-date-fill",
+    "iconName": "calendar2-date-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-day",
+    "iconName": "calendar2-day"
+  },
+  {
+    "iconClass": "bi bi-calendar2-day-fill",
+    "iconName": "calendar2-day-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-event",
+    "iconName": "calendar2-event"
+  },
+  {
+    "iconClass": "bi bi-calendar2-event-fill",
+    "iconName": "calendar2-event-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-fill",
+    "iconName": "calendar2-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-heart",
+    "iconName": "calendar2-heart"
+  },
+  {
+    "iconClass": "bi bi-calendar2-heart-fill",
+    "iconName": "calendar2-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-minus",
+    "iconName": "calendar2-minus"
+  },
+  {
+    "iconClass": "bi bi-calendar2-minus-fill",
+    "iconName": "calendar2-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-month",
+    "iconName": "calendar2-month"
+  },
+  {
+    "iconClass": "bi bi-calendar2-month-fill",
+    "iconName": "calendar2-month-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-plus",
+    "iconName": "calendar2-plus"
+  },
+  {
+    "iconClass": "bi bi-calendar2-plus-fill",
+    "iconName": "calendar2-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-range",
+    "iconName": "calendar2-range"
+  },
+  {
+    "iconClass": "bi bi-calendar2-range-fill",
+    "iconName": "calendar2-range-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-week",
+    "iconName": "calendar2-week"
+  },
+  {
+    "iconClass": "bi bi-calendar2-week-fill",
+    "iconName": "calendar2-week-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar2-x",
+    "iconName": "calendar2-x"
+  },
+  {
+    "iconClass": "bi bi-calendar2-x-fill",
+    "iconName": "calendar2-x-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar3",
+    "iconName": "calendar3"
+  },
+  {
+    "iconClass": "bi bi-calendar3-event",
+    "iconName": "calendar3-event"
+  },
+  {
+    "iconClass": "bi bi-calendar3-event-fill",
+    "iconName": "calendar3-event-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar3-fill",
+    "iconName": "calendar3-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar3-range",
+    "iconName": "calendar3-range"
+  },
+  {
+    "iconClass": "bi bi-calendar3-range-fill",
+    "iconName": "calendar3-range-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar3-week",
+    "iconName": "calendar3-week"
+  },
+  {
+    "iconClass": "bi bi-calendar3-week-fill",
+    "iconName": "calendar3-week-fill"
+  },
+  {
+    "iconClass": "bi bi-calendar4",
+    "iconName": "calendar4"
+  },
+  {
+    "iconClass": "bi bi-calendar4-event",
+    "iconName": "calendar4-event"
+  },
+  {
+    "iconClass": "bi bi-calendar4-range",
+    "iconName": "calendar4-range"
+  },
+  {
+    "iconClass": "bi bi-calendar4-week",
+    "iconName": "calendar4-week"
+  },
+  {
+    "iconClass": "bi bi-camera",
+    "iconName": "camera"
+  },
+  {
+    "iconClass": "bi bi-camera-fill",
+    "iconName": "camera-fill"
+  },
+  {
+    "iconClass": "bi bi-camera-reels",
+    "iconName": "camera-reels"
+  },
+  {
+    "iconClass": "bi bi-camera-reels-fill",
+    "iconName": "camera-reels-fill"
+  },
+  {
+    "iconClass": "bi bi-camera-video",
+    "iconName": "camera-video"
+  },
+  {
+    "iconClass": "bi bi-camera-video-fill",
+    "iconName": "camera-video-fill"
+  },
+  {
+    "iconClass": "bi bi-camera-video-off",
+    "iconName": "camera-video-off"
+  },
+  {
+    "iconClass": "bi bi-camera-video-off-fill",
+    "iconName": "camera-video-off-fill"
+  },
+  {
+    "iconClass": "bi bi-camera2",
+    "iconName": "camera2"
+  },
+  {
+    "iconClass": "bi bi-capslock",
+    "iconName": "capslock"
+  },
+  {
+    "iconClass": "bi bi-capslock-fill",
+    "iconName": "capslock-fill"
+  },
+  {
+    "iconClass": "bi bi-capsule",
+    "iconName": "capsule"
+  },
+  {
+    "iconClass": "bi bi-capsule-pill",
+    "iconName": "capsule-pill"
+  },
+  {
+    "iconClass": "bi bi-car-front",
+    "iconName": "car-front"
+  },
+  {
+    "iconClass": "bi bi-car-front-fill",
+    "iconName": "car-front-fill"
+  },
+  {
+    "iconClass": "bi bi-card-checklist",
+    "iconName": "card-checklist"
+  },
+  {
+    "iconClass": "bi bi-card-heading",
+    "iconName": "card-heading"
+  },
+  {
+    "iconClass": "bi bi-card-image",
+    "iconName": "card-image"
+  },
+  {
+    "iconClass": "bi bi-card-list",
+    "iconName": "card-list"
+  },
+  {
+    "iconClass": "bi bi-card-text",
+    "iconName": "card-text"
+  },
+  {
+    "iconClass": "bi bi-caret-down",
+    "iconName": "caret-down"
+  },
+  {
+    "iconClass": "bi bi-caret-down-fill",
+    "iconName": "caret-down-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-down-square",
+    "iconName": "caret-down-square"
+  },
+  {
+    "iconClass": "bi bi-caret-down-square-fill",
+    "iconName": "caret-down-square-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-left",
+    "iconName": "caret-left"
+  },
+  {
+    "iconClass": "bi bi-caret-left-fill",
+    "iconName": "caret-left-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-left-square",
+    "iconName": "caret-left-square"
+  },
+  {
+    "iconClass": "bi bi-caret-left-square-fill",
+    "iconName": "caret-left-square-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-right",
+    "iconName": "caret-right"
+  },
+  {
+    "iconClass": "bi bi-caret-right-fill",
+    "iconName": "caret-right-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-right-square",
+    "iconName": "caret-right-square"
+  },
+  {
+    "iconClass": "bi bi-caret-right-square-fill",
+    "iconName": "caret-right-square-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-up",
+    "iconName": "caret-up"
+  },
+  {
+    "iconClass": "bi bi-caret-up-fill",
+    "iconName": "caret-up-fill"
+  },
+  {
+    "iconClass": "bi bi-caret-up-square",
+    "iconName": "caret-up-square"
+  },
+  {
+    "iconClass": "bi bi-caret-up-square-fill",
+    "iconName": "caret-up-square-fill"
+  },
+  {
+    "iconClass": "bi bi-cart",
+    "iconName": "cart"
+  },
+  {
+    "iconClass": "bi bi-cart-check",
+    "iconName": "cart-check"
+  },
+  {
+    "iconClass": "bi bi-cart-check-fill",
+    "iconName": "cart-check-fill"
+  },
+  {
+    "iconClass": "bi bi-cart-dash",
+    "iconName": "cart-dash"
+  },
+  {
+    "iconClass": "bi bi-cart-dash-fill",
+    "iconName": "cart-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-cart-fill",
+    "iconName": "cart-fill"
+  },
+  {
+    "iconClass": "bi bi-cart-plus",
+    "iconName": "cart-plus"
+  },
+  {
+    "iconClass": "bi bi-cart-plus-fill",
+    "iconName": "cart-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-cart-x",
+    "iconName": "cart-x"
+  },
+  {
+    "iconClass": "bi bi-cart-x-fill",
+    "iconName": "cart-x-fill"
+  },
+  {
+    "iconClass": "bi bi-cart2",
+    "iconName": "cart2"
+  },
+  {
+    "iconClass": "bi bi-cart3",
+    "iconName": "cart3"
+  },
+  {
+    "iconClass": "bi bi-cart4",
+    "iconName": "cart4"
+  },
+  {
+    "iconClass": "bi bi-cash",
+    "iconName": "cash"
+  },
+  {
+    "iconClass": "bi bi-cash-coin",
+    "iconName": "cash-coin"
+  },
+  {
+    "iconClass": "bi bi-cash-stack",
+    "iconName": "cash-stack"
+  },
+  {
+    "iconClass": "bi bi-cassette",
+    "iconName": "cassette"
+  },
+  {
+    "iconClass": "bi bi-cassette-fill",
+    "iconName": "cassette-fill"
+  },
+  {
+    "iconClass": "bi bi-cast",
+    "iconName": "cast"
+  },
+  {
+    "iconClass": "bi bi-cc-circle",
+    "iconName": "cc-circle"
+  },
+  {
+    "iconClass": "bi bi-cc-circle-fill",
+    "iconName": "cc-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-cc-square",
+    "iconName": "cc-square"
+  },
+  {
+    "iconClass": "bi bi-cc-square-fill",
+    "iconName": "cc-square-fill"
+  },
+  {
+    "iconClass": "bi bi-chat",
+    "iconName": "chat"
+  },
+  {
+    "iconClass": "bi bi-chat-dots",
+    "iconName": "chat-dots"
+  },
+  {
+    "iconClass": "bi bi-chat-dots-fill",
+    "iconName": "chat-dots-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-fill",
+    "iconName": "chat-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-heart",
+    "iconName": "chat-heart"
+  },
+  {
+    "iconClass": "bi bi-chat-heart-fill",
+    "iconName": "chat-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-left",
+    "iconName": "chat-left"
+  },
+  {
+    "iconClass": "bi bi-chat-left-dots",
+    "iconName": "chat-left-dots"
+  },
+  {
+    "iconClass": "bi bi-chat-left-dots-fill",
+    "iconName": "chat-left-dots-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-left-fill",
+    "iconName": "chat-left-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-left-heart",
+    "iconName": "chat-left-heart"
+  },
+  {
+    "iconClass": "bi bi-chat-left-heart-fill",
+    "iconName": "chat-left-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-left-quote",
+    "iconName": "chat-left-quote"
+  },
+  {
+    "iconClass": "bi bi-chat-left-quote-fill",
+    "iconName": "chat-left-quote-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-left-text",
+    "iconName": "chat-left-text"
+  },
+  {
+    "iconClass": "bi bi-chat-left-text-fill",
+    "iconName": "chat-left-text-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-quote",
+    "iconName": "chat-quote"
+  },
+  {
+    "iconClass": "bi bi-chat-quote-fill",
+    "iconName": "chat-quote-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-right",
+    "iconName": "chat-right"
+  },
+  {
+    "iconClass": "bi bi-chat-right-dots",
+    "iconName": "chat-right-dots"
+  },
+  {
+    "iconClass": "bi bi-chat-right-dots-fill",
+    "iconName": "chat-right-dots-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-right-fill",
+    "iconName": "chat-right-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-right-heart",
+    "iconName": "chat-right-heart"
+  },
+  {
+    "iconClass": "bi bi-chat-right-heart-fill",
+    "iconName": "chat-right-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-right-quote",
+    "iconName": "chat-right-quote"
+  },
+  {
+    "iconClass": "bi bi-chat-right-quote-fill",
+    "iconName": "chat-right-quote-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-right-text",
+    "iconName": "chat-right-text"
+  },
+  {
+    "iconClass": "bi bi-chat-right-text-fill",
+    "iconName": "chat-right-text-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-square",
+    "iconName": "chat-square"
+  },
+  {
+    "iconClass": "bi bi-chat-square-dots",
+    "iconName": "chat-square-dots"
+  },
+  {
+    "iconClass": "bi bi-chat-square-dots-fill",
+    "iconName": "chat-square-dots-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-square-fill",
+    "iconName": "chat-square-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-square-heart",
+    "iconName": "chat-square-heart"
+  },
+  {
+    "iconClass": "bi bi-chat-square-heart-fill",
+    "iconName": "chat-square-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-square-quote",
+    "iconName": "chat-square-quote"
+  },
+  {
+    "iconClass": "bi bi-chat-square-quote-fill",
+    "iconName": "chat-square-quote-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-square-text",
+    "iconName": "chat-square-text"
+  },
+  {
+    "iconClass": "bi bi-chat-square-text-fill",
+    "iconName": "chat-square-text-fill"
+  },
+  {
+    "iconClass": "bi bi-chat-text",
+    "iconName": "chat-text"
+  },
+  {
+    "iconClass": "bi bi-chat-text-fill",
+    "iconName": "chat-text-fill"
+  },
+  {
+    "iconClass": "bi bi-check",
+    "iconName": "check"
+  },
+  {
+    "iconClass": "bi bi-check-all",
+    "iconName": "check-all"
+  },
+  {
+    "iconClass": "bi bi-check-circle",
+    "iconName": "check-circle"
+  },
+  {
+    "iconClass": "bi bi-check-circle-fill",
+    "iconName": "check-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-check-lg",
+    "iconName": "check-lg"
+  },
+  {
+    "iconClass": "bi bi-check-square",
+    "iconName": "check-square"
+  },
+  {
+    "iconClass": "bi bi-check-square-fill",
+    "iconName": "check-square-fill"
+  },
+  {
+    "iconClass": "bi bi-check2",
+    "iconName": "check2"
+  },
+  {
+    "iconClass": "bi bi-check2-all",
+    "iconName": "check2-all"
+  },
+  {
+    "iconClass": "bi bi-check2-circle",
+    "iconName": "check2-circle"
+  },
+  {
+    "iconClass": "bi bi-check2-square",
+    "iconName": "check2-square"
+  },
+  {
+    "iconClass": "bi bi-chevron-bar-contract",
+    "iconName": "chevron-bar-contract"
+  },
+  {
+    "iconClass": "bi bi-chevron-bar-down",
+    "iconName": "chevron-bar-down"
+  },
+  {
+    "iconClass": "bi bi-chevron-bar-expand",
+    "iconName": "chevron-bar-expand"
+  },
+  {
+    "iconClass": "bi bi-chevron-bar-left",
+    "iconName": "chevron-bar-left"
+  },
+  {
+    "iconClass": "bi bi-chevron-bar-right",
+    "iconName": "chevron-bar-right"
+  },
+  {
+    "iconClass": "bi bi-chevron-bar-up",
+    "iconName": "chevron-bar-up"
+  },
+  {
+    "iconClass": "bi bi-chevron-compact-down",
+    "iconName": "chevron-compact-down"
+  },
+  {
+    "iconClass": "bi bi-chevron-compact-left",
+    "iconName": "chevron-compact-left"
+  },
+  {
+    "iconClass": "bi bi-chevron-compact-right",
+    "iconName": "chevron-compact-right"
+  },
+  {
+    "iconClass": "bi bi-chevron-compact-up",
+    "iconName": "chevron-compact-up"
+  },
+  {
+    "iconClass": "bi bi-chevron-contract",
+    "iconName": "chevron-contract"
+  },
+  {
+    "iconClass": "bi bi-chevron-double-down",
+    "iconName": "chevron-double-down"
+  },
+  {
+    "iconClass": "bi bi-chevron-double-left",
+    "iconName": "chevron-double-left"
+  },
+  {
+    "iconClass": "bi bi-chevron-double-right",
+    "iconName": "chevron-double-right"
+  },
+  {
+    "iconClass": "bi bi-chevron-double-up",
+    "iconName": "chevron-double-up"
+  },
+  {
+    "iconClass": "bi bi-chevron-down",
+    "iconName": "chevron-down"
+  },
+  {
+    "iconClass": "bi bi-chevron-expand",
+    "iconName": "chevron-expand"
+  },
+  {
+    "iconClass": "bi bi-chevron-left",
+    "iconName": "chevron-left"
+  },
+  {
+    "iconClass": "bi bi-chevron-right",
+    "iconName": "chevron-right"
+  },
+  {
+    "iconClass": "bi bi-chevron-up",
+    "iconName": "chevron-up"
+  },
+  {
+    "iconClass": "bi bi-circle",
+    "iconName": "circle"
+  },
+  {
+    "iconClass": "bi bi-circle-fill",
+    "iconName": "circle-fill"
+  },
+  {
+    "iconClass": "bi bi-circle-half",
+    "iconName": "circle-half"
+  },
+  {
+    "iconClass": "bi bi-circle-square",
+    "iconName": "circle-square"
+  },
+  {
+    "iconClass": "bi bi-clipboard",
+    "iconName": "clipboard"
+  },
+  {
+    "iconClass": "bi bi-clipboard-check",
+    "iconName": "clipboard-check"
+  },
+  {
+    "iconClass": "bi bi-clipboard-check-fill",
+    "iconName": "clipboard-check-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard-data",
+    "iconName": "clipboard-data"
+  },
+  {
+    "iconClass": "bi bi-clipboard-data-fill",
+    "iconName": "clipboard-data-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard-fill",
+    "iconName": "clipboard-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard-heart",
+    "iconName": "clipboard-heart"
+  },
+  {
+    "iconClass": "bi bi-clipboard-heart-fill",
+    "iconName": "clipboard-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard-minus",
+    "iconName": "clipboard-minus"
+  },
+  {
+    "iconClass": "bi bi-clipboard-minus-fill",
+    "iconName": "clipboard-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard-plus",
+    "iconName": "clipboard-plus"
+  },
+  {
+    "iconClass": "bi bi-clipboard-plus-fill",
+    "iconName": "clipboard-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard-pulse",
+    "iconName": "clipboard-pulse"
+  },
+  {
+    "iconClass": "bi bi-clipboard-x",
+    "iconName": "clipboard-x"
+  },
+  {
+    "iconClass": "bi bi-clipboard-x-fill",
+    "iconName": "clipboard-x-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2",
+    "iconName": "clipboard2"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-check",
+    "iconName": "clipboard2-check"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-check-fill",
+    "iconName": "clipboard2-check-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-data",
+    "iconName": "clipboard2-data"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-data-fill",
+    "iconName": "clipboard2-data-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-fill",
+    "iconName": "clipboard2-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-heart",
+    "iconName": "clipboard2-heart"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-heart-fill",
+    "iconName": "clipboard2-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-minus",
+    "iconName": "clipboard2-minus"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-minus-fill",
+    "iconName": "clipboard2-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-plus",
+    "iconName": "clipboard2-plus"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-plus-fill",
+    "iconName": "clipboard2-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-pulse",
+    "iconName": "clipboard2-pulse"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-pulse-fill",
+    "iconName": "clipboard2-pulse-fill"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-x",
+    "iconName": "clipboard2-x"
+  },
+  {
+    "iconClass": "bi bi-clipboard2-x-fill",
+    "iconName": "clipboard2-x-fill"
+  },
+  {
+    "iconClass": "bi bi-clock",
+    "iconName": "clock"
+  },
+  {
+    "iconClass": "bi bi-clock-fill",
+    "iconName": "clock-fill"
+  },
+  {
+    "iconClass": "bi bi-clock-history",
+    "iconName": "clock-history"
+  },
+  {
+    "iconClass": "bi bi-cloud",
+    "iconName": "cloud"
+  },
+  {
+    "iconClass": "bi bi-cloud-arrow-down",
+    "iconName": "cloud-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-cloud-arrow-down-fill",
+    "iconName": "cloud-arrow-down-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-arrow-up",
+    "iconName": "cloud-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-cloud-arrow-up-fill",
+    "iconName": "cloud-arrow-up-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-check",
+    "iconName": "cloud-check"
+  },
+  {
+    "iconClass": "bi bi-cloud-check-fill",
+    "iconName": "cloud-check-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-download",
+    "iconName": "cloud-download"
+  },
+  {
+    "iconClass": "bi bi-cloud-download-fill",
+    "iconName": "cloud-download-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-drizzle",
+    "iconName": "cloud-drizzle"
+  },
+  {
+    "iconClass": "bi bi-cloud-drizzle-fill",
+    "iconName": "cloud-drizzle-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-fill",
+    "iconName": "cloud-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-fog",
+    "iconName": "cloud-fog"
+  },
+  {
+    "iconClass": "bi bi-cloud-fog-fill",
+    "iconName": "cloud-fog-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-fog2",
+    "iconName": "cloud-fog2"
+  },
+  {
+    "iconClass": "bi bi-cloud-fog2-fill",
+    "iconName": "cloud-fog2-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-hail",
+    "iconName": "cloud-hail"
+  },
+  {
+    "iconClass": "bi bi-cloud-hail-fill",
+    "iconName": "cloud-hail-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-haze",
+    "iconName": "cloud-haze"
+  },
+  {
+    "iconClass": "bi bi-cloud-haze-fill",
+    "iconName": "cloud-haze-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-haze2",
+    "iconName": "cloud-haze2"
+  },
+  {
+    "iconClass": "bi bi-cloud-haze2-fill",
+    "iconName": "cloud-haze2-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-lightning",
+    "iconName": "cloud-lightning"
+  },
+  {
+    "iconClass": "bi bi-cloud-lightning-fill",
+    "iconName": "cloud-lightning-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-lightning-rain",
+    "iconName": "cloud-lightning-rain"
+  },
+  {
+    "iconClass": "bi bi-cloud-lightning-rain-fill",
+    "iconName": "cloud-lightning-rain-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-minus",
+    "iconName": "cloud-minus"
+  },
+  {
+    "iconClass": "bi bi-cloud-minus-fill",
+    "iconName": "cloud-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-moon",
+    "iconName": "cloud-moon"
+  },
+  {
+    "iconClass": "bi bi-cloud-moon-fill",
+    "iconName": "cloud-moon-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-plus",
+    "iconName": "cloud-plus"
+  },
+  {
+    "iconClass": "bi bi-cloud-plus-fill",
+    "iconName": "cloud-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-rain",
+    "iconName": "cloud-rain"
+  },
+  {
+    "iconClass": "bi bi-cloud-rain-fill",
+    "iconName": "cloud-rain-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-rain-heavy",
+    "iconName": "cloud-rain-heavy"
+  },
+  {
+    "iconClass": "bi bi-cloud-rain-heavy-fill",
+    "iconName": "cloud-rain-heavy-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-slash",
+    "iconName": "cloud-slash"
+  },
+  {
+    "iconClass": "bi bi-cloud-slash-fill",
+    "iconName": "cloud-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-sleet",
+    "iconName": "cloud-sleet"
+  },
+  {
+    "iconClass": "bi bi-cloud-sleet-fill",
+    "iconName": "cloud-sleet-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-snow",
+    "iconName": "cloud-snow"
+  },
+  {
+    "iconClass": "bi bi-cloud-snow-fill",
+    "iconName": "cloud-snow-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-sun",
+    "iconName": "cloud-sun"
+  },
+  {
+    "iconClass": "bi bi-cloud-sun-fill",
+    "iconName": "cloud-sun-fill"
+  },
+  {
+    "iconClass": "bi bi-cloud-upload",
+    "iconName": "cloud-upload"
+  },
+  {
+    "iconClass": "bi bi-cloud-upload-fill",
+    "iconName": "cloud-upload-fill"
+  },
+  {
+    "iconClass": "bi bi-clouds",
+    "iconName": "clouds"
+  },
+  {
+    "iconClass": "bi bi-clouds-fill",
+    "iconName": "clouds-fill"
+  },
+  {
+    "iconClass": "bi bi-cloudy",
+    "iconName": "cloudy"
+  },
+  {
+    "iconClass": "bi bi-cloudy-fill",
+    "iconName": "cloudy-fill"
+  },
+  {
+    "iconClass": "bi bi-code",
+    "iconName": "code"
+  },
+  {
+    "iconClass": "bi bi-code-slash",
+    "iconName": "code-slash"
+  },
+  {
+    "iconClass": "bi bi-code-square",
+    "iconName": "code-square"
+  },
+  {
+    "iconClass": "bi bi-coin",
+    "iconName": "coin"
+  },
+  {
+    "iconClass": "bi bi-collection",
+    "iconName": "collection"
+  },
+  {
+    "iconClass": "bi bi-collection-fill",
+    "iconName": "collection-fill"
+  },
+  {
+    "iconClass": "bi bi-collection-play",
+    "iconName": "collection-play"
+  },
+  {
+    "iconClass": "bi bi-collection-play-fill",
+    "iconName": "collection-play-fill"
+  },
+  {
+    "iconClass": "bi bi-columns",
+    "iconName": "columns"
+  },
+  {
+    "iconClass": "bi bi-columns-gap",
+    "iconName": "columns-gap"
+  },
+  {
+    "iconClass": "bi bi-command",
+    "iconName": "command"
+  },
+  {
+    "iconClass": "bi bi-compass",
+    "iconName": "compass"
+  },
+  {
+    "iconClass": "bi bi-compass-fill",
+    "iconName": "compass-fill"
+  },
+  {
+    "iconClass": "bi bi-cone",
+    "iconName": "cone"
+  },
+  {
+    "iconClass": "bi bi-cone-striped",
+    "iconName": "cone-striped"
+  },
+  {
+    "iconClass": "bi bi-controller",
+    "iconName": "controller"
+  },
+  {
+    "iconClass": "bi bi-cookie",
+    "iconName": "cookie"
+  },
+  {
+    "iconClass": "bi bi-copy",
+    "iconName": "copy"
+  },
+  {
+    "iconClass": "bi bi-cpu",
+    "iconName": "cpu"
+  },
+  {
+    "iconClass": "bi bi-cpu-fill",
+    "iconName": "cpu-fill"
+  },
+  {
+    "iconClass": "bi bi-credit-card",
+    "iconName": "credit-card"
+  },
+  {
+    "iconClass": "bi bi-credit-card-2-back",
+    "iconName": "credit-card-2-back"
+  },
+  {
+    "iconClass": "bi bi-credit-card-2-back-fill",
+    "iconName": "credit-card-2-back-fill"
+  },
+  {
+    "iconClass": "bi bi-credit-card-2-front",
+    "iconName": "credit-card-2-front"
+  },
+  {
+    "iconClass": "bi bi-credit-card-2-front-fill",
+    "iconName": "credit-card-2-front-fill"
+  },
+  {
+    "iconClass": "bi bi-credit-card-fill",
+    "iconName": "credit-card-fill"
+  },
+  {
+    "iconClass": "bi bi-crop",
+    "iconName": "crop"
+  },
+  {
+    "iconClass": "bi bi-crosshair",
+    "iconName": "crosshair"
+  },
+  {
+    "iconClass": "bi bi-crosshair2",
+    "iconName": "crosshair2"
+  },
+  {
+    "iconClass": "bi bi-cup",
+    "iconName": "cup"
+  },
+  {
+    "iconClass": "bi bi-cup-fill",
+    "iconName": "cup-fill"
+  },
+  {
+    "iconClass": "bi bi-cup-hot",
+    "iconName": "cup-hot"
+  },
+  {
+    "iconClass": "bi bi-cup-hot-fill",
+    "iconName": "cup-hot-fill"
+  },
+  {
+    "iconClass": "bi bi-cup-straw",
+    "iconName": "cup-straw"
+  },
+  {
+    "iconClass": "bi bi-currency-bitcoin",
+    "iconName": "currency-bitcoin"
+  },
+  {
+    "iconClass": "bi bi-currency-dollar",
+    "iconName": "currency-dollar"
+  },
+  {
+    "iconClass": "bi bi-currency-euro",
+    "iconName": "currency-euro"
+  },
+  {
+    "iconClass": "bi bi-currency-exchange",
+    "iconName": "currency-exchange"
+  },
+  {
+    "iconClass": "bi bi-currency-pound",
+    "iconName": "currency-pound"
+  },
+  {
+    "iconClass": "bi bi-currency-rupee",
+    "iconName": "currency-rupee"
+  },
+  {
+    "iconClass": "bi bi-currency-yen",
+    "iconName": "currency-yen"
+  },
+  {
+    "iconClass": "bi bi-cursor",
+    "iconName": "cursor"
+  },
+  {
+    "iconClass": "bi bi-cursor-fill",
+    "iconName": "cursor-fill"
+  },
+  {
+    "iconClass": "bi bi-cursor-text",
+    "iconName": "cursor-text"
+  },
+  {
+    "iconClass": "bi bi-dash",
+    "iconName": "dash"
+  },
+  {
+    "iconClass": "bi bi-dash-circle",
+    "iconName": "dash-circle"
+  },
+  {
+    "iconClass": "bi bi-dash-circle-dotted",
+    "iconName": "dash-circle-dotted"
+  },
+  {
+    "iconClass": "bi bi-dash-circle-fill",
+    "iconName": "dash-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-dash-lg",
+    "iconName": "dash-lg"
+  },
+  {
+    "iconClass": "bi bi-dash-square",
+    "iconName": "dash-square"
+  },
+  {
+    "iconClass": "bi bi-dash-square-dotted",
+    "iconName": "dash-square-dotted"
+  },
+  {
+    "iconClass": "bi bi-dash-square-fill",
+    "iconName": "dash-square-fill"
+  },
+  {
+    "iconClass": "bi bi-database",
+    "iconName": "database"
+  },
+  {
+    "iconClass": "bi bi-database-add",
+    "iconName": "database-add"
+  },
+  {
+    "iconClass": "bi bi-database-check",
+    "iconName": "database-check"
+  },
+  {
+    "iconClass": "bi bi-database-dash",
+    "iconName": "database-dash"
+  },
+  {
+    "iconClass": "bi bi-database-down",
+    "iconName": "database-down"
+  },
+  {
+    "iconClass": "bi bi-database-exclamation",
+    "iconName": "database-exclamation"
+  },
+  {
+    "iconClass": "bi bi-database-fill",
+    "iconName": "database-fill"
+  },
+  {
+    "iconClass": "bi bi-database-fill-add",
+    "iconName": "database-fill-add"
+  },
+  {
+    "iconClass": "bi bi-database-fill-check",
+    "iconName": "database-fill-check"
+  },
+  {
+    "iconClass": "bi bi-database-fill-dash",
+    "iconName": "database-fill-dash"
+  },
+  {
+    "iconClass": "bi bi-database-fill-down",
+    "iconName": "database-fill-down"
+  },
+  {
+    "iconClass": "bi bi-database-fill-exclamation",
+    "iconName": "database-fill-exclamation"
+  },
+  {
+    "iconClass": "bi bi-database-fill-gear",
+    "iconName": "database-fill-gear"
+  },
+  {
+    "iconClass": "bi bi-database-fill-lock",
+    "iconName": "database-fill-lock"
+  },
+  {
+    "iconClass": "bi bi-database-fill-slash",
+    "iconName": "database-fill-slash"
+  },
+  {
+    "iconClass": "bi bi-database-fill-up",
+    "iconName": "database-fill-up"
+  },
+  {
+    "iconClass": "bi bi-database-fill-x",
+    "iconName": "database-fill-x"
+  },
+  {
+    "iconClass": "bi bi-database-gear",
+    "iconName": "database-gear"
+  },
+  {
+    "iconClass": "bi bi-database-lock",
+    "iconName": "database-lock"
+  },
+  {
+    "iconClass": "bi bi-database-slash",
+    "iconName": "database-slash"
+  },
+  {
+    "iconClass": "bi bi-database-up",
+    "iconName": "database-up"
+  },
+  {
+    "iconClass": "bi bi-database-x",
+    "iconName": "database-x"
+  },
+  {
+    "iconClass": "bi bi-device-hdd",
+    "iconName": "device-hdd"
+  },
+  {
+    "iconClass": "bi bi-device-hdd-fill",
+    "iconName": "device-hdd-fill"
+  },
+  {
+    "iconClass": "bi bi-device-ssd",
+    "iconName": "device-ssd"
+  },
+  {
+    "iconClass": "bi bi-device-ssd-fill",
+    "iconName": "device-ssd-fill"
+  },
+  {
+    "iconClass": "bi bi-diagram-2",
+    "iconName": "diagram-2"
+  },
+  {
+    "iconClass": "bi bi-diagram-2-fill",
+    "iconName": "diagram-2-fill"
+  },
+  {
+    "iconClass": "bi bi-diagram-3",
+    "iconName": "diagram-3"
+  },
+  {
+    "iconClass": "bi bi-diagram-3-fill",
+    "iconName": "diagram-3-fill"
+  },
+  {
+    "iconClass": "bi bi-diamond",
+    "iconName": "diamond"
+  },
+  {
+    "iconClass": "bi bi-diamond-fill",
+    "iconName": "diamond-fill"
+  },
+  {
+    "iconClass": "bi bi-diamond-half",
+    "iconName": "diamond-half"
+  },
+  {
+    "iconClass": "bi bi-dice-1",
+    "iconName": "dice-1"
+  },
+  {
+    "iconClass": "bi bi-dice-1-fill",
+    "iconName": "dice-1-fill"
+  },
+  {
+    "iconClass": "bi bi-dice-2",
+    "iconName": "dice-2"
+  },
+  {
+    "iconClass": "bi bi-dice-2-fill",
+    "iconName": "dice-2-fill"
+  },
+  {
+    "iconClass": "bi bi-dice-3",
+    "iconName": "dice-3"
+  },
+  {
+    "iconClass": "bi bi-dice-3-fill",
+    "iconName": "dice-3-fill"
+  },
+  {
+    "iconClass": "bi bi-dice-4",
+    "iconName": "dice-4"
+  },
+  {
+    "iconClass": "bi bi-dice-4-fill",
+    "iconName": "dice-4-fill"
+  },
+  {
+    "iconClass": "bi bi-dice-5",
+    "iconName": "dice-5"
+  },
+  {
+    "iconClass": "bi bi-dice-5-fill",
+    "iconName": "dice-5-fill"
+  },
+  {
+    "iconClass": "bi bi-dice-6",
+    "iconName": "dice-6"
+  },
+  {
+    "iconClass": "bi bi-dice-6-fill",
+    "iconName": "dice-6-fill"
+  },
+  {
+    "iconClass": "bi bi-disc",
+    "iconName": "disc"
+  },
+  {
+    "iconClass": "bi bi-disc-fill",
+    "iconName": "disc-fill"
+  },
+  {
+    "iconClass": "bi bi-discord",
+    "iconName": "discord"
+  },
+  {
+    "iconClass": "bi bi-display",
+    "iconName": "display"
+  },
+  {
+    "iconClass": "bi bi-display-fill",
+    "iconName": "display-fill"
+  },
+  {
+    "iconClass": "bi bi-displayport",
+    "iconName": "displayport"
+  },
+  {
+    "iconClass": "bi bi-displayport-fill",
+    "iconName": "displayport-fill"
+  },
+  {
+    "iconClass": "bi bi-distribute-horizontal",
+    "iconName": "distribute-horizontal"
+  },
+  {
+    "iconClass": "bi bi-distribute-vertical",
+    "iconName": "distribute-vertical"
+  },
+  {
+    "iconClass": "bi bi-door-closed",
+    "iconName": "door-closed"
+  },
+  {
+    "iconClass": "bi bi-door-closed-fill",
+    "iconName": "door-closed-fill"
+  },
+  {
+    "iconClass": "bi bi-door-open",
+    "iconName": "door-open"
+  },
+  {
+    "iconClass": "bi bi-door-open-fill",
+    "iconName": "door-open-fill"
+  },
+  {
+    "iconClass": "bi bi-dot",
+    "iconName": "dot"
+  },
+  {
+    "iconClass": "bi bi-download",
+    "iconName": "download"
+  },
+  {
+    "iconClass": "bi bi-dpad",
+    "iconName": "dpad"
+  },
+  {
+    "iconClass": "bi bi-dpad-fill",
+    "iconName": "dpad-fill"
+  },
+  {
+    "iconClass": "bi bi-dribbble",
+    "iconName": "dribbble"
+  },
+  {
+    "iconClass": "bi bi-dropbox",
+    "iconName": "dropbox"
+  },
+  {
+    "iconClass": "bi bi-droplet",
+    "iconName": "droplet"
+  },
+  {
+    "iconClass": "bi bi-droplet-fill",
+    "iconName": "droplet-fill"
+  },
+  {
+    "iconClass": "bi bi-droplet-half",
+    "iconName": "droplet-half"
+  },
+  {
+    "iconClass": "bi bi-duffle",
+    "iconName": "duffle"
+  },
+  {
+    "iconClass": "bi bi-duffle-fill",
+    "iconName": "duffle-fill"
+  },
+  {
+    "iconClass": "bi bi-ear",
+    "iconName": "ear"
+  },
+  {
+    "iconClass": "bi bi-ear-fill",
+    "iconName": "ear-fill"
+  },
+  {
+    "iconClass": "bi bi-earbuds",
+    "iconName": "earbuds"
+  },
+  {
+    "iconClass": "bi bi-easel",
+    "iconName": "easel"
+  },
+  {
+    "iconClass": "bi bi-easel-fill",
+    "iconName": "easel-fill"
+  },
+  {
+    "iconClass": "bi bi-easel2",
+    "iconName": "easel2"
+  },
+  {
+    "iconClass": "bi bi-easel2-fill",
+    "iconName": "easel2-fill"
+  },
+  {
+    "iconClass": "bi bi-easel3",
+    "iconName": "easel3"
+  },
+  {
+    "iconClass": "bi bi-easel3-fill",
+    "iconName": "easel3-fill"
+  },
+  {
+    "iconClass": "bi bi-egg",
+    "iconName": "egg"
+  },
+  {
+    "iconClass": "bi bi-egg-fill",
+    "iconName": "egg-fill"
+  },
+  {
+    "iconClass": "bi bi-egg-fried",
+    "iconName": "egg-fried"
+  },
+  {
+    "iconClass": "bi bi-eject",
+    "iconName": "eject"
+  },
+  {
+    "iconClass": "bi bi-eject-fill",
+    "iconName": "eject-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-angry",
+    "iconName": "emoji-angry"
+  },
+  {
+    "iconClass": "bi bi-emoji-angry-fill",
+    "iconName": "emoji-angry-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-astonished",
+    "iconName": "emoji-astonished"
+  },
+  {
+    "iconClass": "bi bi-emoji-astonished-fill",
+    "iconName": "emoji-astonished-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-dizzy",
+    "iconName": "emoji-dizzy"
+  },
+  {
+    "iconClass": "bi bi-emoji-dizzy-fill",
+    "iconName": "emoji-dizzy-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-expressionless",
+    "iconName": "emoji-expressionless"
+  },
+  {
+    "iconClass": "bi bi-emoji-expressionless-fill",
+    "iconName": "emoji-expressionless-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-frown",
+    "iconName": "emoji-frown"
+  },
+  {
+    "iconClass": "bi bi-emoji-frown-fill",
+    "iconName": "emoji-frown-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-grimace",
+    "iconName": "emoji-grimace"
+  },
+  {
+    "iconClass": "bi bi-emoji-grimace-fill",
+    "iconName": "emoji-grimace-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-grin",
+    "iconName": "emoji-grin"
+  },
+  {
+    "iconClass": "bi bi-emoji-grin-fill",
+    "iconName": "emoji-grin-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-heart-eyes",
+    "iconName": "emoji-heart-eyes"
+  },
+  {
+    "iconClass": "bi bi-emoji-heart-eyes-fill",
+    "iconName": "emoji-heart-eyes-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-kiss",
+    "iconName": "emoji-kiss"
+  },
+  {
+    "iconClass": "bi bi-emoji-kiss-fill",
+    "iconName": "emoji-kiss-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-laughing",
+    "iconName": "emoji-laughing"
+  },
+  {
+    "iconClass": "bi bi-emoji-laughing-fill",
+    "iconName": "emoji-laughing-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-neutral",
+    "iconName": "emoji-neutral"
+  },
+  {
+    "iconClass": "bi bi-emoji-neutral-fill",
+    "iconName": "emoji-neutral-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-smile",
+    "iconName": "emoji-smile"
+  },
+  {
+    "iconClass": "bi bi-emoji-smile-fill",
+    "iconName": "emoji-smile-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-smile-upside-down",
+    "iconName": "emoji-smile-upside-down"
+  },
+  {
+    "iconClass": "bi bi-emoji-smile-upside-down-fill",
+    "iconName": "emoji-smile-upside-down-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-sunglasses",
+    "iconName": "emoji-sunglasses"
+  },
+  {
+    "iconClass": "bi bi-emoji-sunglasses-fill",
+    "iconName": "emoji-sunglasses-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-surprise",
+    "iconName": "emoji-surprise"
+  },
+  {
+    "iconClass": "bi bi-emoji-surprise-fill",
+    "iconName": "emoji-surprise-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-tear",
+    "iconName": "emoji-tear"
+  },
+  {
+    "iconClass": "bi bi-emoji-tear-fill",
+    "iconName": "emoji-tear-fill"
+  },
+  {
+    "iconClass": "bi bi-emoji-wink",
+    "iconName": "emoji-wink"
+  },
+  {
+    "iconClass": "bi bi-emoji-wink-fill",
+    "iconName": "emoji-wink-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope",
+    "iconName": "envelope"
+  },
+  {
+    "iconClass": "bi bi-envelope-arrow-down",
+    "iconName": "envelope-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-envelope-arrow-down-fill",
+    "iconName": "envelope-arrow-down-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-arrow-up",
+    "iconName": "envelope-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-envelope-arrow-up-fill",
+    "iconName": "envelope-arrow-up-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-at",
+    "iconName": "envelope-at"
+  },
+  {
+    "iconClass": "bi bi-envelope-at-fill",
+    "iconName": "envelope-at-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-check",
+    "iconName": "envelope-check"
+  },
+  {
+    "iconClass": "bi bi-envelope-check-fill",
+    "iconName": "envelope-check-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-dash",
+    "iconName": "envelope-dash"
+  },
+  {
+    "iconClass": "bi bi-envelope-dash-fill",
+    "iconName": "envelope-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-exclamation",
+    "iconName": "envelope-exclamation"
+  },
+  {
+    "iconClass": "bi bi-envelope-exclamation-fill",
+    "iconName": "envelope-exclamation-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-fill",
+    "iconName": "envelope-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-heart",
+    "iconName": "envelope-heart"
+  },
+  {
+    "iconClass": "bi bi-envelope-heart-fill",
+    "iconName": "envelope-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-open",
+    "iconName": "envelope-open"
+  },
+  {
+    "iconClass": "bi bi-envelope-open-fill",
+    "iconName": "envelope-open-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-open-heart",
+    "iconName": "envelope-open-heart"
+  },
+  {
+    "iconClass": "bi bi-envelope-open-heart-fill",
+    "iconName": "envelope-open-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-paper",
+    "iconName": "envelope-paper"
+  },
+  {
+    "iconClass": "bi bi-envelope-paper-fill",
+    "iconName": "envelope-paper-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-paper-heart",
+    "iconName": "envelope-paper-heart"
+  },
+  {
+    "iconClass": "bi bi-envelope-paper-heart-fill",
+    "iconName": "envelope-paper-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-plus",
+    "iconName": "envelope-plus"
+  },
+  {
+    "iconClass": "bi bi-envelope-plus-fill",
+    "iconName": "envelope-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-slash",
+    "iconName": "envelope-slash"
+  },
+  {
+    "iconClass": "bi bi-envelope-slash-fill",
+    "iconName": "envelope-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-envelope-x",
+    "iconName": "envelope-x"
+  },
+  {
+    "iconClass": "bi bi-envelope-x-fill",
+    "iconName": "envelope-x-fill"
+  },
+  {
+    "iconClass": "bi bi-eraser",
+    "iconName": "eraser"
+  },
+  {
+    "iconClass": "bi bi-eraser-fill",
+    "iconName": "eraser-fill"
+  },
+  {
+    "iconClass": "bi bi-escape",
+    "iconName": "escape"
+  },
+  {
+    "iconClass": "bi bi-ethernet",
+    "iconName": "ethernet"
+  },
+  {
+    "iconClass": "bi bi-ev-front",
+    "iconName": "ev-front"
+  },
+  {
+    "iconClass": "bi bi-ev-front-fill",
+    "iconName": "ev-front-fill"
+  },
+  {
+    "iconClass": "bi bi-ev-station",
+    "iconName": "ev-station"
+  },
+  {
+    "iconClass": "bi bi-ev-station-fill",
+    "iconName": "ev-station-fill"
+  },
+  {
+    "iconClass": "bi bi-exclamation",
+    "iconName": "exclamation"
+  },
+  {
+    "iconClass": "bi bi-exclamation-circle",
+    "iconName": "exclamation-circle"
+  },
+  {
+    "iconClass": "bi bi-exclamation-circle-fill",
+    "iconName": "exclamation-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-exclamation-diamond",
+    "iconName": "exclamation-diamond"
+  },
+  {
+    "iconClass": "bi bi-exclamation-diamond-fill",
+    "iconName": "exclamation-diamond-fill"
+  },
+  {
+    "iconClass": "bi bi-exclamation-lg",
+    "iconName": "exclamation-lg"
+  },
+  {
+    "iconClass": "bi bi-exclamation-octagon",
+    "iconName": "exclamation-octagon"
+  },
+  {
+    "iconClass": "bi bi-exclamation-octagon-fill",
+    "iconName": "exclamation-octagon-fill"
+  },
+  {
+    "iconClass": "bi bi-exclamation-square",
+    "iconName": "exclamation-square"
+  },
+  {
+    "iconClass": "bi bi-exclamation-square-fill",
+    "iconName": "exclamation-square-fill"
+  },
+  {
+    "iconClass": "bi bi-exclamation-triangle",
+    "iconName": "exclamation-triangle"
+  },
+  {
+    "iconClass": "bi bi-exclamation-triangle-fill",
+    "iconName": "exclamation-triangle-fill"
+  },
+  {
+    "iconClass": "bi bi-exclude",
+    "iconName": "exclude"
+  },
+  {
+    "iconClass": "bi bi-explicit",
+    "iconName": "explicit"
+  },
+  {
+    "iconClass": "bi bi-explicit-fill",
+    "iconName": "explicit-fill"
+  },
+  {
+    "iconClass": "bi bi-exposure",
+    "iconName": "exposure"
+  },
+  {
+    "iconClass": "bi bi-eye",
+    "iconName": "eye"
+  },
+  {
+    "iconClass": "bi bi-eye-fill",
+    "iconName": "eye-fill"
+  },
+  {
+    "iconClass": "bi bi-eye-slash",
+    "iconName": "eye-slash"
+  },
+  {
+    "iconClass": "bi bi-eye-slash-fill",
+    "iconName": "eye-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-eyedropper",
+    "iconName": "eyedropper"
+  },
+  {
+    "iconClass": "bi bi-eyeglasses",
+    "iconName": "eyeglasses"
+  },
+  {
+    "iconClass": "bi bi-facebook",
+    "iconName": "facebook"
+  },
+  {
+    "iconClass": "bi bi-fan",
+    "iconName": "fan"
+  },
+  {
+    "iconClass": "bi bi-fast-forward",
+    "iconName": "fast-forward"
+  },
+  {
+    "iconClass": "bi bi-fast-forward-btn",
+    "iconName": "fast-forward-btn"
+  },
+  {
+    "iconClass": "bi bi-fast-forward-btn-fill",
+    "iconName": "fast-forward-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-fast-forward-circle",
+    "iconName": "fast-forward-circle"
+  },
+  {
+    "iconClass": "bi bi-fast-forward-circle-fill",
+    "iconName": "fast-forward-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-fast-forward-fill",
+    "iconName": "fast-forward-fill"
+  },
+  {
+    "iconClass": "bi bi-feather",
+    "iconName": "feather"
+  },
+  {
+    "iconClass": "bi bi-feather2",
+    "iconName": "feather2"
+  },
+  {
+    "iconClass": "bi bi-file",
+    "iconName": "file"
+  },
+  {
+    "iconClass": "bi bi-file-arrow-down",
+    "iconName": "file-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-file-arrow-down-fill",
+    "iconName": "file-arrow-down-fill"
+  },
+  {
+    "iconClass": "bi bi-file-arrow-up",
+    "iconName": "file-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-file-arrow-up-fill",
+    "iconName": "file-arrow-up-fill"
+  },
+  {
+    "iconClass": "bi bi-file-bar-graph",
+    "iconName": "file-bar-graph"
+  },
+  {
+    "iconClass": "bi bi-file-bar-graph-fill",
+    "iconName": "file-bar-graph-fill"
+  },
+  {
+    "iconClass": "bi bi-file-binary",
+    "iconName": "file-binary"
+  },
+  {
+    "iconClass": "bi bi-file-binary-fill",
+    "iconName": "file-binary-fill"
+  },
+  {
+    "iconClass": "bi bi-file-break",
+    "iconName": "file-break"
+  },
+  {
+    "iconClass": "bi bi-file-break-fill",
+    "iconName": "file-break-fill"
+  },
+  {
+    "iconClass": "bi bi-file-check",
+    "iconName": "file-check"
+  },
+  {
+    "iconClass": "bi bi-file-check-fill",
+    "iconName": "file-check-fill"
+  },
+  {
+    "iconClass": "bi bi-file-code",
+    "iconName": "file-code"
+  },
+  {
+    "iconClass": "bi bi-file-code-fill",
+    "iconName": "file-code-fill"
+  },
+  {
+    "iconClass": "bi bi-file-diff",
+    "iconName": "file-diff"
+  },
+  {
+    "iconClass": "bi bi-file-diff-fill",
+    "iconName": "file-diff-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark",
+    "iconName": "file-earmark"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-arrow-down",
+    "iconName": "file-earmark-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-arrow-down-fill",
+    "iconName": "file-earmark-arrow-down-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-arrow-up",
+    "iconName": "file-earmark-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-arrow-up-fill",
+    "iconName": "file-earmark-arrow-up-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-bar-graph",
+    "iconName": "file-earmark-bar-graph"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-bar-graph-fill",
+    "iconName": "file-earmark-bar-graph-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-binary",
+    "iconName": "file-earmark-binary"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-binary-fill",
+    "iconName": "file-earmark-binary-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-break",
+    "iconName": "file-earmark-break"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-break-fill",
+    "iconName": "file-earmark-break-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-check",
+    "iconName": "file-earmark-check"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-check-fill",
+    "iconName": "file-earmark-check-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-code",
+    "iconName": "file-earmark-code"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-code-fill",
+    "iconName": "file-earmark-code-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-diff",
+    "iconName": "file-earmark-diff"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-diff-fill",
+    "iconName": "file-earmark-diff-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-easel",
+    "iconName": "file-earmark-easel"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-easel-fill",
+    "iconName": "file-earmark-easel-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-excel",
+    "iconName": "file-earmark-excel"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-excel-fill",
+    "iconName": "file-earmark-excel-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-fill",
+    "iconName": "file-earmark-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-font",
+    "iconName": "file-earmark-font"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-font-fill",
+    "iconName": "file-earmark-font-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-image",
+    "iconName": "file-earmark-image"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-image-fill",
+    "iconName": "file-earmark-image-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-lock",
+    "iconName": "file-earmark-lock"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-lock-fill",
+    "iconName": "file-earmark-lock-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-lock2",
+    "iconName": "file-earmark-lock2"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-lock2-fill",
+    "iconName": "file-earmark-lock2-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-medical",
+    "iconName": "file-earmark-medical"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-medical-fill",
+    "iconName": "file-earmark-medical-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-minus",
+    "iconName": "file-earmark-minus"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-minus-fill",
+    "iconName": "file-earmark-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-music",
+    "iconName": "file-earmark-music"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-music-fill",
+    "iconName": "file-earmark-music-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-pdf",
+    "iconName": "file-earmark-pdf"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-pdf-fill",
+    "iconName": "file-earmark-pdf-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-person",
+    "iconName": "file-earmark-person"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-person-fill",
+    "iconName": "file-earmark-person-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-play",
+    "iconName": "file-earmark-play"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-play-fill",
+    "iconName": "file-earmark-play-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-plus",
+    "iconName": "file-earmark-plus"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-plus-fill",
+    "iconName": "file-earmark-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-post",
+    "iconName": "file-earmark-post"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-post-fill",
+    "iconName": "file-earmark-post-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-ppt",
+    "iconName": "file-earmark-ppt"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-ppt-fill",
+    "iconName": "file-earmark-ppt-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-richtext",
+    "iconName": "file-earmark-richtext"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-richtext-fill",
+    "iconName": "file-earmark-richtext-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-ruled",
+    "iconName": "file-earmark-ruled"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-ruled-fill",
+    "iconName": "file-earmark-ruled-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-slides",
+    "iconName": "file-earmark-slides"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-slides-fill",
+    "iconName": "file-earmark-slides-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-spreadsheet",
+    "iconName": "file-earmark-spreadsheet"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-spreadsheet-fill",
+    "iconName": "file-earmark-spreadsheet-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-text",
+    "iconName": "file-earmark-text"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-text-fill",
+    "iconName": "file-earmark-text-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-word",
+    "iconName": "file-earmark-word"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-word-fill",
+    "iconName": "file-earmark-word-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-x",
+    "iconName": "file-earmark-x"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-x-fill",
+    "iconName": "file-earmark-x-fill"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-zip",
+    "iconName": "file-earmark-zip"
+  },
+  {
+    "iconClass": "bi bi-file-earmark-zip-fill",
+    "iconName": "file-earmark-zip-fill"
+  },
+  {
+    "iconClass": "bi bi-file-easel",
+    "iconName": "file-easel"
+  },
+  {
+    "iconClass": "bi bi-file-easel-fill",
+    "iconName": "file-easel-fill"
+  },
+  {
+    "iconClass": "bi bi-file-excel",
+    "iconName": "file-excel"
+  },
+  {
+    "iconClass": "bi bi-file-excel-fill",
+    "iconName": "file-excel-fill"
+  },
+  {
+    "iconClass": "bi bi-file-fill",
+    "iconName": "file-fill"
+  },
+  {
+    "iconClass": "bi bi-file-font",
+    "iconName": "file-font"
+  },
+  {
+    "iconClass": "bi bi-file-font-fill",
+    "iconName": "file-font-fill"
+  },
+  {
+    "iconClass": "bi bi-file-image",
+    "iconName": "file-image"
+  },
+  {
+    "iconClass": "bi bi-file-image-fill",
+    "iconName": "file-image-fill"
+  },
+  {
+    "iconClass": "bi bi-file-lock",
+    "iconName": "file-lock"
+  },
+  {
+    "iconClass": "bi bi-file-lock-fill",
+    "iconName": "file-lock-fill"
+  },
+  {
+    "iconClass": "bi bi-file-lock2",
+    "iconName": "file-lock2"
+  },
+  {
+    "iconClass": "bi bi-file-lock2-fill",
+    "iconName": "file-lock2-fill"
+  },
+  {
+    "iconClass": "bi bi-file-medical",
+    "iconName": "file-medical"
+  },
+  {
+    "iconClass": "bi bi-file-medical-fill",
+    "iconName": "file-medical-fill"
+  },
+  {
+    "iconClass": "bi bi-file-minus",
+    "iconName": "file-minus"
+  },
+  {
+    "iconClass": "bi bi-file-minus-fill",
+    "iconName": "file-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-file-music",
+    "iconName": "file-music"
+  },
+  {
+    "iconClass": "bi bi-file-music-fill",
+    "iconName": "file-music-fill"
+  },
+  {
+    "iconClass": "bi bi-file-pdf",
+    "iconName": "file-pdf"
+  },
+  {
+    "iconClass": "bi bi-file-pdf-fill",
+    "iconName": "file-pdf-fill"
+  },
+  {
+    "iconClass": "bi bi-file-person",
+    "iconName": "file-person"
+  },
+  {
+    "iconClass": "bi bi-file-person-fill",
+    "iconName": "file-person-fill"
+  },
+  {
+    "iconClass": "bi bi-file-play",
+    "iconName": "file-play"
+  },
+  {
+    "iconClass": "bi bi-file-play-fill",
+    "iconName": "file-play-fill"
+  },
+  {
+    "iconClass": "bi bi-file-plus",
+    "iconName": "file-plus"
+  },
+  {
+    "iconClass": "bi bi-file-plus-fill",
+    "iconName": "file-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-file-post",
+    "iconName": "file-post"
+  },
+  {
+    "iconClass": "bi bi-file-post-fill",
+    "iconName": "file-post-fill"
+  },
+  {
+    "iconClass": "bi bi-file-ppt",
+    "iconName": "file-ppt"
+  },
+  {
+    "iconClass": "bi bi-file-ppt-fill",
+    "iconName": "file-ppt-fill"
+  },
+  {
+    "iconClass": "bi bi-file-richtext",
+    "iconName": "file-richtext"
+  },
+  {
+    "iconClass": "bi bi-file-richtext-fill",
+    "iconName": "file-richtext-fill"
+  },
+  {
+    "iconClass": "bi bi-file-ruled",
+    "iconName": "file-ruled"
+  },
+  {
+    "iconClass": "bi bi-file-ruled-fill",
+    "iconName": "file-ruled-fill"
+  },
+  {
+    "iconClass": "bi bi-file-slides",
+    "iconName": "file-slides"
+  },
+  {
+    "iconClass": "bi bi-file-slides-fill",
+    "iconName": "file-slides-fill"
+  },
+  {
+    "iconClass": "bi bi-file-spreadsheet",
+    "iconName": "file-spreadsheet"
+  },
+  {
+    "iconClass": "bi bi-file-spreadsheet-fill",
+    "iconName": "file-spreadsheet-fill"
+  },
+  {
+    "iconClass": "bi bi-file-text",
+    "iconName": "file-text"
+  },
+  {
+    "iconClass": "bi bi-file-text-fill",
+    "iconName": "file-text-fill"
+  },
+  {
+    "iconClass": "bi bi-file-word",
+    "iconName": "file-word"
+  },
+  {
+    "iconClass": "bi bi-file-word-fill",
+    "iconName": "file-word-fill"
+  },
+  {
+    "iconClass": "bi bi-file-x",
+    "iconName": "file-x"
+  },
+  {
+    "iconClass": "bi bi-file-x-fill",
+    "iconName": "file-x-fill"
+  },
+  {
+    "iconClass": "bi bi-file-zip",
+    "iconName": "file-zip"
+  },
+  {
+    "iconClass": "bi bi-file-zip-fill",
+    "iconName": "file-zip-fill"
+  },
+  {
+    "iconClass": "bi bi-files",
+    "iconName": "files"
+  },
+  {
+    "iconClass": "bi bi-files-alt",
+    "iconName": "files-alt"
+  },
+  {
+    "iconClass": "bi bi-filetype-aac",
+    "iconName": "filetype-aac"
+  },
+  {
+    "iconClass": "bi bi-filetype-ai",
+    "iconName": "filetype-ai"
+  },
+  {
+    "iconClass": "bi bi-filetype-bmp",
+    "iconName": "filetype-bmp"
+  },
+  {
+    "iconClass": "bi bi-filetype-cs",
+    "iconName": "filetype-cs"
+  },
+  {
+    "iconClass": "bi bi-filetype-css",
+    "iconName": "filetype-css"
+  },
+  {
+    "iconClass": "bi bi-filetype-csv",
+    "iconName": "filetype-csv"
+  },
+  {
+    "iconClass": "bi bi-filetype-doc",
+    "iconName": "filetype-doc"
+  },
+  {
+    "iconClass": "bi bi-filetype-docx",
+    "iconName": "filetype-docx"
+  },
+  {
+    "iconClass": "bi bi-filetype-exe",
+    "iconName": "filetype-exe"
+  },
+  {
+    "iconClass": "bi bi-filetype-gif",
+    "iconName": "filetype-gif"
+  },
+  {
+    "iconClass": "bi bi-filetype-heic",
+    "iconName": "filetype-heic"
+  },
+  {
+    "iconClass": "bi bi-filetype-html",
+    "iconName": "filetype-html"
+  },
+  {
+    "iconClass": "bi bi-filetype-java",
+    "iconName": "filetype-java"
+  },
+  {
+    "iconClass": "bi bi-filetype-jpg",
+    "iconName": "filetype-jpg"
+  },
+  {
+    "iconClass": "bi bi-filetype-js",
+    "iconName": "filetype-js"
+  },
+  {
+    "iconClass": "bi bi-filetype-json",
+    "iconName": "filetype-json"
+  },
+  {
+    "iconClass": "bi bi-filetype-jsx",
+    "iconName": "filetype-jsx"
+  },
+  {
+    "iconClass": "bi bi-filetype-key",
+    "iconName": "filetype-key"
+  },
+  {
+    "iconClass": "bi bi-filetype-m4p",
+    "iconName": "filetype-m4p"
+  },
+  {
+    "iconClass": "bi bi-filetype-md",
+    "iconName": "filetype-md"
+  },
+  {
+    "iconClass": "bi bi-filetype-mdx",
+    "iconName": "filetype-mdx"
+  },
+  {
+    "iconClass": "bi bi-filetype-mov",
+    "iconName": "filetype-mov"
+  },
+  {
+    "iconClass": "bi bi-filetype-mp3",
+    "iconName": "filetype-mp3"
+  },
+  {
+    "iconClass": "bi bi-filetype-mp4",
+    "iconName": "filetype-mp4"
+  },
+  {
+    "iconClass": "bi bi-filetype-otf",
+    "iconName": "filetype-otf"
+  },
+  {
+    "iconClass": "bi bi-filetype-pdf",
+    "iconName": "filetype-pdf"
+  },
+  {
+    "iconClass": "bi bi-filetype-php",
+    "iconName": "filetype-php"
+  },
+  {
+    "iconClass": "bi bi-filetype-png",
+    "iconName": "filetype-png"
+  },
+  {
+    "iconClass": "bi bi-filetype-ppt",
+    "iconName": "filetype-ppt"
+  },
+  {
+    "iconClass": "bi bi-filetype-pptx",
+    "iconName": "filetype-pptx"
+  },
+  {
+    "iconClass": "bi bi-filetype-psd",
+    "iconName": "filetype-psd"
+  },
+  {
+    "iconClass": "bi bi-filetype-py",
+    "iconName": "filetype-py"
+  },
+  {
+    "iconClass": "bi bi-filetype-raw",
+    "iconName": "filetype-raw"
+  },
+  {
+    "iconClass": "bi bi-filetype-rb",
+    "iconName": "filetype-rb"
+  },
+  {
+    "iconClass": "bi bi-filetype-sass",
+    "iconName": "filetype-sass"
+  },
+  {
+    "iconClass": "bi bi-filetype-scss",
+    "iconName": "filetype-scss"
+  },
+  {
+    "iconClass": "bi bi-filetype-sh",
+    "iconName": "filetype-sh"
+  },
+  {
+    "iconClass": "bi bi-filetype-sql",
+    "iconName": "filetype-sql"
+  },
+  {
+    "iconClass": "bi bi-filetype-svg",
+    "iconName": "filetype-svg"
+  },
+  {
+    "iconClass": "bi bi-filetype-tiff",
+    "iconName": "filetype-tiff"
+  },
+  {
+    "iconClass": "bi bi-filetype-tsx",
+    "iconName": "filetype-tsx"
+  },
+  {
+    "iconClass": "bi bi-filetype-ttf",
+    "iconName": "filetype-ttf"
+  },
+  {
+    "iconClass": "bi bi-filetype-txt",
+    "iconName": "filetype-txt"
+  },
+  {
+    "iconClass": "bi bi-filetype-wav",
+    "iconName": "filetype-wav"
+  },
+  {
+    "iconClass": "bi bi-filetype-woff",
+    "iconName": "filetype-woff"
+  },
+  {
+    "iconClass": "bi bi-filetype-xls",
+    "iconName": "filetype-xls"
+  },
+  {
+    "iconClass": "bi bi-filetype-xlsx",
+    "iconName": "filetype-xlsx"
+  },
+  {
+    "iconClass": "bi bi-filetype-xml",
+    "iconName": "filetype-xml"
+  },
+  {
+    "iconClass": "bi bi-filetype-yml",
+    "iconName": "filetype-yml"
+  },
+  {
+    "iconClass": "bi bi-film",
+    "iconName": "film"
+  },
+  {
+    "iconClass": "bi bi-filter",
+    "iconName": "filter"
+  },
+  {
+    "iconClass": "bi bi-filter-circle",
+    "iconName": "filter-circle"
+  },
+  {
+    "iconClass": "bi bi-filter-circle-fill",
+    "iconName": "filter-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-filter-left",
+    "iconName": "filter-left"
+  },
+  {
+    "iconClass": "bi bi-filter-right",
+    "iconName": "filter-right"
+  },
+  {
+    "iconClass": "bi bi-filter-square",
+    "iconName": "filter-square"
+  },
+  {
+    "iconClass": "bi bi-filter-square-fill",
+    "iconName": "filter-square-fill"
+  },
+  {
+    "iconClass": "bi bi-fingerprint",
+    "iconName": "fingerprint"
+  },
+  {
+    "iconClass": "bi bi-fire",
+    "iconName": "fire"
+  },
+  {
+    "iconClass": "bi bi-flag",
+    "iconName": "flag"
+  },
+  {
+    "iconClass": "bi bi-flag-fill",
+    "iconName": "flag-fill"
+  },
+  {
+    "iconClass": "bi bi-floppy",
+    "iconName": "floppy"
+  },
+  {
+    "iconClass": "bi bi-floppy-fill",
+    "iconName": "floppy-fill"
+  },
+  {
+    "iconClass": "bi bi-floppy2",
+    "iconName": "floppy2"
+  },
+  {
+    "iconClass": "bi bi-floppy2-fill",
+    "iconName": "floppy2-fill"
+  },
+  {
+    "iconClass": "bi bi-flower1",
+    "iconName": "flower1"
+  },
+  {
+    "iconClass": "bi bi-flower2",
+    "iconName": "flower2"
+  },
+  {
+    "iconClass": "bi bi-flower3",
+    "iconName": "flower3"
+  },
+  {
+    "iconClass": "bi bi-folder",
+    "iconName": "folder"
+  },
+  {
+    "iconClass": "bi bi-folder-check",
+    "iconName": "folder-check"
+  },
+  {
+    "iconClass": "bi bi-folder-fill",
+    "iconName": "folder-fill"
+  },
+  {
+    "iconClass": "bi bi-folder-minus",
+    "iconName": "folder-minus"
+  },
+  {
+    "iconClass": "bi bi-folder-plus",
+    "iconName": "folder-plus"
+  },
+  {
+    "iconClass": "bi bi-folder-symlink",
+    "iconName": "folder-symlink"
+  },
+  {
+    "iconClass": "bi bi-folder-symlink-fill",
+    "iconName": "folder-symlink-fill"
+  },
+  {
+    "iconClass": "bi bi-folder-x",
+    "iconName": "folder-x"
+  },
+  {
+    "iconClass": "bi bi-folder2",
+    "iconName": "folder2"
+  },
+  {
+    "iconClass": "bi bi-folder2-open",
+    "iconName": "folder2-open"
+  },
+  {
+    "iconClass": "bi bi-fonts",
+    "iconName": "fonts"
+  },
+  {
+    "iconClass": "bi bi-forward",
+    "iconName": "forward"
+  },
+  {
+    "iconClass": "bi bi-forward-fill",
+    "iconName": "forward-fill"
+  },
+  {
+    "iconClass": "bi bi-front",
+    "iconName": "front"
+  },
+  {
+    "iconClass": "bi bi-fuel-pump",
+    "iconName": "fuel-pump"
+  },
+  {
+    "iconClass": "bi bi-fuel-pump-diesel",
+    "iconName": "fuel-pump-diesel"
+  },
+  {
+    "iconClass": "bi bi-fuel-pump-diesel-fill",
+    "iconName": "fuel-pump-diesel-fill"
+  },
+  {
+    "iconClass": "bi bi-fuel-pump-fill",
+    "iconName": "fuel-pump-fill"
+  },
+  {
+    "iconClass": "bi bi-fullscreen",
+    "iconName": "fullscreen"
+  },
+  {
+    "iconClass": "bi bi-fullscreen-exit",
+    "iconName": "fullscreen-exit"
+  },
+  {
+    "iconClass": "bi bi-funnel",
+    "iconName": "funnel"
+  },
+  {
+    "iconClass": "bi bi-funnel-fill",
+    "iconName": "funnel-fill"
+  },
+  {
+    "iconClass": "bi bi-gear",
+    "iconName": "gear"
+  },
+  {
+    "iconClass": "bi bi-gear-fill",
+    "iconName": "gear-fill"
+  },
+  {
+    "iconClass": "bi bi-gear-wide",
+    "iconName": "gear-wide"
+  },
+  {
+    "iconClass": "bi bi-gear-wide-connected",
+    "iconName": "gear-wide-connected"
+  },
+  {
+    "iconClass": "bi bi-gem",
+    "iconName": "gem"
+  },
+  {
+    "iconClass": "bi bi-gender-ambiguous",
+    "iconName": "gender-ambiguous"
+  },
+  {
+    "iconClass": "bi bi-gender-female",
+    "iconName": "gender-female"
+  },
+  {
+    "iconClass": "bi bi-gender-male",
+    "iconName": "gender-male"
+  },
+  {
+    "iconClass": "bi bi-gender-neuter",
+    "iconName": "gender-neuter"
+  },
+  {
+    "iconClass": "bi bi-gender-trans",
+    "iconName": "gender-trans"
+  },
+  {
+    "iconClass": "bi bi-geo",
+    "iconName": "geo"
+  },
+  {
+    "iconClass": "bi bi-geo-alt",
+    "iconName": "geo-alt"
+  },
+  {
+    "iconClass": "bi bi-geo-alt-fill",
+    "iconName": "geo-alt-fill"
+  },
+  {
+    "iconClass": "bi bi-geo-fill",
+    "iconName": "geo-fill"
+  },
+  {
+    "iconClass": "bi bi-gift",
+    "iconName": "gift"
+  },
+  {
+    "iconClass": "bi bi-gift-fill",
+    "iconName": "gift-fill"
+  },
+  {
+    "iconClass": "bi bi-git",
+    "iconName": "git"
+  },
+  {
+    "iconClass": "bi bi-github",
+    "iconName": "github"
+  },
+  {
+    "iconClass": "bi bi-gitlab",
+    "iconName": "gitlab"
+  },
+  {
+    "iconClass": "bi bi-globe",
+    "iconName": "globe"
+  },
+  {
+    "iconClass": "bi bi-globe-americas",
+    "iconName": "globe-americas"
+  },
+  {
+    "iconClass": "bi bi-globe-asia-australia",
+    "iconName": "globe-asia-australia"
+  },
+  {
+    "iconClass": "bi bi-globe-central-south-asia",
+    "iconName": "globe-central-south-asia"
+  },
+  {
+    "iconClass": "bi bi-globe-europe-africa",
+    "iconName": "globe-europe-africa"
+  },
+  {
+    "iconClass": "bi bi-globe2",
+    "iconName": "globe2"
+  },
+  {
+    "iconClass": "bi bi-google",
+    "iconName": "google"
+  },
+  {
+    "iconClass": "bi bi-google-play",
+    "iconName": "google-play"
+  },
+  {
+    "iconClass": "bi bi-gpu-card",
+    "iconName": "gpu-card"
+  },
+  {
+    "iconClass": "bi bi-graph-down",
+    "iconName": "graph-down"
+  },
+  {
+    "iconClass": "bi bi-graph-down-arrow",
+    "iconName": "graph-down-arrow"
+  },
+  {
+    "iconClass": "bi bi-graph-up",
+    "iconName": "graph-up"
+  },
+  {
+    "iconClass": "bi bi-graph-up-arrow",
+    "iconName": "graph-up-arrow"
+  },
+  {
+    "iconClass": "bi bi-grid",
+    "iconName": "grid"
+  },
+  {
+    "iconClass": "bi bi-grid-1x2",
+    "iconName": "grid-1x2"
+  },
+  {
+    "iconClass": "bi bi-grid-1x2-fill",
+    "iconName": "grid-1x2-fill"
+  },
+  {
+    "iconClass": "bi bi-grid-3x2",
+    "iconName": "grid-3x2"
+  },
+  {
+    "iconClass": "bi bi-grid-3x2-gap",
+    "iconName": "grid-3x2-gap"
+  },
+  {
+    "iconClass": "bi bi-grid-3x2-gap-fill",
+    "iconName": "grid-3x2-gap-fill"
+  },
+  {
+    "iconClass": "bi bi-grid-3x3",
+    "iconName": "grid-3x3"
+  },
+  {
+    "iconClass": "bi bi-grid-3x3-gap",
+    "iconName": "grid-3x3-gap"
+  },
+  {
+    "iconClass": "bi bi-grid-3x3-gap-fill",
+    "iconName": "grid-3x3-gap-fill"
+  },
+  {
+    "iconClass": "bi bi-grid-fill",
+    "iconName": "grid-fill"
+  },
+  {
+    "iconClass": "bi bi-grip-horizontal",
+    "iconName": "grip-horizontal"
+  },
+  {
+    "iconClass": "bi bi-grip-vertical",
+    "iconName": "grip-vertical"
+  },
+  {
+    "iconClass": "bi bi-h-circle",
+    "iconName": "h-circle"
+  },
+  {
+    "iconClass": "bi bi-h-circle-fill",
+    "iconName": "h-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-h-square",
+    "iconName": "h-square"
+  },
+  {
+    "iconClass": "bi bi-h-square-fill",
+    "iconName": "h-square-fill"
+  },
+  {
+    "iconClass": "bi bi-hammer",
+    "iconName": "hammer"
+  },
+  {
+    "iconClass": "bi bi-hand-index",
+    "iconName": "hand-index"
+  },
+  {
+    "iconClass": "bi bi-hand-index-fill",
+    "iconName": "hand-index-fill"
+  },
+  {
+    "iconClass": "bi bi-hand-index-thumb",
+    "iconName": "hand-index-thumb"
+  },
+  {
+    "iconClass": "bi bi-hand-index-thumb-fill",
+    "iconName": "hand-index-thumb-fill"
+  },
+  {
+    "iconClass": "bi bi-hand-thumbs-down",
+    "iconName": "hand-thumbs-down"
+  },
+  {
+    "iconClass": "bi bi-hand-thumbs-down-fill",
+    "iconName": "hand-thumbs-down-fill"
+  },
+  {
+    "iconClass": "bi bi-hand-thumbs-up",
+    "iconName": "hand-thumbs-up"
+  },
+  {
+    "iconClass": "bi bi-hand-thumbs-up-fill",
+    "iconName": "hand-thumbs-up-fill"
+  },
+  {
+    "iconClass": "bi bi-handbag",
+    "iconName": "handbag"
+  },
+  {
+    "iconClass": "bi bi-handbag-fill",
+    "iconName": "handbag-fill"
+  },
+  {
+    "iconClass": "bi bi-hash",
+    "iconName": "hash"
+  },
+  {
+    "iconClass": "bi bi-hdd",
+    "iconName": "hdd"
+  },
+  {
+    "iconClass": "bi bi-hdd-fill",
+    "iconName": "hdd-fill"
+  },
+  {
+    "iconClass": "bi bi-hdd-network",
+    "iconName": "hdd-network"
+  },
+  {
+    "iconClass": "bi bi-hdd-network-fill",
+    "iconName": "hdd-network-fill"
+  },
+  {
+    "iconClass": "bi bi-hdd-rack",
+    "iconName": "hdd-rack"
+  },
+  {
+    "iconClass": "bi bi-hdd-rack-fill",
+    "iconName": "hdd-rack-fill"
+  },
+  {
+    "iconClass": "bi bi-hdd-stack",
+    "iconName": "hdd-stack"
+  },
+  {
+    "iconClass": "bi bi-hdd-stack-fill",
+    "iconName": "hdd-stack-fill"
+  },
+  {
+    "iconClass": "bi bi-hdmi",
+    "iconName": "hdmi"
+  },
+  {
+    "iconClass": "bi bi-hdmi-fill",
+    "iconName": "hdmi-fill"
+  },
+  {
+    "iconClass": "bi bi-headphones",
+    "iconName": "headphones"
+  },
+  {
+    "iconClass": "bi bi-headset",
+    "iconName": "headset"
+  },
+  {
+    "iconClass": "bi bi-headset-vr",
+    "iconName": "headset-vr"
+  },
+  {
+    "iconClass": "bi bi-heart",
+    "iconName": "heart"
+  },
+  {
+    "iconClass": "bi bi-heart-arrow",
+    "iconName": "heart-arrow"
+  },
+  {
+    "iconClass": "bi bi-heart-fill",
+    "iconName": "heart-fill"
+  },
+  {
+    "iconClass": "bi bi-heart-half",
+    "iconName": "heart-half"
+  },
+  {
+    "iconClass": "bi bi-heart-pulse",
+    "iconName": "heart-pulse"
+  },
+  {
+    "iconClass": "bi bi-heart-pulse-fill",
+    "iconName": "heart-pulse-fill"
+  },
+  {
+    "iconClass": "bi bi-heartbreak",
+    "iconName": "heartbreak"
+  },
+  {
+    "iconClass": "bi bi-heartbreak-fill",
+    "iconName": "heartbreak-fill"
+  },
+  {
+    "iconClass": "bi bi-hearts",
+    "iconName": "hearts"
+  },
+  {
+    "iconClass": "bi bi-heptagon",
+    "iconName": "heptagon"
+  },
+  {
+    "iconClass": "bi bi-heptagon-fill",
+    "iconName": "heptagon-fill"
+  },
+  {
+    "iconClass": "bi bi-heptagon-half",
+    "iconName": "heptagon-half"
+  },
+  {
+    "iconClass": "bi bi-hexagon",
+    "iconName": "hexagon"
+  },
+  {
+    "iconClass": "bi bi-hexagon-fill",
+    "iconName": "hexagon-fill"
+  },
+  {
+    "iconClass": "bi bi-hexagon-half",
+    "iconName": "hexagon-half"
+  },
+  {
+    "iconClass": "bi bi-highlighter",
+    "iconName": "highlighter"
+  },
+  {
+    "iconClass": "bi bi-highlights",
+    "iconName": "highlights"
+  },
+  {
+    "iconClass": "bi bi-hospital",
+    "iconName": "hospital"
+  },
+  {
+    "iconClass": "bi bi-hospital-fill",
+    "iconName": "hospital-fill"
+  },
+  {
+    "iconClass": "bi bi-hourglass",
+    "iconName": "hourglass"
+  },
+  {
+    "iconClass": "bi bi-hourglass-bottom",
+    "iconName": "hourglass-bottom"
+  },
+  {
+    "iconClass": "bi bi-hourglass-split",
+    "iconName": "hourglass-split"
+  },
+  {
+    "iconClass": "bi bi-hourglass-top",
+    "iconName": "hourglass-top"
+  },
+  {
+    "iconClass": "bi bi-house",
+    "iconName": "house"
+  },
+  {
+    "iconClass": "bi bi-house-add",
+    "iconName": "house-add"
+  },
+  {
+    "iconClass": "bi bi-house-add-fill",
+    "iconName": "house-add-fill"
+  },
+  {
+    "iconClass": "bi bi-house-check",
+    "iconName": "house-check"
+  },
+  {
+    "iconClass": "bi bi-house-check-fill",
+    "iconName": "house-check-fill"
+  },
+  {
+    "iconClass": "bi bi-house-dash",
+    "iconName": "house-dash"
+  },
+  {
+    "iconClass": "bi bi-house-dash-fill",
+    "iconName": "house-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-house-door",
+    "iconName": "house-door"
+  },
+  {
+    "iconClass": "bi bi-house-door-fill",
+    "iconName": "house-door-fill"
+  },
+  {
+    "iconClass": "bi bi-house-down",
+    "iconName": "house-down"
+  },
+  {
+    "iconClass": "bi bi-house-down-fill",
+    "iconName": "house-down-fill"
+  },
+  {
+    "iconClass": "bi bi-house-exclamation",
+    "iconName": "house-exclamation"
+  },
+  {
+    "iconClass": "bi bi-house-exclamation-fill",
+    "iconName": "house-exclamation-fill"
+  },
+  {
+    "iconClass": "bi bi-house-fill",
+    "iconName": "house-fill"
+  },
+  {
+    "iconClass": "bi bi-house-gear",
+    "iconName": "house-gear"
+  },
+  {
+    "iconClass": "bi bi-house-gear-fill",
+    "iconName": "house-gear-fill"
+  },
+  {
+    "iconClass": "bi bi-house-heart",
+    "iconName": "house-heart"
+  },
+  {
+    "iconClass": "bi bi-house-heart-fill",
+    "iconName": "house-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-house-lock",
+    "iconName": "house-lock"
+  },
+  {
+    "iconClass": "bi bi-house-lock-fill",
+    "iconName": "house-lock-fill"
+  },
+  {
+    "iconClass": "bi bi-house-slash",
+    "iconName": "house-slash"
+  },
+  {
+    "iconClass": "bi bi-house-slash-fill",
+    "iconName": "house-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-house-up",
+    "iconName": "house-up"
+  },
+  {
+    "iconClass": "bi bi-house-up-fill",
+    "iconName": "house-up-fill"
+  },
+  {
+    "iconClass": "bi bi-house-x",
+    "iconName": "house-x"
+  },
+  {
+    "iconClass": "bi bi-house-x-fill",
+    "iconName": "house-x-fill"
+  },
+  {
+    "iconClass": "bi bi-houses",
+    "iconName": "houses"
+  },
+  {
+    "iconClass": "bi bi-houses-fill",
+    "iconName": "houses-fill"
+  },
+  {
+    "iconClass": "bi bi-hr",
+    "iconName": "hr"
+  },
+  {
+    "iconClass": "bi bi-hurricane",
+    "iconName": "hurricane"
+  },
+  {
+    "iconClass": "bi bi-hypnotize",
+    "iconName": "hypnotize"
+  },
+  {
+    "iconClass": "bi bi-image",
+    "iconName": "image"
+  },
+  {
+    "iconClass": "bi bi-image-alt",
+    "iconName": "image-alt"
+  },
+  {
+    "iconClass": "bi bi-image-fill",
+    "iconName": "image-fill"
+  },
+  {
+    "iconClass": "bi bi-images",
+    "iconName": "images"
+  },
+  {
+    "iconClass": "bi bi-inbox",
+    "iconName": "inbox"
+  },
+  {
+    "iconClass": "bi bi-inbox-fill",
+    "iconName": "inbox-fill"
+  },
+  {
+    "iconClass": "bi bi-inboxes",
+    "iconName": "inboxes"
+  },
+  {
+    "iconClass": "bi bi-inboxes-fill",
+    "iconName": "inboxes-fill"
+  },
+  {
+    "iconClass": "bi bi-incognito",
+    "iconName": "incognito"
+  },
+  {
+    "iconClass": "bi bi-indent",
+    "iconName": "indent"
+  },
+  {
+    "iconClass": "bi bi-infinity",
+    "iconName": "infinity"
+  },
+  {
+    "iconClass": "bi bi-info",
+    "iconName": "info"
+  },
+  {
+    "iconClass": "bi bi-info-circle",
+    "iconName": "info-circle"
+  },
+  {
+    "iconClass": "bi bi-info-circle-fill",
+    "iconName": "info-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-info-lg",
+    "iconName": "info-lg"
+  },
+  {
+    "iconClass": "bi bi-info-square",
+    "iconName": "info-square"
+  },
+  {
+    "iconClass": "bi bi-info-square-fill",
+    "iconName": "info-square-fill"
+  },
+  {
+    "iconClass": "bi bi-input-cursor",
+    "iconName": "input-cursor"
+  },
+  {
+    "iconClass": "bi bi-input-cursor-text",
+    "iconName": "input-cursor-text"
+  },
+  {
+    "iconClass": "bi bi-instagram",
+    "iconName": "instagram"
+  },
+  {
+    "iconClass": "bi bi-intersect",
+    "iconName": "intersect"
+  },
+  {
+    "iconClass": "bi bi-journal",
+    "iconName": "journal"
+  },
+  {
+    "iconClass": "bi bi-journal-album",
+    "iconName": "journal-album"
+  },
+  {
+    "iconClass": "bi bi-journal-arrow-down",
+    "iconName": "journal-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-journal-arrow-up",
+    "iconName": "journal-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-journal-bookmark",
+    "iconName": "journal-bookmark"
+  },
+  {
+    "iconClass": "bi bi-journal-bookmark-fill",
+    "iconName": "journal-bookmark-fill"
+  },
+  {
+    "iconClass": "bi bi-journal-check",
+    "iconName": "journal-check"
+  },
+  {
+    "iconClass": "bi bi-journal-code",
+    "iconName": "journal-code"
+  },
+  {
+    "iconClass": "bi bi-journal-medical",
+    "iconName": "journal-medical"
+  },
+  {
+    "iconClass": "bi bi-journal-minus",
+    "iconName": "journal-minus"
+  },
+  {
+    "iconClass": "bi bi-journal-plus",
+    "iconName": "journal-plus"
+  },
+  {
+    "iconClass": "bi bi-journal-richtext",
+    "iconName": "journal-richtext"
+  },
+  {
+    "iconClass": "bi bi-journal-text",
+    "iconName": "journal-text"
+  },
+  {
+    "iconClass": "bi bi-journal-x",
+    "iconName": "journal-x"
+  },
+  {
+    "iconClass": "bi bi-journals",
+    "iconName": "journals"
+  },
+  {
+    "iconClass": "bi bi-joystick",
+    "iconName": "joystick"
+  },
+  {
+    "iconClass": "bi bi-justify",
+    "iconName": "justify"
+  },
+  {
+    "iconClass": "bi bi-justify-left",
+    "iconName": "justify-left"
+  },
+  {
+    "iconClass": "bi bi-justify-right",
+    "iconName": "justify-right"
+  },
+  {
+    "iconClass": "bi bi-kanban",
+    "iconName": "kanban"
+  },
+  {
+    "iconClass": "bi bi-kanban-fill",
+    "iconName": "kanban-fill"
+  },
+  {
+    "iconClass": "bi bi-key",
+    "iconName": "key"
+  },
+  {
+    "iconClass": "bi bi-key-fill",
+    "iconName": "key-fill"
+  },
+  {
+    "iconClass": "bi bi-keyboard",
+    "iconName": "keyboard"
+  },
+  {
+    "iconClass": "bi bi-keyboard-fill",
+    "iconName": "keyboard-fill"
+  },
+  {
+    "iconClass": "bi bi-ladder",
+    "iconName": "ladder"
+  },
+  {
+    "iconClass": "bi bi-lamp",
+    "iconName": "lamp"
+  },
+  {
+    "iconClass": "bi bi-lamp-fill",
+    "iconName": "lamp-fill"
+  },
+  {
+    "iconClass": "bi bi-laptop",
+    "iconName": "laptop"
+  },
+  {
+    "iconClass": "bi bi-laptop-fill",
+    "iconName": "laptop-fill"
+  },
+  {
+    "iconClass": "bi bi-layer-backward",
+    "iconName": "layer-backward"
+  },
+  {
+    "iconClass": "bi bi-layer-forward",
+    "iconName": "layer-forward"
+  },
+  {
+    "iconClass": "bi bi-layers",
+    "iconName": "layers"
+  },
+  {
+    "iconClass": "bi bi-layers-fill",
+    "iconName": "layers-fill"
+  },
+  {
+    "iconClass": "bi bi-layers-half",
+    "iconName": "layers-half"
+  },
+  {
+    "iconClass": "bi bi-layout-sidebar",
+    "iconName": "layout-sidebar"
+  },
+  {
+    "iconClass": "bi bi-layout-sidebar-inset",
+    "iconName": "layout-sidebar-inset"
+  },
+  {
+    "iconClass": "bi bi-layout-sidebar-inset-reverse",
+    "iconName": "layout-sidebar-inset-reverse"
+  },
+  {
+    "iconClass": "bi bi-layout-sidebar-reverse",
+    "iconName": "layout-sidebar-reverse"
+  },
+  {
+    "iconClass": "bi bi-layout-split",
+    "iconName": "layout-split"
+  },
+  {
+    "iconClass": "bi bi-layout-text-sidebar",
+    "iconName": "layout-text-sidebar"
+  },
+  {
+    "iconClass": "bi bi-layout-text-sidebar-reverse",
+    "iconName": "layout-text-sidebar-reverse"
+  },
+  {
+    "iconClass": "bi bi-layout-text-window",
+    "iconName": "layout-text-window"
+  },
+  {
+    "iconClass": "bi bi-layout-text-window-reverse",
+    "iconName": "layout-text-window-reverse"
+  },
+  {
+    "iconClass": "bi bi-layout-three-columns",
+    "iconName": "layout-three-columns"
+  },
+  {
+    "iconClass": "bi bi-layout-wtf",
+    "iconName": "layout-wtf"
+  },
+  {
+    "iconClass": "bi bi-life-preserver",
+    "iconName": "life-preserver"
+  },
+  {
+    "iconClass": "bi bi-lightbulb",
+    "iconName": "lightbulb"
+  },
+  {
+    "iconClass": "bi bi-lightbulb-fill",
+    "iconName": "lightbulb-fill"
+  },
+  {
+    "iconClass": "bi bi-lightbulb-off",
+    "iconName": "lightbulb-off"
+  },
+  {
+    "iconClass": "bi bi-lightbulb-off-fill",
+    "iconName": "lightbulb-off-fill"
+  },
+  {
+    "iconClass": "bi bi-lightning",
+    "iconName": "lightning"
+  },
+  {
+    "iconClass": "bi bi-lightning-charge",
+    "iconName": "lightning-charge"
+  },
+  {
+    "iconClass": "bi bi-lightning-charge-fill",
+    "iconName": "lightning-charge-fill"
+  },
+  {
+    "iconClass": "bi bi-lightning-fill",
+    "iconName": "lightning-fill"
+  },
+  {
+    "iconClass": "bi bi-line",
+    "iconName": "line"
+  },
+  {
+    "iconClass": "bi bi-link",
+    "iconName": "link"
+  },
+  {
+    "iconClass": "bi bi-link-45deg",
+    "iconName": "link-45deg"
+  },
+  {
+    "iconClass": "bi bi-linkedin",
+    "iconName": "linkedin"
+  },
+  {
+    "iconClass": "bi bi-list",
+    "iconName": "list"
+  },
+  {
+    "iconClass": "bi bi-list-check",
+    "iconName": "list-check"
+  },
+  {
+    "iconClass": "bi bi-list-columns",
+    "iconName": "list-columns"
+  },
+  {
+    "iconClass": "bi bi-list-columns-reverse",
+    "iconName": "list-columns-reverse"
+  },
+  {
+    "iconClass": "bi bi-list-nested",
+    "iconName": "list-nested"
+  },
+  {
+    "iconClass": "bi bi-list-ol",
+    "iconName": "list-ol"
+  },
+  {
+    "iconClass": "bi bi-list-stars",
+    "iconName": "list-stars"
+  },
+  {
+    "iconClass": "bi bi-list-task",
+    "iconName": "list-task"
+  },
+  {
+    "iconClass": "bi bi-list-ul",
+    "iconName": "list-ul"
+  },
+  {
+    "iconClass": "bi bi-lock",
+    "iconName": "lock"
+  },
+  {
+    "iconClass": "bi bi-lock-fill",
+    "iconName": "lock-fill"
+  },
+  {
+    "iconClass": "bi bi-luggage",
+    "iconName": "luggage"
+  },
+  {
+    "iconClass": "bi bi-luggage-fill",
+    "iconName": "luggage-fill"
+  },
+  {
+    "iconClass": "bi bi-lungs",
+    "iconName": "lungs"
+  },
+  {
+    "iconClass": "bi bi-lungs-fill",
+    "iconName": "lungs-fill"
+  },
+  {
+    "iconClass": "bi bi-magic",
+    "iconName": "magic"
+  },
+  {
+    "iconClass": "bi bi-magnet",
+    "iconName": "magnet"
+  },
+  {
+    "iconClass": "bi bi-magnet-fill",
+    "iconName": "magnet-fill"
+  },
+  {
+    "iconClass": "bi bi-mailbox",
+    "iconName": "mailbox"
+  },
+  {
+    "iconClass": "bi bi-mailbox-flag",
+    "iconName": "mailbox-flag"
+  },
+  {
+    "iconClass": "bi bi-mailbox2",
+    "iconName": "mailbox2"
+  },
+  {
+    "iconClass": "bi bi-mailbox2-flag",
+    "iconName": "mailbox2-flag"
+  },
+  {
+    "iconClass": "bi bi-map",
+    "iconName": "map"
+  },
+  {
+    "iconClass": "bi bi-map-fill",
+    "iconName": "map-fill"
+  },
+  {
+    "iconClass": "bi bi-markdown",
+    "iconName": "markdown"
+  },
+  {
+    "iconClass": "bi bi-markdown-fill",
+    "iconName": "markdown-fill"
+  },
+  {
+    "iconClass": "bi bi-marker-tip",
+    "iconName": "marker-tip"
+  },
+  {
+    "iconClass": "bi bi-mask",
+    "iconName": "mask"
+  },
+  {
+    "iconClass": "bi bi-mastodon",
+    "iconName": "mastodon"
+  },
+  {
+    "iconClass": "bi bi-medium",
+    "iconName": "medium"
+  },
+  {
+    "iconClass": "bi bi-megaphone",
+    "iconName": "megaphone"
+  },
+  {
+    "iconClass": "bi bi-megaphone-fill",
+    "iconName": "megaphone-fill"
+  },
+  {
+    "iconClass": "bi bi-memory",
+    "iconName": "memory"
+  },
+  {
+    "iconClass": "bi bi-menu-app",
+    "iconName": "menu-app"
+  },
+  {
+    "iconClass": "bi bi-menu-app-fill",
+    "iconName": "menu-app-fill"
+  },
+  {
+    "iconClass": "bi bi-menu-button",
+    "iconName": "menu-button"
+  },
+  {
+    "iconClass": "bi bi-menu-button-fill",
+    "iconName": "menu-button-fill"
+  },
+  {
+    "iconClass": "bi bi-menu-button-wide",
+    "iconName": "menu-button-wide"
+  },
+  {
+    "iconClass": "bi bi-menu-button-wide-fill",
+    "iconName": "menu-button-wide-fill"
+  },
+  {
+    "iconClass": "bi bi-menu-down",
+    "iconName": "menu-down"
+  },
+  {
+    "iconClass": "bi bi-menu-up",
+    "iconName": "menu-up"
+  },
+  {
+    "iconClass": "bi bi-messenger",
+    "iconName": "messenger"
+  },
+  {
+    "iconClass": "bi bi-meta",
+    "iconName": "meta"
+  },
+  {
+    "iconClass": "bi bi-mic",
+    "iconName": "mic"
+  },
+  {
+    "iconClass": "bi bi-mic-fill",
+    "iconName": "mic-fill"
+  },
+  {
+    "iconClass": "bi bi-mic-mute",
+    "iconName": "mic-mute"
+  },
+  {
+    "iconClass": "bi bi-mic-mute-fill",
+    "iconName": "mic-mute-fill"
+  },
+  {
+    "iconClass": "bi bi-microsoft",
+    "iconName": "microsoft"
+  },
+  {
+    "iconClass": "bi bi-microsoft-teams",
+    "iconName": "microsoft-teams"
+  },
+  {
+    "iconClass": "bi bi-minecart",
+    "iconName": "minecart"
+  },
+  {
+    "iconClass": "bi bi-minecart-loaded",
+    "iconName": "minecart-loaded"
+  },
+  {
+    "iconClass": "bi bi-modem",
+    "iconName": "modem"
+  },
+  {
+    "iconClass": "bi bi-modem-fill",
+    "iconName": "modem-fill"
+  },
+  {
+    "iconClass": "bi bi-moisture",
+    "iconName": "moisture"
+  },
+  {
+    "iconClass": "bi bi-moon",
+    "iconName": "moon"
+  },
+  {
+    "iconClass": "bi bi-moon-fill",
+    "iconName": "moon-fill"
+  },
+  {
+    "iconClass": "bi bi-moon-stars",
+    "iconName": "moon-stars"
+  },
+  {
+    "iconClass": "bi bi-moon-stars-fill",
+    "iconName": "moon-stars-fill"
+  },
+  {
+    "iconClass": "bi bi-mortarboard",
+    "iconName": "mortarboard"
+  },
+  {
+    "iconClass": "bi bi-mortarboard-fill",
+    "iconName": "mortarboard-fill"
+  },
+  {
+    "iconClass": "bi bi-motherboard",
+    "iconName": "motherboard"
+  },
+  {
+    "iconClass": "bi bi-motherboard-fill",
+    "iconName": "motherboard-fill"
+  },
+  {
+    "iconClass": "bi bi-mouse",
+    "iconName": "mouse"
+  },
+  {
+    "iconClass": "bi bi-mouse-fill",
+    "iconName": "mouse-fill"
+  },
+  {
+    "iconClass": "bi bi-mouse2",
+    "iconName": "mouse2"
+  },
+  {
+    "iconClass": "bi bi-mouse2-fill",
+    "iconName": "mouse2-fill"
+  },
+  {
+    "iconClass": "bi bi-mouse3",
+    "iconName": "mouse3"
+  },
+  {
+    "iconClass": "bi bi-mouse3-fill",
+    "iconName": "mouse3-fill"
+  },
+  {
+    "iconClass": "bi bi-music-note",
+    "iconName": "music-note"
+  },
+  {
+    "iconClass": "bi bi-music-note-beamed",
+    "iconName": "music-note-beamed"
+  },
+  {
+    "iconClass": "bi bi-music-note-list",
+    "iconName": "music-note-list"
+  },
+  {
+    "iconClass": "bi bi-music-player",
+    "iconName": "music-player"
+  },
+  {
+    "iconClass": "bi bi-music-player-fill",
+    "iconName": "music-player-fill"
+  },
+  {
+    "iconClass": "bi bi-newspaper",
+    "iconName": "newspaper"
+  },
+  {
+    "iconClass": "bi bi-nintendo-switch",
+    "iconName": "nintendo-switch"
+  },
+  {
+    "iconClass": "bi bi-node-minus",
+    "iconName": "node-minus"
+  },
+  {
+    "iconClass": "bi bi-node-minus-fill",
+    "iconName": "node-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-node-plus",
+    "iconName": "node-plus"
+  },
+  {
+    "iconClass": "bi bi-node-plus-fill",
+    "iconName": "node-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-noise-reduction",
+    "iconName": "noise-reduction"
+  },
+  {
+    "iconClass": "bi bi-nut",
+    "iconName": "nut"
+  },
+  {
+    "iconClass": "bi bi-nut-fill",
+    "iconName": "nut-fill"
+  },
+  {
+    "iconClass": "bi bi-nvidia",
+    "iconName": "nvidia"
+  },
+  {
+    "iconClass": "bi bi-nvme",
+    "iconName": "nvme"
+  },
+  {
+    "iconClass": "bi bi-nvme-fill",
+    "iconName": "nvme-fill"
+  },
+  {
+    "iconClass": "bi bi-octagon",
+    "iconName": "octagon"
+  },
+  {
+    "iconClass": "bi bi-octagon-fill",
+    "iconName": "octagon-fill"
+  },
+  {
+    "iconClass": "bi bi-octagon-half",
+    "iconName": "octagon-half"
+  },
+  {
+    "iconClass": "bi bi-opencollective",
+    "iconName": "opencollective"
+  },
+  {
+    "iconClass": "bi bi-optical-audio",
+    "iconName": "optical-audio"
+  },
+  {
+    "iconClass": "bi bi-optical-audio-fill",
+    "iconName": "optical-audio-fill"
+  },
+  {
+    "iconClass": "bi bi-option",
+    "iconName": "option"
+  },
+  {
+    "iconClass": "bi bi-outlet",
+    "iconName": "outlet"
+  },
+  {
+    "iconClass": "bi bi-p-circle",
+    "iconName": "p-circle"
+  },
+  {
+    "iconClass": "bi bi-p-circle-fill",
+    "iconName": "p-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-p-square",
+    "iconName": "p-square"
+  },
+  {
+    "iconClass": "bi bi-p-square-fill",
+    "iconName": "p-square-fill"
+  },
+  {
+    "iconClass": "bi bi-paint-bucket",
+    "iconName": "paint-bucket"
+  },
+  {
+    "iconClass": "bi bi-palette",
+    "iconName": "palette"
+  },
+  {
+    "iconClass": "bi bi-palette-fill",
+    "iconName": "palette-fill"
+  },
+  {
+    "iconClass": "bi bi-palette2",
+    "iconName": "palette2"
+  },
+  {
+    "iconClass": "bi bi-paperclip",
+    "iconName": "paperclip"
+  },
+  {
+    "iconClass": "bi bi-paragraph",
+    "iconName": "paragraph"
+  },
+  {
+    "iconClass": "bi bi-pass",
+    "iconName": "pass"
+  },
+  {
+    "iconClass": "bi bi-pass-fill",
+    "iconName": "pass-fill"
+  },
+  {
+    "iconClass": "bi bi-passport",
+    "iconName": "passport"
+  },
+  {
+    "iconClass": "bi bi-passport-fill",
+    "iconName": "passport-fill"
+  },
+  {
+    "iconClass": "bi bi-patch-check",
+    "iconName": "patch-check"
+  },
+  {
+    "iconClass": "bi bi-patch-check-fill",
+    "iconName": "patch-check-fill"
+  },
+  {
+    "iconClass": "bi bi-patch-exclamation",
+    "iconName": "patch-exclamation"
+  },
+  {
+    "iconClass": "bi bi-patch-exclamation-fill",
+    "iconName": "patch-exclamation-fill"
+  },
+  {
+    "iconClass": "bi bi-patch-minus",
+    "iconName": "patch-minus"
+  },
+  {
+    "iconClass": "bi bi-patch-minus-fill",
+    "iconName": "patch-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-patch-plus",
+    "iconName": "patch-plus"
+  },
+  {
+    "iconClass": "bi bi-patch-plus-fill",
+    "iconName": "patch-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-patch-question",
+    "iconName": "patch-question"
+  },
+  {
+    "iconClass": "bi bi-patch-question-fill",
+    "iconName": "patch-question-fill"
+  },
+  {
+    "iconClass": "bi bi-pause",
+    "iconName": "pause"
+  },
+  {
+    "iconClass": "bi bi-pause-btn",
+    "iconName": "pause-btn"
+  },
+  {
+    "iconClass": "bi bi-pause-btn-fill",
+    "iconName": "pause-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-pause-circle",
+    "iconName": "pause-circle"
+  },
+  {
+    "iconClass": "bi bi-pause-circle-fill",
+    "iconName": "pause-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-pause-fill",
+    "iconName": "pause-fill"
+  },
+  {
+    "iconClass": "bi bi-paypal",
+    "iconName": "paypal"
+  },
+  {
+    "iconClass": "bi bi-pc",
+    "iconName": "pc"
+  },
+  {
+    "iconClass": "bi bi-pc-display",
+    "iconName": "pc-display"
+  },
+  {
+    "iconClass": "bi bi-pc-display-horizontal",
+    "iconName": "pc-display-horizontal"
+  },
+  {
+    "iconClass": "bi bi-pc-horizontal",
+    "iconName": "pc-horizontal"
+  },
+  {
+    "iconClass": "bi bi-pci-card",
+    "iconName": "pci-card"
+  },
+  {
+    "iconClass": "bi bi-pci-card-network",
+    "iconName": "pci-card-network"
+  },
+  {
+    "iconClass": "bi bi-pci-card-sound",
+    "iconName": "pci-card-sound"
+  },
+  {
+    "iconClass": "bi bi-peace",
+    "iconName": "peace"
+  },
+  {
+    "iconClass": "bi bi-peace-fill",
+    "iconName": "peace-fill"
+  },
+  {
+    "iconClass": "bi bi-pen",
+    "iconName": "pen"
+  },
+  {
+    "iconClass": "bi bi-pen-fill",
+    "iconName": "pen-fill"
+  },
+  {
+    "iconClass": "bi bi-pencil",
+    "iconName": "pencil"
+  },
+  {
+    "iconClass": "bi bi-pencil-fill",
+    "iconName": "pencil-fill"
+  },
+  {
+    "iconClass": "bi bi-pencil-square",
+    "iconName": "pencil-square"
+  },
+  {
+    "iconClass": "bi bi-pentagon",
+    "iconName": "pentagon"
+  },
+  {
+    "iconClass": "bi bi-pentagon-fill",
+    "iconName": "pentagon-fill"
+  },
+  {
+    "iconClass": "bi bi-pentagon-half",
+    "iconName": "pentagon-half"
+  },
+  {
+    "iconClass": "bi bi-people",
+    "iconName": "people"
+  },
+  {
+    "iconClass": "bi bi-people-fill",
+    "iconName": "people-fill"
+  },
+  {
+    "iconClass": "bi bi-percent",
+    "iconName": "percent"
+  },
+  {
+    "iconClass": "bi bi-person",
+    "iconName": "person"
+  },
+  {
+    "iconClass": "bi bi-person-add",
+    "iconName": "person-add"
+  },
+  {
+    "iconClass": "bi bi-person-arms-up",
+    "iconName": "person-arms-up"
+  },
+  {
+    "iconClass": "bi bi-person-badge",
+    "iconName": "person-badge"
+  },
+  {
+    "iconClass": "bi bi-person-badge-fill",
+    "iconName": "person-badge-fill"
+  },
+  {
+    "iconClass": "bi bi-person-bounding-box",
+    "iconName": "person-bounding-box"
+  },
+  {
+    "iconClass": "bi bi-person-check",
+    "iconName": "person-check"
+  },
+  {
+    "iconClass": "bi bi-person-check-fill",
+    "iconName": "person-check-fill"
+  },
+  {
+    "iconClass": "bi bi-person-circle",
+    "iconName": "person-circle"
+  },
+  {
+    "iconClass": "bi bi-person-dash",
+    "iconName": "person-dash"
+  },
+  {
+    "iconClass": "bi bi-person-dash-fill",
+    "iconName": "person-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-person-down",
+    "iconName": "person-down"
+  },
+  {
+    "iconClass": "bi bi-person-exclamation",
+    "iconName": "person-exclamation"
+  },
+  {
+    "iconClass": "bi bi-person-fill",
+    "iconName": "person-fill"
+  },
+  {
+    "iconClass": "bi bi-person-fill-add",
+    "iconName": "person-fill-add"
+  },
+  {
+    "iconClass": "bi bi-person-fill-check",
+    "iconName": "person-fill-check"
+  },
+  {
+    "iconClass": "bi bi-person-fill-dash",
+    "iconName": "person-fill-dash"
+  },
+  {
+    "iconClass": "bi bi-person-fill-down",
+    "iconName": "person-fill-down"
+  },
+  {
+    "iconClass": "bi bi-person-fill-exclamation",
+    "iconName": "person-fill-exclamation"
+  },
+  {
+    "iconClass": "bi bi-person-fill-gear",
+    "iconName": "person-fill-gear"
+  },
+  {
+    "iconClass": "bi bi-person-fill-lock",
+    "iconName": "person-fill-lock"
+  },
+  {
+    "iconClass": "bi bi-person-fill-slash",
+    "iconName": "person-fill-slash"
+  },
+  {
+    "iconClass": "bi bi-person-fill-up",
+    "iconName": "person-fill-up"
+  },
+  {
+    "iconClass": "bi bi-person-fill-x",
+    "iconName": "person-fill-x"
+  },
+  {
+    "iconClass": "bi bi-person-gear",
+    "iconName": "person-gear"
+  },
+  {
+    "iconClass": "bi bi-person-heart",
+    "iconName": "person-heart"
+  },
+  {
+    "iconClass": "bi bi-person-hearts",
+    "iconName": "person-hearts"
+  },
+  {
+    "iconClass": "bi bi-person-lines-fill",
+    "iconName": "person-lines-fill"
+  },
+  {
+    "iconClass": "bi bi-person-lock",
+    "iconName": "person-lock"
+  },
+  {
+    "iconClass": "bi bi-person-plus",
+    "iconName": "person-plus"
+  },
+  {
+    "iconClass": "bi bi-person-plus-fill",
+    "iconName": "person-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-person-raised-hand",
+    "iconName": "person-raised-hand"
+  },
+  {
+    "iconClass": "bi bi-person-rolodex",
+    "iconName": "person-rolodex"
+  },
+  {
+    "iconClass": "bi bi-person-slash",
+    "iconName": "person-slash"
+  },
+  {
+    "iconClass": "bi bi-person-square",
+    "iconName": "person-square"
+  },
+  {
+    "iconClass": "bi bi-person-standing",
+    "iconName": "person-standing"
+  },
+  {
+    "iconClass": "bi bi-person-standing-dress",
+    "iconName": "person-standing-dress"
+  },
+  {
+    "iconClass": "bi bi-person-up",
+    "iconName": "person-up"
+  },
+  {
+    "iconClass": "bi bi-person-vcard",
+    "iconName": "person-vcard"
+  },
+  {
+    "iconClass": "bi bi-person-vcard-fill",
+    "iconName": "person-vcard-fill"
+  },
+  {
+    "iconClass": "bi bi-person-video",
+    "iconName": "person-video"
+  },
+  {
+    "iconClass": "bi bi-person-video2",
+    "iconName": "person-video2"
+  },
+  {
+    "iconClass": "bi bi-person-video3",
+    "iconName": "person-video3"
+  },
+  {
+    "iconClass": "bi bi-person-walking",
+    "iconName": "person-walking"
+  },
+  {
+    "iconClass": "bi bi-person-wheelchair",
+    "iconName": "person-wheelchair"
+  },
+  {
+    "iconClass": "bi bi-person-workspace",
+    "iconName": "person-workspace"
+  },
+  {
+    "iconClass": "bi bi-person-x",
+    "iconName": "person-x"
+  },
+  {
+    "iconClass": "bi bi-person-x-fill",
+    "iconName": "person-x-fill"
+  },
+  {
+    "iconClass": "bi bi-phone",
+    "iconName": "phone"
+  },
+  {
+    "iconClass": "bi bi-phone-fill",
+    "iconName": "phone-fill"
+  },
+  {
+    "iconClass": "bi bi-phone-flip",
+    "iconName": "phone-flip"
+  },
+  {
+    "iconClass": "bi bi-phone-landscape",
+    "iconName": "phone-landscape"
+  },
+  {
+    "iconClass": "bi bi-phone-landscape-fill",
+    "iconName": "phone-landscape-fill"
+  },
+  {
+    "iconClass": "bi bi-phone-vibrate",
+    "iconName": "phone-vibrate"
+  },
+  {
+    "iconClass": "bi bi-phone-vibrate-fill",
+    "iconName": "phone-vibrate-fill"
+  },
+  {
+    "iconClass": "bi bi-pie-chart",
+    "iconName": "pie-chart"
+  },
+  {
+    "iconClass": "bi bi-pie-chart-fill",
+    "iconName": "pie-chart-fill"
+  },
+  {
+    "iconClass": "bi bi-piggy-bank",
+    "iconName": "piggy-bank"
+  },
+  {
+    "iconClass": "bi bi-piggy-bank-fill",
+    "iconName": "piggy-bank-fill"
+  },
+  {
+    "iconClass": "bi bi-pin",
+    "iconName": "pin"
+  },
+  {
+    "iconClass": "bi bi-pin-angle",
+    "iconName": "pin-angle"
+  },
+  {
+    "iconClass": "bi bi-pin-angle-fill",
+    "iconName": "pin-angle-fill"
+  },
+  {
+    "iconClass": "bi bi-pin-fill",
+    "iconName": "pin-fill"
+  },
+  {
+    "iconClass": "bi bi-pin-map",
+    "iconName": "pin-map"
+  },
+  {
+    "iconClass": "bi bi-pin-map-fill",
+    "iconName": "pin-map-fill"
+  },
+  {
+    "iconClass": "bi bi-pinterest",
+    "iconName": "pinterest"
+  },
+  {
+    "iconClass": "bi bi-pip",
+    "iconName": "pip"
+  },
+  {
+    "iconClass": "bi bi-pip-fill",
+    "iconName": "pip-fill"
+  },
+  {
+    "iconClass": "bi bi-play",
+    "iconName": "play"
+  },
+  {
+    "iconClass": "bi bi-play-btn",
+    "iconName": "play-btn"
+  },
+  {
+    "iconClass": "bi bi-play-btn-fill",
+    "iconName": "play-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-play-circle",
+    "iconName": "play-circle"
+  },
+  {
+    "iconClass": "bi bi-play-circle-fill",
+    "iconName": "play-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-play-fill",
+    "iconName": "play-fill"
+  },
+  {
+    "iconClass": "bi bi-playstation",
+    "iconName": "playstation"
+  },
+  {
+    "iconClass": "bi bi-plug",
+    "iconName": "plug"
+  },
+  {
+    "iconClass": "bi bi-plug-fill",
+    "iconName": "plug-fill"
+  },
+  {
+    "iconClass": "bi bi-plugin",
+    "iconName": "plugin"
+  },
+  {
+    "iconClass": "bi bi-plus",
+    "iconName": "plus"
+  },
+  {
+    "iconClass": "bi bi-plus-circle",
+    "iconName": "plus-circle"
+  },
+  {
+    "iconClass": "bi bi-plus-circle-dotted",
+    "iconName": "plus-circle-dotted"
+  },
+  {
+    "iconClass": "bi bi-plus-circle-fill",
+    "iconName": "plus-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-plus-lg",
+    "iconName": "plus-lg"
+  },
+  {
+    "iconClass": "bi bi-plus-slash-minus",
+    "iconName": "plus-slash-minus"
+  },
+  {
+    "iconClass": "bi bi-plus-square",
+    "iconName": "plus-square"
+  },
+  {
+    "iconClass": "bi bi-plus-square-dotted",
+    "iconName": "plus-square-dotted"
+  },
+  {
+    "iconClass": "bi bi-plus-square-fill",
+    "iconName": "plus-square-fill"
+  },
+  {
+    "iconClass": "bi bi-postage",
+    "iconName": "postage"
+  },
+  {
+    "iconClass": "bi bi-postage-fill",
+    "iconName": "postage-fill"
+  },
+  {
+    "iconClass": "bi bi-postage-heart",
+    "iconName": "postage-heart"
+  },
+  {
+    "iconClass": "bi bi-postage-heart-fill",
+    "iconName": "postage-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-postcard",
+    "iconName": "postcard"
+  },
+  {
+    "iconClass": "bi bi-postcard-fill",
+    "iconName": "postcard-fill"
+  },
+  {
+    "iconClass": "bi bi-postcard-heart",
+    "iconName": "postcard-heart"
+  },
+  {
+    "iconClass": "bi bi-postcard-heart-fill",
+    "iconName": "postcard-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-power",
+    "iconName": "power"
+  },
+  {
+    "iconClass": "bi bi-prescription",
+    "iconName": "prescription"
+  },
+  {
+    "iconClass": "bi bi-prescription2",
+    "iconName": "prescription2"
+  },
+  {
+    "iconClass": "bi bi-printer",
+    "iconName": "printer"
+  },
+  {
+    "iconClass": "bi bi-printer-fill",
+    "iconName": "printer-fill"
+  },
+  {
+    "iconClass": "bi bi-projector",
+    "iconName": "projector"
+  },
+  {
+    "iconClass": "bi bi-projector-fill",
+    "iconName": "projector-fill"
+  },
+  {
+    "iconClass": "bi bi-puzzle",
+    "iconName": "puzzle"
+  },
+  {
+    "iconClass": "bi bi-puzzle-fill",
+    "iconName": "puzzle-fill"
+  },
+  {
+    "iconClass": "bi bi-qr-code",
+    "iconName": "qr-code"
+  },
+  {
+    "iconClass": "bi bi-qr-code-scan",
+    "iconName": "qr-code-scan"
+  },
+  {
+    "iconClass": "bi bi-question",
+    "iconName": "question"
+  },
+  {
+    "iconClass": "bi bi-question-circle",
+    "iconName": "question-circle"
+  },
+  {
+    "iconClass": "bi bi-question-circle-fill",
+    "iconName": "question-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-question-diamond",
+    "iconName": "question-diamond"
+  },
+  {
+    "iconClass": "bi bi-question-diamond-fill",
+    "iconName": "question-diamond-fill"
+  },
+  {
+    "iconClass": "bi bi-question-lg",
+    "iconName": "question-lg"
+  },
+  {
+    "iconClass": "bi bi-question-octagon",
+    "iconName": "question-octagon"
+  },
+  {
+    "iconClass": "bi bi-question-octagon-fill",
+    "iconName": "question-octagon-fill"
+  },
+  {
+    "iconClass": "bi bi-question-square",
+    "iconName": "question-square"
+  },
+  {
+    "iconClass": "bi bi-question-square-fill",
+    "iconName": "question-square-fill"
+  },
+  {
+    "iconClass": "bi bi-quora",
+    "iconName": "quora"
+  },
+  {
+    "iconClass": "bi bi-quote",
+    "iconName": "quote"
+  },
+  {
+    "iconClass": "bi bi-r-circle",
+    "iconName": "r-circle"
+  },
+  {
+    "iconClass": "bi bi-r-circle-fill",
+    "iconName": "r-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-r-square",
+    "iconName": "r-square"
+  },
+  {
+    "iconClass": "bi bi-r-square-fill",
+    "iconName": "r-square-fill"
+  },
+  {
+    "iconClass": "bi bi-radar",
+    "iconName": "radar"
+  },
+  {
+    "iconClass": "bi bi-radioactive",
+    "iconName": "radioactive"
+  },
+  {
+    "iconClass": "bi bi-rainbow",
+    "iconName": "rainbow"
+  },
+  {
+    "iconClass": "bi bi-receipt",
+    "iconName": "receipt"
+  },
+  {
+    "iconClass": "bi bi-receipt-cutoff",
+    "iconName": "receipt-cutoff"
+  },
+  {
+    "iconClass": "bi bi-reception-0",
+    "iconName": "reception-0"
+  },
+  {
+    "iconClass": "bi bi-reception-1",
+    "iconName": "reception-1"
+  },
+  {
+    "iconClass": "bi bi-reception-2",
+    "iconName": "reception-2"
+  },
+  {
+    "iconClass": "bi bi-reception-3",
+    "iconName": "reception-3"
+  },
+  {
+    "iconClass": "bi bi-reception-4",
+    "iconName": "reception-4"
+  },
+  {
+    "iconClass": "bi bi-record",
+    "iconName": "record"
+  },
+  {
+    "iconClass": "bi bi-record-btn",
+    "iconName": "record-btn"
+  },
+  {
+    "iconClass": "bi bi-record-btn-fill",
+    "iconName": "record-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-record-circle",
+    "iconName": "record-circle"
+  },
+  {
+    "iconClass": "bi bi-record-circle-fill",
+    "iconName": "record-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-record-fill",
+    "iconName": "record-fill"
+  },
+  {
+    "iconClass": "bi bi-record2",
+    "iconName": "record2"
+  },
+  {
+    "iconClass": "bi bi-record2-fill",
+    "iconName": "record2-fill"
+  },
+  {
+    "iconClass": "bi bi-recycle",
+    "iconName": "recycle"
+  },
+  {
+    "iconClass": "bi bi-reddit",
+    "iconName": "reddit"
+  },
+  {
+    "iconClass": "bi bi-regex",
+    "iconName": "regex"
+  },
+  {
+    "iconClass": "bi bi-repeat",
+    "iconName": "repeat"
+  },
+  {
+    "iconClass": "bi bi-repeat-1",
+    "iconName": "repeat-1"
+  },
+  {
+    "iconClass": "bi bi-reply",
+    "iconName": "reply"
+  },
+  {
+    "iconClass": "bi bi-reply-all",
+    "iconName": "reply-all"
+  },
+  {
+    "iconClass": "bi bi-reply-all-fill",
+    "iconName": "reply-all-fill"
+  },
+  {
+    "iconClass": "bi bi-reply-fill",
+    "iconName": "reply-fill"
+  },
+  {
+    "iconClass": "bi bi-rewind",
+    "iconName": "rewind"
+  },
+  {
+    "iconClass": "bi bi-rewind-btn",
+    "iconName": "rewind-btn"
+  },
+  {
+    "iconClass": "bi bi-rewind-btn-fill",
+    "iconName": "rewind-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-rewind-circle",
+    "iconName": "rewind-circle"
+  },
+  {
+    "iconClass": "bi bi-rewind-circle-fill",
+    "iconName": "rewind-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-rewind-fill",
+    "iconName": "rewind-fill"
+  },
+  {
+    "iconClass": "bi bi-robot",
+    "iconName": "robot"
+  },
+  {
+    "iconClass": "bi bi-rocket",
+    "iconName": "rocket"
+  },
+  {
+    "iconClass": "bi bi-rocket-fill",
+    "iconName": "rocket-fill"
+  },
+  {
+    "iconClass": "bi bi-rocket-takeoff",
+    "iconName": "rocket-takeoff"
+  },
+  {
+    "iconClass": "bi bi-rocket-takeoff-fill",
+    "iconName": "rocket-takeoff-fill"
+  },
+  {
+    "iconClass": "bi bi-router",
+    "iconName": "router"
+  },
+  {
+    "iconClass": "bi bi-router-fill",
+    "iconName": "router-fill"
+  },
+  {
+    "iconClass": "bi bi-rss",
+    "iconName": "rss"
+  },
+  {
+    "iconClass": "bi bi-rss-fill",
+    "iconName": "rss-fill"
+  },
+  {
+    "iconClass": "bi bi-rulers",
+    "iconName": "rulers"
+  },
+  {
+    "iconClass": "bi bi-safe",
+    "iconName": "safe"
+  },
+  {
+    "iconClass": "bi bi-safe-fill",
+    "iconName": "safe-fill"
+  },
+  {
+    "iconClass": "bi bi-safe2",
+    "iconName": "safe2"
+  },
+  {
+    "iconClass": "bi bi-safe2-fill",
+    "iconName": "safe2-fill"
+  },
+  {
+    "iconClass": "bi bi-save",
+    "iconName": "save"
+  },
+  {
+    "iconClass": "bi bi-save-fill",
+    "iconName": "save-fill"
+  },
+  {
+    "iconClass": "bi bi-save2",
+    "iconName": "save2"
+  },
+  {
+    "iconClass": "bi bi-save2-fill",
+    "iconName": "save2-fill"
+  },
+  {
+    "iconClass": "bi bi-scissors",
+    "iconName": "scissors"
+  },
+  {
+    "iconClass": "bi bi-scooter",
+    "iconName": "scooter"
+  },
+  {
+    "iconClass": "bi bi-screwdriver",
+    "iconName": "screwdriver"
+  },
+  {
+    "iconClass": "bi bi-sd-card",
+    "iconName": "sd-card"
+  },
+  {
+    "iconClass": "bi bi-sd-card-fill",
+    "iconName": "sd-card-fill"
+  },
+  {
+    "iconClass": "bi bi-search",
+    "iconName": "search"
+  },
+  {
+    "iconClass": "bi bi-search-heart",
+    "iconName": "search-heart"
+  },
+  {
+    "iconClass": "bi bi-search-heart-fill",
+    "iconName": "search-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-segmented-nav",
+    "iconName": "segmented-nav"
+  },
+  {
+    "iconClass": "bi bi-send",
+    "iconName": "send"
+  },
+  {
+    "iconClass": "bi bi-send-arrow-down",
+    "iconName": "send-arrow-down"
+  },
+  {
+    "iconClass": "bi bi-send-arrow-down-fill",
+    "iconName": "send-arrow-down-fill"
+  },
+  {
+    "iconClass": "bi bi-send-arrow-up",
+    "iconName": "send-arrow-up"
+  },
+  {
+    "iconClass": "bi bi-send-arrow-up-fill",
+    "iconName": "send-arrow-up-fill"
+  },
+  {
+    "iconClass": "bi bi-send-check",
+    "iconName": "send-check"
+  },
+  {
+    "iconClass": "bi bi-send-check-fill",
+    "iconName": "send-check-fill"
+  },
+  {
+    "iconClass": "bi bi-send-dash",
+    "iconName": "send-dash"
+  },
+  {
+    "iconClass": "bi bi-send-dash-fill",
+    "iconName": "send-dash-fill"
+  },
+  {
+    "iconClass": "bi bi-send-exclamation",
+    "iconName": "send-exclamation"
+  },
+  {
+    "iconClass": "bi bi-send-exclamation-fill",
+    "iconName": "send-exclamation-fill"
+  },
+  {
+    "iconClass": "bi bi-send-fill",
+    "iconName": "send-fill"
+  },
+  {
+    "iconClass": "bi bi-send-plus",
+    "iconName": "send-plus"
+  },
+  {
+    "iconClass": "bi bi-send-plus-fill",
+    "iconName": "send-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-send-slash",
+    "iconName": "send-slash"
+  },
+  {
+    "iconClass": "bi bi-send-slash-fill",
+    "iconName": "send-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-send-x",
+    "iconName": "send-x"
+  },
+  {
+    "iconClass": "bi bi-send-x-fill",
+    "iconName": "send-x-fill"
+  },
+  {
+    "iconClass": "bi bi-server",
+    "iconName": "server"
+  },
+  {
+    "iconClass": "bi bi-shadows",
+    "iconName": "shadows"
+  },
+  {
+    "iconClass": "bi bi-share",
+    "iconName": "share"
+  },
+  {
+    "iconClass": "bi bi-share-fill",
+    "iconName": "share-fill"
+  },
+  {
+    "iconClass": "bi bi-shield",
+    "iconName": "shield"
+  },
+  {
+    "iconClass": "bi bi-shield-check",
+    "iconName": "shield-check"
+  },
+  {
+    "iconClass": "bi bi-shield-exclamation",
+    "iconName": "shield-exclamation"
+  },
+  {
+    "iconClass": "bi bi-shield-fill",
+    "iconName": "shield-fill"
+  },
+  {
+    "iconClass": "bi bi-shield-fill-check",
+    "iconName": "shield-fill-check"
+  },
+  {
+    "iconClass": "bi bi-shield-fill-exclamation",
+    "iconName": "shield-fill-exclamation"
+  },
+  {
+    "iconClass": "bi bi-shield-fill-minus",
+    "iconName": "shield-fill-minus"
+  },
+  {
+    "iconClass": "bi bi-shield-fill-plus",
+    "iconName": "shield-fill-plus"
+  },
+  {
+    "iconClass": "bi bi-shield-fill-x",
+    "iconName": "shield-fill-x"
+  },
+  {
+    "iconClass": "bi bi-shield-lock",
+    "iconName": "shield-lock"
+  },
+  {
+    "iconClass": "bi bi-shield-lock-fill",
+    "iconName": "shield-lock-fill"
+  },
+  {
+    "iconClass": "bi bi-shield-minus",
+    "iconName": "shield-minus"
+  },
+  {
+    "iconClass": "bi bi-shield-plus",
+    "iconName": "shield-plus"
+  },
+  {
+    "iconClass": "bi bi-shield-shaded",
+    "iconName": "shield-shaded"
+  },
+  {
+    "iconClass": "bi bi-shield-slash",
+    "iconName": "shield-slash"
+  },
+  {
+    "iconClass": "bi bi-shield-slash-fill",
+    "iconName": "shield-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-shield-x",
+    "iconName": "shield-x"
+  },
+  {
+    "iconClass": "bi bi-shift",
+    "iconName": "shift"
+  },
+  {
+    "iconClass": "bi bi-shift-fill",
+    "iconName": "shift-fill"
+  },
+  {
+    "iconClass": "bi bi-shop",
+    "iconName": "shop"
+  },
+  {
+    "iconClass": "bi bi-shop-window",
+    "iconName": "shop-window"
+  },
+  {
+    "iconClass": "bi bi-shuffle",
+    "iconName": "shuffle"
+  },
+  {
+    "iconClass": "bi bi-sign-dead-end",
+    "iconName": "sign-dead-end"
+  },
+  {
+    "iconClass": "bi bi-sign-dead-end-fill",
+    "iconName": "sign-dead-end-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-do-not-enter",
+    "iconName": "sign-do-not-enter"
+  },
+  {
+    "iconClass": "bi bi-sign-do-not-enter-fill",
+    "iconName": "sign-do-not-enter-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection",
+    "iconName": "sign-intersection"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-fill",
+    "iconName": "sign-intersection-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-side",
+    "iconName": "sign-intersection-side"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-side-fill",
+    "iconName": "sign-intersection-side-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-t",
+    "iconName": "sign-intersection-t"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-t-fill",
+    "iconName": "sign-intersection-t-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-y",
+    "iconName": "sign-intersection-y"
+  },
+  {
+    "iconClass": "bi bi-sign-intersection-y-fill",
+    "iconName": "sign-intersection-y-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-merge-left",
+    "iconName": "sign-merge-left"
+  },
+  {
+    "iconClass": "bi bi-sign-merge-left-fill",
+    "iconName": "sign-merge-left-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-merge-right",
+    "iconName": "sign-merge-right"
+  },
+  {
+    "iconClass": "bi bi-sign-merge-right-fill",
+    "iconName": "sign-merge-right-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-no-left-turn",
+    "iconName": "sign-no-left-turn"
+  },
+  {
+    "iconClass": "bi bi-sign-no-left-turn-fill",
+    "iconName": "sign-no-left-turn-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-no-parking",
+    "iconName": "sign-no-parking"
+  },
+  {
+    "iconClass": "bi bi-sign-no-parking-fill",
+    "iconName": "sign-no-parking-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-no-right-turn",
+    "iconName": "sign-no-right-turn"
+  },
+  {
+    "iconClass": "bi bi-sign-no-right-turn-fill",
+    "iconName": "sign-no-right-turn-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-railroad",
+    "iconName": "sign-railroad"
+  },
+  {
+    "iconClass": "bi bi-sign-railroad-fill",
+    "iconName": "sign-railroad-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-stop",
+    "iconName": "sign-stop"
+  },
+  {
+    "iconClass": "bi bi-sign-stop-fill",
+    "iconName": "sign-stop-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-stop-lights",
+    "iconName": "sign-stop-lights"
+  },
+  {
+    "iconClass": "bi bi-sign-stop-lights-fill",
+    "iconName": "sign-stop-lights-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-left",
+    "iconName": "sign-turn-left"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-left-fill",
+    "iconName": "sign-turn-left-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-right",
+    "iconName": "sign-turn-right"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-right-fill",
+    "iconName": "sign-turn-right-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-slight-left",
+    "iconName": "sign-turn-slight-left"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-slight-left-fill",
+    "iconName": "sign-turn-slight-left-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-slight-right",
+    "iconName": "sign-turn-slight-right"
+  },
+  {
+    "iconClass": "bi bi-sign-turn-slight-right-fill",
+    "iconName": "sign-turn-slight-right-fill"
+  },
+  {
+    "iconClass": "bi bi-sign-yield",
+    "iconName": "sign-yield"
+  },
+  {
+    "iconClass": "bi bi-sign-yield-fill",
+    "iconName": "sign-yield-fill"
+  },
+  {
+    "iconClass": "bi bi-signal",
+    "iconName": "signal"
+  },
+  {
+    "iconClass": "bi bi-signpost",
+    "iconName": "signpost"
+  },
+  {
+    "iconClass": "bi bi-signpost-2",
+    "iconName": "signpost-2"
+  },
+  {
+    "iconClass": "bi bi-signpost-2-fill",
+    "iconName": "signpost-2-fill"
+  },
+  {
+    "iconClass": "bi bi-signpost-fill",
+    "iconName": "signpost-fill"
+  },
+  {
+    "iconClass": "bi bi-signpost-split",
+    "iconName": "signpost-split"
+  },
+  {
+    "iconClass": "bi bi-signpost-split-fill",
+    "iconName": "signpost-split-fill"
+  },
+  {
+    "iconClass": "bi bi-sim",
+    "iconName": "sim"
+  },
+  {
+    "iconClass": "bi bi-sim-fill",
+    "iconName": "sim-fill"
+  },
+  {
+    "iconClass": "bi bi-sim-slash",
+    "iconName": "sim-slash"
+  },
+  {
+    "iconClass": "bi bi-sim-slash-fill",
+    "iconName": "sim-slash-fill"
+  },
+  {
+    "iconClass": "bi bi-sina-weibo",
+    "iconName": "sina-weibo"
+  },
+  {
+    "iconClass": "bi bi-skip-backward",
+    "iconName": "skip-backward"
+  },
+  {
+    "iconClass": "bi bi-skip-backward-btn",
+    "iconName": "skip-backward-btn"
+  },
+  {
+    "iconClass": "bi bi-skip-backward-btn-fill",
+    "iconName": "skip-backward-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-backward-circle",
+    "iconName": "skip-backward-circle"
+  },
+  {
+    "iconClass": "bi bi-skip-backward-circle-fill",
+    "iconName": "skip-backward-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-backward-fill",
+    "iconName": "skip-backward-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-end",
+    "iconName": "skip-end"
+  },
+  {
+    "iconClass": "bi bi-skip-end-btn",
+    "iconName": "skip-end-btn"
+  },
+  {
+    "iconClass": "bi bi-skip-end-btn-fill",
+    "iconName": "skip-end-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-end-circle",
+    "iconName": "skip-end-circle"
+  },
+  {
+    "iconClass": "bi bi-skip-end-circle-fill",
+    "iconName": "skip-end-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-end-fill",
+    "iconName": "skip-end-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-forward",
+    "iconName": "skip-forward"
+  },
+  {
+    "iconClass": "bi bi-skip-forward-btn",
+    "iconName": "skip-forward-btn"
+  },
+  {
+    "iconClass": "bi bi-skip-forward-btn-fill",
+    "iconName": "skip-forward-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-forward-circle",
+    "iconName": "skip-forward-circle"
+  },
+  {
+    "iconClass": "bi bi-skip-forward-circle-fill",
+    "iconName": "skip-forward-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-forward-fill",
+    "iconName": "skip-forward-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-start",
+    "iconName": "skip-start"
+  },
+  {
+    "iconClass": "bi bi-skip-start-btn",
+    "iconName": "skip-start-btn"
+  },
+  {
+    "iconClass": "bi bi-skip-start-btn-fill",
+    "iconName": "skip-start-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-start-circle",
+    "iconName": "skip-start-circle"
+  },
+  {
+    "iconClass": "bi bi-skip-start-circle-fill",
+    "iconName": "skip-start-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-skip-start-fill",
+    "iconName": "skip-start-fill"
+  },
+  {
+    "iconClass": "bi bi-skype",
+    "iconName": "skype"
+  },
+  {
+    "iconClass": "bi bi-slack",
+    "iconName": "slack"
+  },
+  {
+    "iconClass": "bi bi-slash",
+    "iconName": "slash"
+  },
+  {
+    "iconClass": "bi bi-slash-circle",
+    "iconName": "slash-circle"
+  },
+  {
+    "iconClass": "bi bi-slash-circle-fill",
+    "iconName": "slash-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-slash-lg",
+    "iconName": "slash-lg"
+  },
+  {
+    "iconClass": "bi bi-slash-square",
+    "iconName": "slash-square"
+  },
+  {
+    "iconClass": "bi bi-slash-square-fill",
+    "iconName": "slash-square-fill"
+  },
+  {
+    "iconClass": "bi bi-sliders",
+    "iconName": "sliders"
+  },
+  {
+    "iconClass": "bi bi-sliders2",
+    "iconName": "sliders2"
+  },
+  {
+    "iconClass": "bi bi-sliders2-vertical",
+    "iconName": "sliders2-vertical"
+  },
+  {
+    "iconClass": "bi bi-smartwatch",
+    "iconName": "smartwatch"
+  },
+  {
+    "iconClass": "bi bi-snapchat",
+    "iconName": "snapchat"
+  },
+  {
+    "iconClass": "bi bi-snow",
+    "iconName": "snow"
+  },
+  {
+    "iconClass": "bi bi-snow2",
+    "iconName": "snow2"
+  },
+  {
+    "iconClass": "bi bi-snow3",
+    "iconName": "snow3"
+  },
+  {
+    "iconClass": "bi bi-sort-alpha-down",
+    "iconName": "sort-alpha-down"
+  },
+  {
+    "iconClass": "bi bi-sort-alpha-down-alt",
+    "iconName": "sort-alpha-down-alt"
+  },
+  {
+    "iconClass": "bi bi-sort-alpha-up",
+    "iconName": "sort-alpha-up"
+  },
+  {
+    "iconClass": "bi bi-sort-alpha-up-alt",
+    "iconName": "sort-alpha-up-alt"
+  },
+  {
+    "iconClass": "bi bi-sort-down",
+    "iconName": "sort-down"
+  },
+  {
+    "iconClass": "bi bi-sort-down-alt",
+    "iconName": "sort-down-alt"
+  },
+  {
+    "iconClass": "bi bi-sort-numeric-down",
+    "iconName": "sort-numeric-down"
+  },
+  {
+    "iconClass": "bi bi-sort-numeric-down-alt",
+    "iconName": "sort-numeric-down-alt"
+  },
+  {
+    "iconClass": "bi bi-sort-numeric-up",
+    "iconName": "sort-numeric-up"
+  },
+  {
+    "iconClass": "bi bi-sort-numeric-up-alt",
+    "iconName": "sort-numeric-up-alt"
+  },
+  {
+    "iconClass": "bi bi-sort-up",
+    "iconName": "sort-up"
+  },
+  {
+    "iconClass": "bi bi-sort-up-alt",
+    "iconName": "sort-up-alt"
+  },
+  {
+    "iconClass": "bi bi-soundwave",
+    "iconName": "soundwave"
+  },
+  {
+    "iconClass": "bi bi-sourceforge",
+    "iconName": "sourceforge"
+  },
+  {
+    "iconClass": "bi bi-speaker",
+    "iconName": "speaker"
+  },
+  {
+    "iconClass": "bi bi-speaker-fill",
+    "iconName": "speaker-fill"
+  },
+  {
+    "iconClass": "bi bi-speedometer",
+    "iconName": "speedometer"
+  },
+  {
+    "iconClass": "bi bi-speedometer2",
+    "iconName": "speedometer2"
+  },
+  {
+    "iconClass": "bi bi-spellcheck",
+    "iconName": "spellcheck"
+  },
+  {
+    "iconClass": "bi bi-spotify",
+    "iconName": "spotify"
+  },
+  {
+    "iconClass": "bi bi-square",
+    "iconName": "square"
+  },
+  {
+    "iconClass": "bi bi-square-fill",
+    "iconName": "square-fill"
+  },
+  {
+    "iconClass": "bi bi-square-half",
+    "iconName": "square-half"
+  },
+  {
+    "iconClass": "bi bi-stack",
+    "iconName": "stack"
+  },
+  {
+    "iconClass": "bi bi-stack-overflow",
+    "iconName": "stack-overflow"
+  },
+  {
+    "iconClass": "bi bi-star",
+    "iconName": "star"
+  },
+  {
+    "iconClass": "bi bi-star-fill",
+    "iconName": "star-fill"
+  },
+  {
+    "iconClass": "bi bi-star-half",
+    "iconName": "star-half"
+  },
+  {
+    "iconClass": "bi bi-stars",
+    "iconName": "stars"
+  },
+  {
+    "iconClass": "bi bi-steam",
+    "iconName": "steam"
+  },
+  {
+    "iconClass": "bi bi-stickies",
+    "iconName": "stickies"
+  },
+  {
+    "iconClass": "bi bi-stickies-fill",
+    "iconName": "stickies-fill"
+  },
+  {
+    "iconClass": "bi bi-sticky",
+    "iconName": "sticky"
+  },
+  {
+    "iconClass": "bi bi-sticky-fill",
+    "iconName": "sticky-fill"
+  },
+  {
+    "iconClass": "bi bi-stop",
+    "iconName": "stop"
+  },
+  {
+    "iconClass": "bi bi-stop-btn",
+    "iconName": "stop-btn"
+  },
+  {
+    "iconClass": "bi bi-stop-btn-fill",
+    "iconName": "stop-btn-fill"
+  },
+  {
+    "iconClass": "bi bi-stop-circle",
+    "iconName": "stop-circle"
+  },
+  {
+    "iconClass": "bi bi-stop-circle-fill",
+    "iconName": "stop-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-stop-fill",
+    "iconName": "stop-fill"
+  },
+  {
+    "iconClass": "bi bi-stoplights",
+    "iconName": "stoplights"
+  },
+  {
+    "iconClass": "bi bi-stoplights-fill",
+    "iconName": "stoplights-fill"
+  },
+  {
+    "iconClass": "bi bi-stopwatch",
+    "iconName": "stopwatch"
+  },
+  {
+    "iconClass": "bi bi-stopwatch-fill",
+    "iconName": "stopwatch-fill"
+  },
+  {
+    "iconClass": "bi bi-strava",
+    "iconName": "strava"
+  },
+  {
+    "iconClass": "bi bi-stripe",
+    "iconName": "stripe"
+  },
+  {
+    "iconClass": "bi bi-subscript",
+    "iconName": "subscript"
+  },
+  {
+    "iconClass": "bi bi-substack",
+    "iconName": "substack"
+  },
+  {
+    "iconClass": "bi bi-subtract",
+    "iconName": "subtract"
+  },
+  {
+    "iconClass": "bi bi-suit-club",
+    "iconName": "suit-club"
+  },
+  {
+    "iconClass": "bi bi-suit-club-fill",
+    "iconName": "suit-club-fill"
+  },
+  {
+    "iconClass": "bi bi-suit-diamond",
+    "iconName": "suit-diamond"
+  },
+  {
+    "iconClass": "bi bi-suit-diamond-fill",
+    "iconName": "suit-diamond-fill"
+  },
+  {
+    "iconClass": "bi bi-suit-heart",
+    "iconName": "suit-heart"
+  },
+  {
+    "iconClass": "bi bi-suit-heart-fill",
+    "iconName": "suit-heart-fill"
+  },
+  {
+    "iconClass": "bi bi-suit-spade",
+    "iconName": "suit-spade"
+  },
+  {
+    "iconClass": "bi bi-suit-spade-fill",
+    "iconName": "suit-spade-fill"
+  },
+  {
+    "iconClass": "bi bi-suitcase",
+    "iconName": "suitcase"
+  },
+  {
+    "iconClass": "bi bi-suitcase-fill",
+    "iconName": "suitcase-fill"
+  },
+  {
+    "iconClass": "bi bi-suitcase-lg",
+    "iconName": "suitcase-lg"
+  },
+  {
+    "iconClass": "bi bi-suitcase-lg-fill",
+    "iconName": "suitcase-lg-fill"
+  },
+  {
+    "iconClass": "bi bi-suitcase2",
+    "iconName": "suitcase2"
+  },
+  {
+    "iconClass": "bi bi-suitcase2-fill",
+    "iconName": "suitcase2-fill"
+  },
+  {
+    "iconClass": "bi bi-sun",
+    "iconName": "sun"
+  },
+  {
+    "iconClass": "bi bi-sun-fill",
+    "iconName": "sun-fill"
+  },
+  {
+    "iconClass": "bi bi-sunglasses",
+    "iconName": "sunglasses"
+  },
+  {
+    "iconClass": "bi bi-sunrise",
+    "iconName": "sunrise"
+  },
+  {
+    "iconClass": "bi bi-sunrise-fill",
+    "iconName": "sunrise-fill"
+  },
+  {
+    "iconClass": "bi bi-sunset",
+    "iconName": "sunset"
+  },
+  {
+    "iconClass": "bi bi-sunset-fill",
+    "iconName": "sunset-fill"
+  },
+  {
+    "iconClass": "bi bi-superscript",
+    "iconName": "superscript"
+  },
+  {
+    "iconClass": "bi bi-symmetry-horizontal",
+    "iconName": "symmetry-horizontal"
+  },
+  {
+    "iconClass": "bi bi-symmetry-vertical",
+    "iconName": "symmetry-vertical"
+  },
+  {
+    "iconClass": "bi bi-table",
+    "iconName": "table"
+  },
+  {
+    "iconClass": "bi bi-tablet",
+    "iconName": "tablet"
+  },
+  {
+    "iconClass": "bi bi-tablet-fill",
+    "iconName": "tablet-fill"
+  },
+  {
+    "iconClass": "bi bi-tablet-landscape",
+    "iconName": "tablet-landscape"
+  },
+  {
+    "iconClass": "bi bi-tablet-landscape-fill",
+    "iconName": "tablet-landscape-fill"
+  },
+  {
+    "iconClass": "bi bi-tag",
+    "iconName": "tag"
+  },
+  {
+    "iconClass": "bi bi-tag-fill",
+    "iconName": "tag-fill"
+  },
+  {
+    "iconClass": "bi bi-tags",
+    "iconName": "tags"
+  },
+  {
+    "iconClass": "bi bi-tags-fill",
+    "iconName": "tags-fill"
+  },
+  {
+    "iconClass": "bi bi-taxi-front",
+    "iconName": "taxi-front"
+  },
+  {
+    "iconClass": "bi bi-taxi-front-fill",
+    "iconName": "taxi-front-fill"
+  },
+  {
+    "iconClass": "bi bi-telegram",
+    "iconName": "telegram"
+  },
+  {
+    "iconClass": "bi bi-telephone",
+    "iconName": "telephone"
+  },
+  {
+    "iconClass": "bi bi-telephone-fill",
+    "iconName": "telephone-fill"
+  },
+  {
+    "iconClass": "bi bi-telephone-forward",
+    "iconName": "telephone-forward"
+  },
+  {
+    "iconClass": "bi bi-telephone-forward-fill",
+    "iconName": "telephone-forward-fill"
+  },
+  {
+    "iconClass": "bi bi-telephone-inbound",
+    "iconName": "telephone-inbound"
+  },
+  {
+    "iconClass": "bi bi-telephone-inbound-fill",
+    "iconName": "telephone-inbound-fill"
+  },
+  {
+    "iconClass": "bi bi-telephone-minus",
+    "iconName": "telephone-minus"
+  },
+  {
+    "iconClass": "bi bi-telephone-minus-fill",
+    "iconName": "telephone-minus-fill"
+  },
+  {
+    "iconClass": "bi bi-telephone-outbound",
+    "iconName": "telephone-outbound"
+  },
+  {
+    "iconClass": "bi bi-telephone-outbound-fill",
+    "iconName": "telephone-outbound-fill"
+  },
+  {
+    "iconClass": "bi bi-telephone-plus",
+    "iconName": "telephone-plus"
+  },
+  {
+    "iconClass": "bi bi-telephone-plus-fill",
+    "iconName": "telephone-plus-fill"
+  },
+  {
+    "iconClass": "bi bi-telephone-x",
+    "iconName": "telephone-x"
+  },
+  {
+    "iconClass": "bi bi-telephone-x-fill",
+    "iconName": "telephone-x-fill"
+  },
+  {
+    "iconClass": "bi bi-tencent-qq",
+    "iconName": "tencent-qq"
+  },
+  {
+    "iconClass": "bi bi-terminal",
+    "iconName": "terminal"
+  },
+  {
+    "iconClass": "bi bi-terminal-dash",
+    "iconName": "terminal-dash"
+  },
+  {
+    "iconClass": "bi bi-terminal-fill",
+    "iconName": "terminal-fill"
+  },
+  {
+    "iconClass": "bi bi-terminal-plus",
+    "iconName": "terminal-plus"
+  },
+  {
+    "iconClass": "bi bi-terminal-split",
+    "iconName": "terminal-split"
+  },
+  {
+    "iconClass": "bi bi-terminal-x",
+    "iconName": "terminal-x"
+  },
+  {
+    "iconClass": "bi bi-text-center",
+    "iconName": "text-center"
+  },
+  {
+    "iconClass": "bi bi-text-indent-left",
+    "iconName": "text-indent-left"
+  },
+  {
+    "iconClass": "bi bi-text-indent-right",
+    "iconName": "text-indent-right"
+  },
+  {
+    "iconClass": "bi bi-text-left",
+    "iconName": "text-left"
+  },
+  {
+    "iconClass": "bi bi-text-paragraph",
+    "iconName": "text-paragraph"
+  },
+  {
+    "iconClass": "bi bi-text-right",
+    "iconName": "text-right"
+  },
+  {
+    "iconClass": "bi bi-text-wrap",
+    "iconName": "text-wrap"
+  },
+  {
+    "iconClass": "bi bi-textarea",
+    "iconName": "textarea"
+  },
+  {
+    "iconClass": "bi bi-textarea-resize",
+    "iconName": "textarea-resize"
+  },
+  {
+    "iconClass": "bi bi-textarea-t",
+    "iconName": "textarea-t"
+  },
+  {
+    "iconClass": "bi bi-thermometer",
+    "iconName": "thermometer"
+  },
+  {
+    "iconClass": "bi bi-thermometer-half",
+    "iconName": "thermometer-half"
+  },
+  {
+    "iconClass": "bi bi-thermometer-high",
+    "iconName": "thermometer-high"
+  },
+  {
+    "iconClass": "bi bi-thermometer-low",
+    "iconName": "thermometer-low"
+  },
+  {
+    "iconClass": "bi bi-thermometer-snow",
+    "iconName": "thermometer-snow"
+  },
+  {
+    "iconClass": "bi bi-thermometer-sun",
+    "iconName": "thermometer-sun"
+  },
+  {
+    "iconClass": "bi bi-threads",
+    "iconName": "threads"
+  },
+  {
+    "iconClass": "bi bi-threads-fill",
+    "iconName": "threads-fill"
+  },
+  {
+    "iconClass": "bi bi-three-dots",
+    "iconName": "three-dots"
+  },
+  {
+    "iconClass": "bi bi-three-dots-vertical",
+    "iconName": "three-dots-vertical"
+  },
+  {
+    "iconClass": "bi bi-thunderbolt",
+    "iconName": "thunderbolt"
+  },
+  {
+    "iconClass": "bi bi-thunderbolt-fill",
+    "iconName": "thunderbolt-fill"
+  },
+  {
+    "iconClass": "bi bi-ticket",
+    "iconName": "ticket"
+  },
+  {
+    "iconClass": "bi bi-ticket-detailed",
+    "iconName": "ticket-detailed"
+  },
+  {
+    "iconClass": "bi bi-ticket-detailed-fill",
+    "iconName": "ticket-detailed-fill"
+  },
+  {
+    "iconClass": "bi bi-ticket-fill",
+    "iconName": "ticket-fill"
+  },
+  {
+    "iconClass": "bi bi-ticket-perforated",
+    "iconName": "ticket-perforated"
+  },
+  {
+    "iconClass": "bi bi-ticket-perforated-fill",
+    "iconName": "ticket-perforated-fill"
+  },
+  {
+    "iconClass": "bi bi-tiktok",
+    "iconName": "tiktok"
+  },
+  {
+    "iconClass": "bi bi-toggle-off",
+    "iconName": "toggle-off"
+  },
+  {
+    "iconClass": "bi bi-toggle-on",
+    "iconName": "toggle-on"
+  },
+  {
+    "iconClass": "bi bi-toggle2-off",
+    "iconName": "toggle2-off"
+  },
+  {
+    "iconClass": "bi bi-toggle2-on",
+    "iconName": "toggle2-on"
+  },
+  {
+    "iconClass": "bi bi-toggles",
+    "iconName": "toggles"
+  },
+  {
+    "iconClass": "bi bi-toggles2",
+    "iconName": "toggles2"
+  },
+  {
+    "iconClass": "bi bi-tools",
+    "iconName": "tools"
+  },
+  {
+    "iconClass": "bi bi-tornado",
+    "iconName": "tornado"
+  },
+  {
+    "iconClass": "bi bi-train-freight-front",
+    "iconName": "train-freight-front"
+  },
+  {
+    "iconClass": "bi bi-train-freight-front-fill",
+    "iconName": "train-freight-front-fill"
+  },
+  {
+    "iconClass": "bi bi-train-front",
+    "iconName": "train-front"
+  },
+  {
+    "iconClass": "bi bi-train-front-fill",
+    "iconName": "train-front-fill"
+  },
+  {
+    "iconClass": "bi bi-train-lightrail-front",
+    "iconName": "train-lightrail-front"
+  },
+  {
+    "iconClass": "bi bi-train-lightrail-front-fill",
+    "iconName": "train-lightrail-front-fill"
+  },
+  {
+    "iconClass": "bi bi-translate",
+    "iconName": "translate"
+  },
+  {
+    "iconClass": "bi bi-transparency",
+    "iconName": "transparency"
+  },
+  {
+    "iconClass": "bi bi-trash",
+    "iconName": "trash"
+  },
+  {
+    "iconClass": "bi bi-trash-fill",
+    "iconName": "trash-fill"
+  },
+  {
+    "iconClass": "bi bi-trash2",
+    "iconName": "trash2"
+  },
+  {
+    "iconClass": "bi bi-trash2-fill",
+    "iconName": "trash2-fill"
+  },
+  {
+    "iconClass": "bi bi-trash3",
+    "iconName": "trash3"
+  },
+  {
+    "iconClass": "bi bi-trash3-fill",
+    "iconName": "trash3-fill"
+  },
+  {
+    "iconClass": "bi bi-tree",
+    "iconName": "tree"
+  },
+  {
+    "iconClass": "bi bi-tree-fill",
+    "iconName": "tree-fill"
+  },
+  {
+    "iconClass": "bi bi-trello",
+    "iconName": "trello"
+  },
+  {
+    "iconClass": "bi bi-triangle",
+    "iconName": "triangle"
+  },
+  {
+    "iconClass": "bi bi-triangle-fill",
+    "iconName": "triangle-fill"
+  },
+  {
+    "iconClass": "bi bi-triangle-half",
+    "iconName": "triangle-half"
+  },
+  {
+    "iconClass": "bi bi-trophy",
+    "iconName": "trophy"
+  },
+  {
+    "iconClass": "bi bi-trophy-fill",
+    "iconName": "trophy-fill"
+  },
+  {
+    "iconClass": "bi bi-tropical-storm",
+    "iconName": "tropical-storm"
+  },
+  {
+    "iconClass": "bi bi-truck",
+    "iconName": "truck"
+  },
+  {
+    "iconClass": "bi bi-truck-flatbed",
+    "iconName": "truck-flatbed"
+  },
+  {
+    "iconClass": "bi bi-truck-front",
+    "iconName": "truck-front"
+  },
+  {
+    "iconClass": "bi bi-truck-front-fill",
+    "iconName": "truck-front-fill"
+  },
+  {
+    "iconClass": "bi bi-tsunami",
+    "iconName": "tsunami"
+  },
+  {
+    "iconClass": "bi bi-tv",
+    "iconName": "tv"
+  },
+  {
+    "iconClass": "bi bi-tv-fill",
+    "iconName": "tv-fill"
+  },
+  {
+    "iconClass": "bi bi-twitch",
+    "iconName": "twitch"
+  },
+  {
+    "iconClass": "bi bi-twitter",
+    "iconName": "twitter"
+  },
+  {
+    "iconClass": "bi bi-twitter-x",
+    "iconName": "twitter-x"
+  },
+  {
+    "iconClass": "bi bi-type",
+    "iconName": "type"
+  },
+  {
+    "iconClass": "bi bi-type-bold",
+    "iconName": "type-bold"
+  },
+  {
+    "iconClass": "bi bi-type-h1",
+    "iconName": "type-h1"
+  },
+  {
+    "iconClass": "bi bi-type-h2",
+    "iconName": "type-h2"
+  },
+  {
+    "iconClass": "bi bi-type-h3",
+    "iconName": "type-h3"
+  },
+  {
+    "iconClass": "bi bi-type-h4",
+    "iconName": "type-h4"
+  },
+  {
+    "iconClass": "bi bi-type-h5",
+    "iconName": "type-h5"
+  },
+  {
+    "iconClass": "bi bi-type-h6",
+    "iconName": "type-h6"
+  },
+  {
+    "iconClass": "bi bi-type-italic",
+    "iconName": "type-italic"
+  },
+  {
+    "iconClass": "bi bi-type-strikethrough",
+    "iconName": "type-strikethrough"
+  },
+  {
+    "iconClass": "bi bi-type-underline",
+    "iconName": "type-underline"
+  },
+  {
+    "iconClass": "bi bi-ubuntu",
+    "iconName": "ubuntu"
+  },
+  {
+    "iconClass": "bi bi-ui-checks",
+    "iconName": "ui-checks"
+  },
+  {
+    "iconClass": "bi bi-ui-checks-grid",
+    "iconName": "ui-checks-grid"
+  },
+  {
+    "iconClass": "bi bi-ui-radios",
+    "iconName": "ui-radios"
+  },
+  {
+    "iconClass": "bi bi-ui-radios-grid",
+    "iconName": "ui-radios-grid"
+  },
+  {
+    "iconClass": "bi bi-umbrella",
+    "iconName": "umbrella"
+  },
+  {
+    "iconClass": "bi bi-umbrella-fill",
+    "iconName": "umbrella-fill"
+  },
+  {
+    "iconClass": "bi bi-unindent",
+    "iconName": "unindent"
+  },
+  {
+    "iconClass": "bi bi-union",
+    "iconName": "union"
+  },
+  {
+    "iconClass": "bi bi-unity",
+    "iconName": "unity"
+  },
+  {
+    "iconClass": "bi bi-universal-access",
+    "iconName": "universal-access"
+  },
+  {
+    "iconClass": "bi bi-universal-access-circle",
+    "iconName": "universal-access-circle"
+  },
+  {
+    "iconClass": "bi bi-unlock",
+    "iconName": "unlock"
+  },
+  {
+    "iconClass": "bi bi-unlock-fill",
+    "iconName": "unlock-fill"
+  },
+  {
+    "iconClass": "bi bi-upc",
+    "iconName": "upc"
+  },
+  {
+    "iconClass": "bi bi-upc-scan",
+    "iconName": "upc-scan"
+  },
+  {
+    "iconClass": "bi bi-upload",
+    "iconName": "upload"
+  },
+  {
+    "iconClass": "bi bi-usb",
+    "iconName": "usb"
+  },
+  {
+    "iconClass": "bi bi-usb-c",
+    "iconName": "usb-c"
+  },
+  {
+    "iconClass": "bi bi-usb-c-fill",
+    "iconName": "usb-c-fill"
+  },
+  {
+    "iconClass": "bi bi-usb-drive",
+    "iconName": "usb-drive"
+  },
+  {
+    "iconClass": "bi bi-usb-drive-fill",
+    "iconName": "usb-drive-fill"
+  },
+  {
+    "iconClass": "bi bi-usb-fill",
+    "iconName": "usb-fill"
+  },
+  {
+    "iconClass": "bi bi-usb-micro",
+    "iconName": "usb-micro"
+  },
+  {
+    "iconClass": "bi bi-usb-micro-fill",
+    "iconName": "usb-micro-fill"
+  },
+  {
+    "iconClass": "bi bi-usb-mini",
+    "iconName": "usb-mini"
+  },
+  {
+    "iconClass": "bi bi-usb-mini-fill",
+    "iconName": "usb-mini-fill"
+  },
+  {
+    "iconClass": "bi bi-usb-plug",
+    "iconName": "usb-plug"
+  },
+  {
+    "iconClass": "bi bi-usb-plug-fill",
+    "iconName": "usb-plug-fill"
+  },
+  {
+    "iconClass": "bi bi-usb-symbol",
+    "iconName": "usb-symbol"
+  },
+  {
+    "iconClass": "bi bi-valentine",
+    "iconName": "valentine"
+  },
+  {
+    "iconClass": "bi bi-valentine2",
+    "iconName": "valentine2"
+  },
+  {
+    "iconClass": "bi bi-vector-pen",
+    "iconName": "vector-pen"
+  },
+  {
+    "iconClass": "bi bi-view-list",
+    "iconName": "view-list"
+  },
+  {
+    "iconClass": "bi bi-view-stacked",
+    "iconName": "view-stacked"
+  },
+  {
+    "iconClass": "bi bi-vignette",
+    "iconName": "vignette"
+  },
+  {
+    "iconClass": "bi bi-vimeo",
+    "iconName": "vimeo"
+  },
+  {
+    "iconClass": "bi bi-vinyl",
+    "iconName": "vinyl"
+  },
+  {
+    "iconClass": "bi bi-vinyl-fill",
+    "iconName": "vinyl-fill"
+  },
+  {
+    "iconClass": "bi bi-virus",
+    "iconName": "virus"
+  },
+  {
+    "iconClass": "bi bi-virus2",
+    "iconName": "virus2"
+  },
+  {
+    "iconClass": "bi bi-voicemail",
+    "iconName": "voicemail"
+  },
+  {
+    "iconClass": "bi bi-volume-down",
+    "iconName": "volume-down"
+  },
+  {
+    "iconClass": "bi bi-volume-down-fill",
+    "iconName": "volume-down-fill"
+  },
+  {
+    "iconClass": "bi bi-volume-mute",
+    "iconName": "volume-mute"
+  },
+  {
+    "iconClass": "bi bi-volume-mute-fill",
+    "iconName": "volume-mute-fill"
+  },
+  {
+    "iconClass": "bi bi-volume-off",
+    "iconName": "volume-off"
+  },
+  {
+    "iconClass": "bi bi-volume-off-fill",
+    "iconName": "volume-off-fill"
+  },
+  {
+    "iconClass": "bi bi-volume-up",
+    "iconName": "volume-up"
+  },
+  {
+    "iconClass": "bi bi-volume-up-fill",
+    "iconName": "volume-up-fill"
+  },
+  {
+    "iconClass": "bi bi-vr",
+    "iconName": "vr"
+  },
+  {
+    "iconClass": "bi bi-wallet",
+    "iconName": "wallet"
+  },
+  {
+    "iconClass": "bi bi-wallet-fill",
+    "iconName": "wallet-fill"
+  },
+  {
+    "iconClass": "bi bi-wallet2",
+    "iconName": "wallet2"
+  },
+  {
+    "iconClass": "bi bi-watch",
+    "iconName": "watch"
+  },
+  {
+    "iconClass": "bi bi-water",
+    "iconName": "water"
+  },
+  {
+    "iconClass": "bi bi-webcam",
+    "iconName": "webcam"
+  },
+  {
+    "iconClass": "bi bi-webcam-fill",
+    "iconName": "webcam-fill"
+  },
+  {
+    "iconClass": "bi bi-wechat",
+    "iconName": "wechat"
+  },
+  {
+    "iconClass": "bi bi-whatsapp",
+    "iconName": "whatsapp"
+  },
+  {
+    "iconClass": "bi bi-wifi",
+    "iconName": "wifi"
+  },
+  {
+    "iconClass": "bi bi-wifi-1",
+    "iconName": "wifi-1"
+  },
+  {
+    "iconClass": "bi bi-wifi-2",
+    "iconName": "wifi-2"
+  },
+  {
+    "iconClass": "bi bi-wifi-off",
+    "iconName": "wifi-off"
+  },
+  {
+    "iconClass": "bi bi-wikipedia",
+    "iconName": "wikipedia"
+  },
+  {
+    "iconClass": "bi bi-wind",
+    "iconName": "wind"
+  },
+  {
+    "iconClass": "bi bi-window",
+    "iconName": "window"
+  },
+  {
+    "iconClass": "bi bi-window-dash",
+    "iconName": "window-dash"
+  },
+  {
+    "iconClass": "bi bi-window-desktop",
+    "iconName": "window-desktop"
+  },
+  {
+    "iconClass": "bi bi-window-dock",
+    "iconName": "window-dock"
+  },
+  {
+    "iconClass": "bi bi-window-fullscreen",
+    "iconName": "window-fullscreen"
+  },
+  {
+    "iconClass": "bi bi-window-plus",
+    "iconName": "window-plus"
+  },
+  {
+    "iconClass": "bi bi-window-sidebar",
+    "iconName": "window-sidebar"
+  },
+  {
+    "iconClass": "bi bi-window-split",
+    "iconName": "window-split"
+  },
+  {
+    "iconClass": "bi bi-window-stack",
+    "iconName": "window-stack"
+  },
+  {
+    "iconClass": "bi bi-window-x",
+    "iconName": "window-x"
+  },
+  {
+    "iconClass": "bi bi-windows",
+    "iconName": "windows"
+  },
+  {
+    "iconClass": "bi bi-wordpress",
+    "iconName": "wordpress"
+  },
+  {
+    "iconClass": "bi bi-wrench",
+    "iconName": "wrench"
+  },
+  {
+    "iconClass": "bi bi-wrench-adjustable",
+    "iconName": "wrench-adjustable"
+  },
+  {
+    "iconClass": "bi bi-wrench-adjustable-circle",
+    "iconName": "wrench-adjustable-circle"
+  },
+  {
+    "iconClass": "bi bi-wrench-adjustable-circle-fill",
+    "iconName": "wrench-adjustable-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-x",
+    "iconName": "x"
+  },
+  {
+    "iconClass": "bi bi-x-circle",
+    "iconName": "x-circle"
+  },
+  {
+    "iconClass": "bi bi-x-circle-fill",
+    "iconName": "x-circle-fill"
+  },
+  {
+    "iconClass": "bi bi-x-diamond",
+    "iconName": "x-diamond"
+  },
+  {
+    "iconClass": "bi bi-x-diamond-fill",
+    "iconName": "x-diamond-fill"
+  },
+  {
+    "iconClass": "bi bi-x-lg",
+    "iconName": "x-lg"
+  },
+  {
+    "iconClass": "bi bi-x-octagon",
+    "iconName": "x-octagon"
+  },
+  {
+    "iconClass": "bi bi-x-octagon-fill",
+    "iconName": "x-octagon-fill"
+  },
+  {
+    "iconClass": "bi bi-x-square",
+    "iconName": "x-square"
+  },
+  {
+    "iconClass": "bi bi-x-square-fill",
+    "iconName": "x-square-fill"
+  },
+  {
+    "iconClass": "bi bi-xbox",
+    "iconName": "xbox"
+  },
+  {
+    "iconClass": "bi bi-yelp",
+    "iconName": "yelp"
+  },
+  {
+    "iconClass": "bi bi-yin-yang",
+    "iconName": "yin-yang"
+  },
+  {
+    "iconClass": "bi bi-youtube",
+    "iconName": "youtube"
+  },
+  {
+    "iconClass": "bi bi-zoom-in",
+    "iconName": "zoom-in"
+  },
+  {
+    "iconClass": "bi bi-zoom-out",
+    "iconName": "zoom-out"
+  }
+]
