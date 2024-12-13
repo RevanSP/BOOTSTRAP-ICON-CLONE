@@ -196,6 +196,12 @@
 
       renderIcons(data);
 
+      searchInput.addEventListener('keydown', (event) => {
+        if (event.key === 'Enter') {
+          event.preventDefault(); 
+        }
+      });
+
       searchInput.addEventListener('input', () => {
         const searchQuery = searchInput.value.toLowerCase();
         const filteredIcons = data.filter(icon => 
