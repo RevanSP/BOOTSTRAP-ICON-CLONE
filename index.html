@@ -103,6 +103,7 @@
   <ul id="icons-list" class="row row-cols-3 row-cols-sm-4 row-cols-lg-6 row-cols-xl-8 list-unstyled list">
     <!-- Icons will be added here dynamically -->
   </ul>
+  <div id="no-results"></div> 
 </div>
 <h2 id="install">Install</h2>
 <p>Bootstrap Icons are published to npm, but they can also be manually downloaded if needed.</p>
@@ -150,37 +151,57 @@
     .then(response => response.json()) 
     .then(data => {
       const iconsList = document.getElementById('icons-list');
+      const searchInput = document.getElementById('search');
+      const noResultsMessage = document.getElementById('no-results');
 
-      data.forEach(icon => {
-        const listItem = document.createElement('li');
-        listItem.classList.add('col', 'mb-4');
+      function renderIcons(icons) {
+        iconsList.innerHTML = '';
+        if (icons.length === 0) {
+          noResultsMessage.style.display = 'block'; 
+        } else {
+          noResultsMessage.style.display = 'none'; 
+          icons.forEach(icon => {
+            const listItem = document.createElement('li');
+            listItem.classList.add('col', 'mb-4');
 
-        const iconDiv = document.createElement('div');
-        iconDiv.classList.add('px-3', 'py-4', 'mb-2', 'bg-body-secondary', 'text-center', 'rounded');
-        const iconElement = document.createElement('i');
-        iconElement.classList.add(...icon.iconClass.split(' ')); 
-        iconDiv.appendChild(iconElement);
-
-        const nameDiv = document.createElement('div');
-        nameDiv.classList.add('name', 'text-muted', 'text-decoration-none', 'text-center', 'pt-1');
-        nameDiv.textContent = icon.iconName;
-
-        listItem.appendChild(iconDiv);
-        listItem.appendChild(nameDiv);
-
-        listItem.addEventListener('click', () => {
-          copyToClipboard(icon.iconName);
-
-          iconElement.classList.remove(...icon.iconClass.split(' '));  
-          iconElement.classList.add('bi-check-circle-fill', 'text-success'); 
-
-          setTimeout(() => {
-            iconElement.classList.remove('bi-check-circle-fill', 'text-success');
+            const iconDiv = document.createElement('div');
+            iconDiv.classList.add('px-3', 'py-4', 'mb-2', 'bg-body-secondary', 'text-center', 'rounded');
+            const iconElement = document.createElement('i');
             iconElement.classList.add(...icon.iconClass.split(' ')); 
-          }, 1500);  
-        });
+            iconDiv.appendChild(iconElement);
 
-        iconsList.appendChild(listItem);
+            const nameDiv = document.createElement('div');
+            nameDiv.classList.add('name', 'text-muted', 'text-decoration-none', 'text-center', 'pt-1');
+            nameDiv.textContent = icon.iconName;
+
+            listItem.appendChild(iconDiv);
+            listItem.appendChild(nameDiv);
+
+            listItem.addEventListener('click', () => {
+              copyToClipboard(icon.iconName);
+
+              iconElement.classList.remove(...icon.iconClass.split(' '));  
+              iconElement.classList.add('bi-check-circle-fill', 'text-success'); 
+
+              setTimeout(() => {
+                iconElement.classList.remove('bi-check-circle-fill', 'text-success');
+                iconElement.classList.add(...icon.iconClass.split(' ')); 
+              }, 1500);  
+            });
+
+            iconsList.appendChild(listItem);
+          });
+        }
+      }
+
+      renderIcons(data);
+
+      searchInput.addEventListener('input', () => {
+        const searchQuery = searchInput.value.toLowerCase();
+        const filteredIcons = data.filter(icon => 
+          icon.iconName.toLowerCase().includes(searchQuery)
+        );
+        renderIcons(filteredIcons);
       });
     })
     .catch(error => console.error('Error loading icons:', error));
